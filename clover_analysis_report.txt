@@ -1,4 +1,4 @@
-Test lattice
+Clover analysis: test lattice
 64^3x128 iso, m_pi ~ 170 MeV, a~0.091fm.
 
 Timings on Titan:
