@@ -1,0 +1,113 @@
+From: Balint Joo <bjoo@jlab.org>
+Subject: Summit Numbers: 
+Date: March 29, 2018 at 2:20:03 PM EDT
+To: Robert Edwards <edwards@jlab.org>
+
+Hi Robert, 
+Here are the summit numbers:
+
+64 GPUs on 16 Summit Nodes (4 GPUs/node)
+====================================
+Light Quark: 
+
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.859729 s	Performance=36430.6806673452 GFLOPS	Total Time (incl. load gauge)=0.903124 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.832269 s	Performance=37655.3647854528 GFLOPS	Total Time (incl. load gauge)=0.867502 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.795821 s	Performance=37633.9273364035 GFLOPS	Total Time (incl. load gauge)=0.830951 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.79344 s	Performance=37724.2918252873 GFLOPS	Total Time (incl. load gauge)=0.82713 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.833729 s	Performance=37581.6482016387 GFLOPS	Total Time (incl. load gauge)=0.867697 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.87149 s	Performance=37553.2305815924 GFLOPS	Total Time (incl. load gauge)=0.904752 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.793511 s	Performance=37747.5929556818 GFLOPS	Total Time (incl. load gauge)=0.827199 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.833875 s	Performance=37575.0681738918 GFLOPS	Total Time (incl. load gauge)=0.868433 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.839078 s	Performance=37701.8281455026 GFLOPS	Total Time (incl. load gauge)=0.872439 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.868686 s	Performance=37619.7519516143 GFLOPS	Total Time (incl. load gauge)=0.902341 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.831273 s	Performance=37694.5533987318 GFLOPS	Total Time (incl. load gauge)=0.86458 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.834381 s	Performance=37560.0508576106 GFLOPS	Total Time (incl. load gauge)=0.867322 s
+Propagator computed: time= 52.537755 secs
+
+Strange Quark:
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.299774 s	Performance=42228.422221647 GFLOPS	Total Time (incl. load gauge)=0.355172 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279983 s	Performance=45256.4941696603 GFLOPS	Total Time (incl. load gauge)=0.336721 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281093 s	Performance=45077.7821116285 GFLOPS	Total Time (incl. load gauge)=0.401288 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279417 s	Performance=45348.1678176489 GFLOPS	Total Time (incl. load gauge)=0.33478 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281172 s	Performance=45065.1167509709 GFLOPS	Total Time (incl. load gauge)=0.349659 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.283843 s	Performance=44652.4761116533 GFLOPS	Total Time (incl. load gauge)=0.339229 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279595 s	Performance=45319.2975808008 GFLOPS	Total Time (incl. load gauge)=0.334811 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281116 s	Performance=45074.093993597 GFLOPS	Total Time (incl. load gauge)=0.336443 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.282814 s	Performance=44814.9411873528 GFLOPS	Total Time (incl. load gauge)=0.337799 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279843 s	Performance=45279.1351118449 GFLOPS	Total Time (incl. load gauge)=0.334693 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281011 s	Performance=45090.9359672895 GFLOPS	Total Time (incl. load gauge)=0.336142 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281858 s	Performance=44955.4350314839 GFLOPS	Total Time (incl. load gauge)=0.336871 s
+Propagator computed: time= 21.025421 secs
+
+Summit On 128 GPUs, (32 nodes, like the gauge gen):
+=========================================
+Light Quark
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.700266 s	Performance=44726.5934080135 GFLOPS	Total Time (incl. load gauge)=0.734605 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.671433 s	Performance=46682.5798446487 GFLOPS	Total Time (incl. load gauge)=0.699304 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.638847 s	Performance=46878.6111895712 GFLOPS	Total Time (incl. load gauge)=0.665815 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.636171 s	Performance=47050.183214664 GFLOPS	Total Time (incl. load gauge)=0.663649 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.700065 s	Performance=46746.5363025433 GFLOPS	Total Time (incl. load gauge)=0.723576 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.697505 s	Performance=46920.4735730238 GFLOPS	Total Time (incl. load gauge)=0.724942 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.638088 s	Performance=46936.8690675393 GFLOPS	Total Time (incl. load gauge)=0.665462 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.667899 s	Performance=46912.6469324015 GFLOPS	Total Time (incl. load gauge)=0.695667 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.676398 s	Performance=46769.467911898 GFLOPS	Total Time (incl. load gauge)=0.703642 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.695023 s	Performance=47031.3189972476 GFLOPS	Total Time (incl. load gauge)=0.721757 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.6694 s	Performance=46804.8869994622 GFLOPS	Total Time (incl. load gauge)=0.696334 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.666756 s	Performance=47010.037604209 GFLOPS	Total Time (incl. load gauge)=0.694366 s
+Propagator computed: time= 35.550444 secs
+
+Strange Quarks. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.210311 s	Performance=60191.730547009 GFLOPS	Total Time (incl. load gauge)=0.249908 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.200775 s	Performance=63110.6911074785 GFLOPS	Total Time (incl. load gauge)=0.236828 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.206467 s	Performance=61370.8195842629 GFLOPS	Total Time (incl. load gauge)=0.246005 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.20477 s	Performance=61879.4208482883 GFLOPS	Total Time (incl. load gauge)=0.244038 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.201643 s	Performance=62839.0224659621 GFLOPS	Total Time (incl. load gauge)=0.240921 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.202993 s	Performance=62421.1130783032 GFLOPS	Total Time (incl. load gauge)=0.242276 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.203263 s	Performance=62338.1973458229 GFLOPS	Total Time (incl. load gauge)=0.242101 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.204625 s	Performance=61923.2694299524 GFLOPS	Total Time (incl. load gauge)=0.243708 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.202756 s	Performance=62494.0766591568 GFLOPS	Total Time (incl. load gauge)=0.241295 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.202228 s	Performance=62657.2433446605 GFLOPS	Total Time (incl. load gauge)=0.240943 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.189607 s	Performance=61152.4283831715 GFLOPS	Total Time (incl. load gauge)=0.229789 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.218122 s	Performance=58091.5680541348 GFLOPS	Total Time (incl. load gauge)=0.25805 s
+
+NB: On Titan on 128 GPUs, I recall the ight quark was around 3.3 sec or so. 
+So the boost you are getting here is about 3.3/0.7 = 4.71x on light, and 
+1.16/0.20 = 5.8x on the strange.  This is also borne out in the flops. THe light 
+quark on Titan on 128 GPUs is about 9.6-9.8TF wheres here it is about 47 TF
+so that is close to a 4.7x speedup. On Titan the strange was at 11TF, where here
+it is at about 61TF or so, so close to 5.5x ish. 
+
+My surmise is that the lighter quark spends more time on the coarser levels
+which may be less bandwidth bound (or rather more latency bound).
+
+For FOM you probably want to go with the 64 GPU number, which gives
+on average 
+
+light: 0.832273 sec/component     or: 0.866956  sec/component (using the incl.load gauge) column
+
+This to be compared with, Titan
+light: 3.29708 sec/component      or: 3.34722 sec/component  (using the incl.load.gauge columnt)
+
+So a speedup of:
+(3.29708 / 0.832273) x (128 / 64 ) = 7.92x
+
+or
+(3.34722 / 0.866956 ) x ( 128 / 64 ) = 7.72x
+(using the incl.load.gauge column)
+
+
+Best, 
+B
+
+
+
+--------------------------------------------------------------------------------------
+Dr Balint Joo              High Performance Computational Scientist
+Jefferson Lab
+12000 Jefferson Ave, Suite 3, MS 12B2, Room F217,
+Newport News, VA 23606, USA
+Tel: +1-757-269-5339,      Fax: +1-757-269-5427
+email: bjoo@jlab.org       
+-------------------------------------------------------------------------------------
+
+

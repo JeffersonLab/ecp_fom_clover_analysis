@@ -1,0 +1,3284 @@
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235800 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253620 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235800 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253620 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235800 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253620 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235800 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253620 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230042 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256011 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230042 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256011 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230042 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256011 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230042 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256011 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 251985 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 240060 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 251985 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 240060 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 251985 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 240060 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 251985 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 240060 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233947 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 254329 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233947 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 254329 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233947 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 254329 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233947 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 254329 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233232 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255185 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233232 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255185 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233232 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255185 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233232 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255185 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232465 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255828 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232465 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255828 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232465 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255828 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232465 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255828 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 252433 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236546 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 252433 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236546 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 252433 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236546 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 252433 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236546 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233250 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 252455 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233250 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 252455 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233250 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 252455 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 233250 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 252455 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235318 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253459 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235318 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253459 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235318 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253459 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 235318 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253459 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231682 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253027 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231682 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253027 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231682 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253027 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231682 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 253027 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232936 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255646 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232936 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255646 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232936 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255646 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232936 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255646 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231780 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256320 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231780 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256320 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231780 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256320 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231780 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 256320 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230235 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257801 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230235 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257801 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230235 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257801 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 230235 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257801 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231385 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257191 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231385 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257191 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231385 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257191 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 231385 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 257191 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232486 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236418 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232486 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236418 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232486 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236418 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232486 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 236418 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16126 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16128 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16128 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16128 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16128 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16128 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232329 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255922 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232329 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255922 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232329 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255922 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+available: 8 nodes (0,8,250-255)
+node 0 cpus: 0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76 80 84
+node 0 size: 260752 MB
+node 0 free: 232329 MB
+node 8 cpus: 88 92 96 100 104 108 112 116 120 124 128 132 136 140 144 148 152 156 160 164 168 172
+node 8 size: 261747 MB
+node 8 free: 255922 MB
+node 250 cpus:
+node 250 size: 16128 MB
+node 250 free: 16125 MB
+node 251 cpus:
+node 251 size: 16128 MB
+node 251 free: 16127 MB
+node 252 cpus:
+node 252 size: 16128 MB
+node 252 free: 16127 MB
+node 253 cpus:
+node 253 size: 16128 MB
+node 253 free: 16127 MB
+node 254 cpus:
+node 254 size: 16128 MB
+node 254 free: 16127 MB
+node 255 cpus:
+node 255 size: 16128 MB
+node 255 free: 16127 MB
+node distances:
+node   0   8  250  251  252  253  254  255 
+  0:  10  40  80  80  80  80  80  80 
+  8:  40  10  80  80  80  80  80  80 
+ 250:  80  80  10  80  80  80  80  80 
+ 251:  80  80  80  10  80  80  80  80 
+ 252:  80  80  80  80  10  80  80  80 
+ 253:  80  80  80  80  80  10  80  80 
+ 254:  80  80  80  80  80  80  10  80 
+ 255:  80  80  80  80  80  80  80  10 
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+QDP use OpenMP threading. We have 8 threads
+Affinity reporting not implemented for this architecture
+Initialize done
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Peer-to-peer enabled for rank 0 (gpu=0) with neighbor 1 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 0 (gpu=0) with neighbor 1 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 0 (gpu=0) with neighbor 2 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Disabling GPU-Direct RDMA access
+QUDA 0.9.0 (git v0.9.0a1-with_v.0.8_milc_interface-450-g1433ba5-sm_70)
+CUDA Driver version = 9010
+CUDA Runtime version = 9010
+Found device 0: Tesla V100-SXM2-16GB
+Found device 1: Tesla V100-SXM2-16GB
+Found device 2: Tesla V100-SXM2-16GB
+Found device 3: Tesla V100-SXM2-16GB
+Using device 0: Tesla V100-SXM2-16GB
+WARNING: Data reordering done on GPU (set with QUDA_REORDER_LOCATION=GPU/CPU)
+WARNING: Using device memory pool allocator
+WARNING: Using pinned memory pool allocator
+Loaded 352 sets of cached parameters from /ccs/home/bjoo/scratch/PropTest/tunecache.tsv
+Linkage = bool Chroma::MapObjectDiskEnv::registerAll(): registering map obj key colorvec
+0
+InlineMeasurements are: 
+<InlineMeasurements>
+      <elem>
+        <Name>MAKE_SOURCE</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>6</version>
+          <Source>
+            <version>2</version>
+            <SourceType>POINT_SOURCE</SourceType>
+            <j_decay>3</j_decay>
+            <t_srce>0 0 0 0</t_srce>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Source>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>PROPAGATOR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>10</version>
+          <quarkSpinType>FULL</quarkSpinType>
+          <obsvP>false</obsvP>
+          <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>CLOVER</FermAct>
+            <Mass>-0.2416</Mass>
+            <clovCoeff>1.20536588031793</clovCoeff>
+            <AnisoParam>
+              <anisoP>false</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>1</xi_0>
+              <nu>1</nu>
+            </AnisoParam>
+            <FermState>
+              <Name>STOUT_FERM_STATE</Name>
+              <rho>0.125</rho>
+              <n_smear>1</n_smear>
+              <orthog_dir>-1</orthog_dir>
+              <FermionBC>
+                <FermBC>SIMPLE_FERMBC</FermBC>
+                <boundary>1 1 1 -1</boundary>
+              </FermionBC>
+            </FermState>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2416</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1.0e-7</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>4</Pipeline>
+            <MaxIter>500</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_8</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Residual>0.2</Residual>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <RelaxationOmegaMG>1.0</RelaxationOmegaMG>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <MaxIterations>12</MaxIterations>
+              <SmootherType>MR</SmootherType>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_8</Reconstruct>
+              <NullVectors>24 32</NullVectors>
+              <OuterGCRNKrylov>10</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <SetupOnGPU>1</SetupOnGPU>
+              <Pre-SmootherApplications>4 4</Pre-SmootherApplications>
+              <Post-SmootherApplications>4 4</Post-SmootherApplications>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+            </MULTIGRIDParams>
+            <SubspaceID>mg_subspace</SubspaceID>
+          </InvertParam>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+          <prop_id>prop_u_pt</prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>PROPAGATOR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>10</version>
+          <quarkSpinType>FULL</quarkSpinType>
+          <obsvP>false</obsvP>
+          <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>CLOVER</FermAct>
+            <Mass>-0.2050</Mass>
+            <clovCoeff>1.20536588031793</clovCoeff>
+            <AnisoParam>
+              <anisoP>false</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>1</xi_0>
+              <nu>1</nu>
+            </AnisoParam>
+            <FermState>
+              <Name>STOUT_FERM_STATE</Name>
+              <rho>0.125</rho>
+              <n_smear>1</n_smear>
+              <orthog_dir>-1</orthog_dir>
+              <FermionBC>
+                <FermBC>SIMPLE_FERMBC</FermBC>
+                <boundary>1 1 1 -1</boundary>
+              </FermionBC>
+            </FermState>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2050</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1.0e-7</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>4</Pipeline>
+            <MaxIter>500</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_8</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Residual>0.2</Residual>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <RelaxationOmegaMG>1.0</RelaxationOmegaMG>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <MaxIterations>12</MaxIterations>
+              <SmootherType>MR</SmootherType>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_8</Reconstruct>
+              <NullVectors>24 32</NullVectors>
+              <OuterGCRNKrylov>10</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <SetupOnGPU>1</SetupOnGPU>
+              <Pre-SmootherApplications>4 4</Pre-SmootherApplications>
+              <Post-SmootherApplications>4 4</Post-SmootherApplications>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+            </MULTIGRIDParams>
+            <SubspaceID>mg_subspace</SubspaceID>
+          </InvertParam>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+          <prop_id>prop_s_pt</prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>pt_source</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>SINK_SMEAR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>5</version>
+          <Sink>
+            <version>2</version>
+            <SinkType>POINT_SINK</SinkType>
+            <j_decay>3</j_decay>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Sink>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <prop_id>prop_u_pt</prop_id>
+          <smeared_prop_id>prop_u_P</smeared_prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_u_pt</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>SINK_SMEAR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>5</version>
+          <Sink>
+            <version>2</version>
+            <SinkType>POINT_SINK</SinkType>
+            <j_decay>3</j_decay>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Sink>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <prop_id>prop_s_pt</prop_id>
+          <smeared_prop_id>prop_s_P</smeared_prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_s_pt</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_QUDA_MULTIGRID_SUBSPACE</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>mg_subspace</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_u_P</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_s_P</object_id>
+        </NamedObject>
+      </elem>
+    </InlineMeasurements>
+
+Lattice initialized:
+  problem size = 64 64 64 128
+  layout size = 32 64 64 128
+  logical machine size = 1 2 4 8
+  subgrid size = 64 32 16 16
+  total number of nodes = 64
+  total volume = 33554432
+  subgrid volume = 524288
+  Number of IO nodes = 8
+  IO grid size = 1 1 1 8
+Initializing QDPDefaultAllocator.
+Finished init of RNG
+Finished lattice layout
+CHROMA: Attempt to read gauge field
+CHROMA: Gauge initialization: cfg_type = SZINQIO
+Parallel IO read
+Reading Double Precision
+DML_partition_in times: read 0.84  send 14.92  total 20.12
+QIO_read_finished
+CHROMA: Gauge field successfully read: time= 25.885168 secs
+CHROMA: initial plaquette measurement time=4.194641 secs
+CHROMA: There are 11 measurements 
+CHROMA: parsing inline measurements time=0.021266 secs
+CHROMA: Doing 11 measurements
+MAKE_SOURCE: propagator source constructor
+Source = POINT_SOURCE
+Point source
+Link smearing type = NONE
+color = 0
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+color = 1
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+color = 2
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+Attempt to update source
+Source successfully update
+MAKE_SOURCE: total time = 6.526019 secs
+MAKE_SOURCE: ran successfully
+PROPAGATOR: propagator calculation
+Snarf the source from a named buffer
+Source successfully read and parsed
+FermAct = CLOVER
+Try the various factories
+u0 is 1
+Suitable factory found: compute the quark prop
+Calling quarkProp
+In quarkProp()
+  ... constructing linop  ...2.357761 sec
+  ... constructing invLinOp u0 is 1
+tuneDslasP = 1
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating Subspace
+Creating MG subspace.
+Enabling MG Dslash Autotuning
+Setting MULTIGRID solver params
+Set Level 0 blocking as:  4 4 4 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+Basic MULTIGRID params copied.
+Creating vector of null space fields of length 24
+NewMultigridQuda state initialized.
+MULTIGRID preconditioner set.
+After call to newMultigridQuda
+Set Level 0 blocking as:  4 4 4 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+MULTIGrid Param Dump
+QUDA Multigrid Parameters:
+QUDA Inverter Parameters:
+dslash_type = 1
+inv_type = 2
+kappa = 0.5
+tol = 1e-10
+residual_type = 1
+maxiter = 10000
+reliable_delta = 1e-10
+use_sloppy_partial_accumulator = 0
+solution_accumulator_pipeline = 1
+max_res_increase = 1
+max_res_increase_total = 10
+heavy_quark_check = 10
+pipeline = 0
+num_offset = 0
+num_src = 1
+overlap = 0
+compute_action = 0
+compute_true_res = 1
+solution_type = 0
+solve_type = 0
+matpc_type = 1
+dagger = 0
+mass_normalization = 0
+solver_normalization = 0
+preserve_source = 0
+cpu_prec = 8
+cuda_prec = 8
+input_location = 1
+output_location = 1
+clover_location = 1
+gamma_basis = 0
+dirac_order = 1
+sp_pad = 0
+gcrNkrylov = 10
+use_init_guess = 0
+omega = 1
+clover_cpu_prec = 8
+clover_cuda_prec = 8
+compute_clover_trlog = 0
+compute_clover = 0
+compute_clover_inverse = 0
+return_clover = 0
+return_clover_inverse = 0
+clover_rho = 0
+clover_order = 5
+cl_pad = 0
+clover_coeff = 1
+verbosity = 2
+iter = 0
+gflops = 0
+secs = 0
+cuda_prec_ritz = 4
+nev = 8
+max_search_dim = 64
+rhs_idx = 0
+deflation_grid = 1
+eigcg_max_restarts = 4
+max_restart_num = 3
+tol_restart = 5e-05
+inc_tol = 0.01
+eigenval_tol = 0.1
+use_resident_solution = 0
+make_resident_solution = 0
+chrono_use_resident = 0
+chrono_make_resident = 0
+chrono_replace_last = 0
+chrono_max_dim = 0
+chrono_index = 0
+extlib_type = 1
+n_level = 3
+setup_type = 0
+pre_orthonormalize = 0
+post_orthonormalize = 1
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 3
+smoother_solve_type[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+spin_block_size[i] = 2
+n_vec[i] = 24
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 4
+nu_post[i] = 4
+coarse_grid_solution_type[i] = 2
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.2
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 3
+smoother_solve_type[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+spin_block_size[i] = 1
+n_vec[i] = 32
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 4
+nu_post[i] = 4
+coarse_grid_solution_type[i] = 2
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.2
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 1
+num_setup_iter[i] = 1
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 0
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 2
+smoother_solve_type[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.2
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+compute_null_vector = 1
+generate_all_levels = 1
+run_verify = 0
+gflops = 0
+secs = 0
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ):  subspace_create_time = 25.020392 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): init_time = 26.825619 sec. 
+ ...28.021978 sec
+  ... constructing PrecFermActQprop  ...0 sec
+Creating qprop took 30.379819sec 
+Entering quarkProp4
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.072078e-08, true = 8.072078e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.859729 s	Performance=36430.6806673452 GFLOPS	Total Time (incl. load gauge)=0.903124 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.46616330714339e-08 Relative Rsd = 7.76088096919429e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 7.565459e-08, true = 7.565459e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.832269 s	Performance=37655.3647854528 GFLOPS	Total Time (incl. load gauge)=0.867502 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 3.73164853031022e-08 Relative Rsd = 7.09633812051612e-08
+GCR: Convergence at 22 iterations, L2 relative residual: iterated = 7.423123e-08, true = 7.423123e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.795821 s	Performance=37633.9273364035 GFLOPS	Total Time (incl. load gauge)=0.830951 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 22 iterations. Rsd = 3.87258027514705e-08 Relative Rsd = 7.01409750388716e-08
+GCR: Convergence at 22 iterations, L2 relative residual: iterated = 6.416377e-08, true = 6.416377e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.79344 s	Performance=37724.2918252873 GFLOPS	Total Time (incl. load gauge)=0.82713 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 22 iterations. Rsd = 3.21858597122138e-08 Relative Rsd = 6.05003369106324e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 9.938124e-08, true = 9.938124e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.833729 s	Performance=37581.6482016387 GFLOPS	Total Time (incl. load gauge)=0.867697 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.83451341913822e-08 Relative Rsd = 9.25882503155851e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 6.965447e-08, true = 6.965447e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.87149 s	Performance=37553.2305815924 GFLOPS	Total Time (incl. load gauge)=0.904752 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.95460492321954e-08 Relative Rsd = 6.7657982518756e-08
+GCR: Convergence at 22 iterations, L2 relative residual: iterated = 9.536374e-08, true = 9.536374e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.793511 s	Performance=37747.5929556818 GFLOPS	Total Time (incl. load gauge)=0.827199 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 22 iterations. Rsd = 4.80679143158708e-08 Relative Rsd = 9.02482040467964e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.264230e-08, true = 8.264230e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.833875 s	Performance=37575.0681738918 GFLOPS	Total Time (incl. load gauge)=0.868433 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.31454983843329e-08 Relative Rsd = 7.80040207884309e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 9.309822e-08, true = 9.309822e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.839078 s	Performance=37701.8281455026 GFLOPS	Total Time (incl. load gauge)=0.872439 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.89996681653621e-08 Relative Rsd = 8.89626058516721e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 7.149785e-08, true = 7.149785e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.868686 s	Performance=37619.7519516143 GFLOPS	Total Time (incl. load gauge)=0.902341 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.60181711142955e-08 Relative Rsd = 6.70535148832839e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.352890e-08, true = 8.352890e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.831273 s	Performance=37694.5533987318 GFLOPS	Total Time (incl. load gauge)=0.86458 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.21502388350424e-08 Relative Rsd = 7.84799595601579e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.480751e-08, true = 8.480751e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.834381 s	Performance=37560.0508576106 GFLOPS	Total Time (incl. load gauge)=0.867322 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.27769045604483e-08 Relative Rsd = 7.98970492886016e-08
+Exiting quarkProp4
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Destructing
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.391213
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.917751
+Propagator computed: time= 52.537755 secs
+Start writing propagator info
+Propagator successfully updated
+PROPAGATOR: total time = 59.542638 secs
+PROPAGATOR: ran successfully
+PROPAGATOR: propagator calculation
+Snarf the source from a named buffer
+Source successfully read and parsed
+FermAct = CLOVER
+Try the various factories
+u0 is 1
+Suitable factory found: compute the quark prop
+Calling quarkProp
+In quarkProp()
+  ... constructing linop  ...1.016366 sec
+  ... constructing invLinOp u0 is 1
+tuneDslasP = 1
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Recovering subspace...
+MG level 1 (GPU): Updating operator on level 1 of 3 levels
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ):  subspace_update_time = 1.27584 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): init_time = 3.005564 sec. 
+ ...4.189323 sec
+  ... constructing PrecFermActQprop  ...0 sec
+Creating qprop took 5.205893sec 
+Entering quarkProp4
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.353586e-08, true = 3.353586e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.299774 s	Performance=42228.422221647 GFLOPS	Total Time (incl. load gauge)=0.355172 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.82933077974514e-08 Relative Rsd = 3.21377318519481e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 2.819341e-08, true = 2.819341e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279983 s	Performance=45256.4941696603 GFLOPS	Total Time (incl. load gauge)=0.336721 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.37343562317714e-08 Relative Rsd = 2.63765727523089e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 2.980831e-08, true = 2.980831e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281093 s	Performance=45077.7821116285 GFLOPS	Total Time (incl. load gauge)=0.401288 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.53485848805898e-08 Relative Rsd = 2.80881232610854e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.049454e-08, true = 3.049454e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279417 s	Performance=45348.1678176489 GFLOPS	Total Time (incl. load gauge)=0.33478 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.5101686040119e-08 Relative Rsd = 2.86656118020949e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.128110e-08, true = 3.128110e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281172 s	Performance=45065.1167509709 GFLOPS	Total Time (incl. load gauge)=0.349659 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.50293021072144e-08 Relative Rsd = 2.90680022172495e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.471421e-08, true = 3.471421e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.283843 s	Performance=44652.4761116533 GFLOPS	Total Time (incl. load gauge)=0.339229 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.94281787861489e-08 Relative Rsd = 3.36103891495016e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.038914e-08, true = 3.038914e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279595 s	Performance=45319.2975808008 GFLOPS	Total Time (incl. load gauge)=0.334811 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.51317849387834e-08 Relative Rsd = 2.86905260644212e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 2.932318e-08, true = 2.932318e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281116 s	Performance=45074.093993597 GFLOPS	Total Time (incl. load gauge)=0.336443 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.51099480722641e-08 Relative Rsd = 2.76016449854422e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.343458e-08, true = 3.343458e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.282814 s	Performance=44814.9411873528 GFLOPS	Total Time (incl. load gauge)=0.337799 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.73652351626963e-08 Relative Rsd = 3.18532145672357e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.766351e-08, true = 3.766351e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.279843 s	Performance=45279.1351118449 GFLOPS	Total Time (incl. load gauge)=0.334693 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.87348751880364e-08 Relative Rsd = 3.52301330286624e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.176520e-08, true = 3.176520e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281011 s	Performance=45090.9359672895 GFLOPS	Total Time (incl. load gauge)=0.336142 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.58324299094748e-08 Relative Rsd = 2.97701278123006e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.220851e-08, true = 3.220851e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.281858 s	Performance=44955.4350314839 GFLOPS	Total Time (incl. load gauge)=0.336871 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.60412993656865e-08 Relative Rsd = 3.02577273058004e-08
+Exiting quarkProp4
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Destructing
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.256745
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.496937
+Propagator computed: time= 21.025421 secs
+Start writing propagator info
+Propagator successfully updated
+PROPAGATOR: total time = 28.046707 secs
+PROPAGATOR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = pt_source
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+SINK_SMEAR: Sink smearing for propagators
+Attempt to read forward propagator
+Sink_xml = <Sink>
+      <version>2</version>
+      <SinkType>POINT_SINK</SinkType>
+      <j_decay>3</j_decay>
+      <Displacement>
+        <version>1</version>
+        <DisplacementType>NONE</DisplacementType>
+      </Displacement>
+    </Sink>
+
+Sink = POINT_SINK
+Point sink
+Sink successfully updated
+SINK_SMEAR: total time = 5.439588 secs
+SINK_SMEAR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_u_pt
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+SINK_SMEAR: Sink smearing for propagators
+Attempt to read forward propagator
+Sink_xml = <Sink>
+      <version>2</version>
+      <SinkType>POINT_SINK</SinkType>
+      <j_decay>3</j_decay>
+      <Displacement>
+        <version>1</version>
+        <DisplacementType>NONE</DisplacementType>
+      </Displacement>
+    </Sink>
+
+Sink = POINT_SINK
+Point sink
+Sink successfully updated
+SINK_SMEAR: total time = 5.506727 secs
+SINK_SMEAR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_s_pt
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+ERASE_QUDA_MULTIGRID_SUBSPACE: object erase
+Attempt to erase object name = mg_subspace
+ERASE_QUDA_MULTIGRID_SUBSPACE: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_u_P
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_s_P
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+CHROMA: measurements: time= 105.280267 secs
+CHROMA: total time = 140.618656 secs
+CHROMA: ran successfully
+WARNING: Environment variable QUDA_PROFILE_OUTPUT_BASE is not set; writing to profile.tsv and profile_async.tsv
+Saving 243 sets of cached parameters to /ccs/home/bjoo/scratch/PropTest/profile_0.tsv
+Saving 30 sets of cached profiles to /ccs/home/bjoo/scratch/PropTest/profile_async_0.tsv
+
+               initQuda Total time = 9.64614 secs
+                  init     = 9.646134 secs (   100%), with        2 calls at 4.823067e+06 us per call
+     total accounted       = 9.646134 secs (   100%)
+     total missing         = 0.000005 secs (5.18e-05%)
+
+          loadGaugeQuda Total time = 0.134092 secs
+              download     = 0.129990 secs (  96.9%), with        2 calls at 6.499500e+04 us per call
+                  init     = 0.002887 secs (  2.15%), with        2 calls at 1.443500e+03 us per call
+               compute     = 0.001188 secs ( 0.886%), with        2 calls at 5.940000e+02 us per call
+                  free     = 0.000017 secs (0.0127%), with        2 calls at 8.500000e+00 us per call
+     total accounted       = 0.134082 secs (   100%)
+     total missing         = 0.000010 secs (0.00746%)
+
+         loadCloverQuda Total time = 0.112562 secs
+              download     = 0.102460 secs (    91%), with        2 calls at 5.123000e+04 us per call
+                  init     = 0.006024 secs (  5.35%), with        4 calls at 1.506000e+03 us per call
+                  free     = 0.000004 secs (0.00355%), with        2 calls at 2.000000e+00 us per call
+     total accounted       = 0.108488 secs (  96.4%)
+     total missing         = 0.004074 secs (  3.62%)
+
+             invertQuda Total time = 40.8569 secs
+              download     = 0.111458 secs ( 0.273%), with       24 calls at 4.644083e+03 us per call
+                upload     = 0.120500 secs ( 0.295%), with       24 calls at 5.020833e+03 us per call
+                  init     = 25.039832 secs (  61.3%), with       25 calls at 1.001593e+06 us per call
+              preamble     = 1.276069 secs (  3.12%), with       25 calls at 5.104276e+04 us per call
+               compute     = 13.378801 secs (  32.7%), with       24 calls at 5.574500e+05 us per call
+              epilogue     = 0.061187 secs (  0.15%), with       72 calls at 8.498194e+02 us per call
+                  free     = 0.035236 secs (0.0862%), with       73 calls at 4.826849e+02 us per call
+     total accounted       = 40.023083 secs (    98%)
+     total missing         = 0.833768 secs (  2.04%)
+
+                endQuda Total time = 0.24359 secs
+
+       initQuda-endQuda Total time = 150.509 secs
+
+                   QUDA Total time = 50.9691 secs
+              download     = 0.343913 secs ( 0.675%), with       28 calls at 1.228261e+04 us per call
+                upload     = 0.120506 secs ( 0.236%), with       24 calls at 5.021083e+03 us per call
+                  init     = 34.694879 secs (  68.1%), with       33 calls at 1.051360e+06 us per call
+              preamble     = 1.276061 secs (   2.5%), with       25 calls at 5.104244e+04 us per call
+               compute     = 13.379988 secs (  26.3%), with       26 calls at 5.146149e+05 us per call
+              epilogue     = 0.061195 secs (  0.12%), with       72 calls at 8.499306e+02 us per call
+                  free     = 0.035249 secs (0.0692%), with       77 calls at 4.577792e+02 us per call
+     total accounted       = 49.911791 secs (  97.9%)
+     total missing         = 1.057265 secs (  2.07%)
+
+Device memory used = 7613.5 MB
+Pinned device memory used = 722.5 MB
+Page-locked host memory used = 743.1 MB
+Total host memory used >= 3160.5 MB
+
+Peer-to-peer enabled for rank 38 (gpu=2) with neighbor 39 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 38 (gpu=2) with neighbor 36 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 38 (gpu=2) with neighbor 39 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 37 (gpu=1) with neighbor 36 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 37 (gpu=1) with neighbor 36 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 37 (gpu=1) with neighbor 39 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 29 (gpu=1) with neighbor 28 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 29 (gpu=1) with neighbor 28 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 29 (gpu=1) with neighbor 31 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 36 (gpu=0) with neighbor 37 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 36 (gpu=0) with neighbor 37 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 36 (gpu=0) with neighbor 38 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 30 (gpu=2) with neighbor 31 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 30 (gpu=2) with neighbor 28 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 30 (gpu=2) with neighbor 31 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 39 (gpu=3) with neighbor 38 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 39 (gpu=3) with neighbor 37 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 39 (gpu=3) with neighbor 38 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 31 (gpu=3) with neighbor 30 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 31 (gpu=3) with neighbor 29 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 31 (gpu=3) with neighbor 30 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 28 (gpu=0) with neighbor 29 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 28 (gpu=0) with neighbor 29 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 28 (gpu=0) with neighbor 30 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 45 (gpu=1) with neighbor 44 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 45 (gpu=1) with neighbor 44 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 45 (gpu=1) with neighbor 47 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 46 (gpu=2) with neighbor 47 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 46 (gpu=2) with neighbor 44 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 46 (gpu=2) with neighbor 47 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 47 (gpu=3) with neighbor 46 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 47 (gpu=3) with neighbor 45 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 47 (gpu=3) with neighbor 46 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 44 (gpu=0) with neighbor 45 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 44 (gpu=0) with neighbor 45 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 44 (gpu=0) with neighbor 46 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 14 (gpu=2) with neighbor 15 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 14 (gpu=2) with neighbor 12 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 14 (gpu=2) with neighbor 15 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 15 (gpu=3) with neighbor 14 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 15 (gpu=3) with neighbor 13 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 15 (gpu=3) with neighbor 14 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 13 (gpu=1) with neighbor 12 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 13 (gpu=1) with neighbor 12 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 13 (gpu=1) with neighbor 15 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 12 (gpu=0) with neighbor 13 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 12 (gpu=0) with neighbor 13 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 12 (gpu=0) with neighbor 14 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 27 (gpu=3) with neighbor 26 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 27 (gpu=3) with neighbor 25 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 27 (gpu=3) with neighbor 26 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 26 (gpu=2) with neighbor 27 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 26 (gpu=2) with neighbor 24 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 26 (gpu=2) with neighbor 27 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 25 (gpu=1) with neighbor 24 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 25 (gpu=1) with neighbor 24 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 25 (gpu=1) with neighbor 27 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 24 (gpu=0) with neighbor 25 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 24 (gpu=0) with neighbor 25 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 24 (gpu=0) with neighbor 26 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 22 (gpu=2) with neighbor 23 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 22 (gpu=2) with neighbor 20 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 22 (gpu=2) with neighbor 23 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 23 (gpu=3) with neighbor 22 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 23 (gpu=3) with neighbor 21 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 23 (gpu=3) with neighbor 22 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 20 (gpu=0) with neighbor 21 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 20 (gpu=0) with neighbor 21 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 20 (gpu=0) with neighbor 22 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 21 (gpu=1) with neighbor 20 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 21 (gpu=1) with neighbor 20 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 21 (gpu=1) with neighbor 23 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 43 (gpu=3) with neighbor 42 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 43 (gpu=3) with neighbor 41 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 43 (gpu=3) with neighbor 42 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 55 (gpu=3) with neighbor 54 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 55 (gpu=3) with neighbor 53 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 55 (gpu=3) with neighbor 54 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 41 (gpu=1) with neighbor 40 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 41 (gpu=1) with neighbor 40 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 41 (gpu=1) with neighbor 43 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 54 (gpu=2) with neighbor 55 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 54 (gpu=2) with neighbor 52 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 54 (gpu=2) with neighbor 55 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 53 (gpu=1) with neighbor 52 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 53 (gpu=1) with neighbor 52 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 53 (gpu=1) with neighbor 55 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 52 (gpu=0) with neighbor 53 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 52 (gpu=0) with neighbor 53 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 52 (gpu=0) with neighbor 54 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 42 (gpu=2) with neighbor 43 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 42 (gpu=2) with neighbor 40 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 42 (gpu=2) with neighbor 43 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 40 (gpu=0) with neighbor 41 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 40 (gpu=0) with neighbor 41 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 40 (gpu=0) with neighbor 42 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 3 (gpu=3) with neighbor 2 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 3 (gpu=3) with neighbor 1 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 3 (gpu=3) with neighbor 2 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 2 (gpu=2) with neighbor 3 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 2 (gpu=2) with neighbor 0 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 2 (gpu=2) with neighbor 3 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 50 (gpu=2) with neighbor 51 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 50 (gpu=2) with neighbor 48 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 50 (gpu=2) with neighbor 51 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 48 (gpu=0) with neighbor 49 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 48 (gpu=0) with neighbor 49 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 48 (gpu=0) with neighbor 50 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 51 (gpu=3) with neighbor 50 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 51 (gpu=3) with neighbor 49 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 51 (gpu=3) with neighbor 50 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 19 (gpu=3) with neighbor 18 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 19 (gpu=3) with neighbor 17 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 19 (gpu=3) with neighbor 18 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 16 (gpu=0) with neighbor 17 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 16 (gpu=0) with neighbor 17 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 16 (gpu=0) with neighbor 18 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 17 (gpu=1) with neighbor 16 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 17 (gpu=1) with neighbor 16 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 17 (gpu=1) with neighbor 19 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 18 (gpu=2) with neighbor 19 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 18 (gpu=2) with neighbor 16 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 18 (gpu=2) with neighbor 19 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 49 (gpu=1) with neighbor 48 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 49 (gpu=1) with neighbor 48 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 49 (gpu=1) with neighbor 51 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 1 (gpu=1) with neighbor 0 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 1 (gpu=1) with neighbor 0 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 1 (gpu=1) with neighbor 3 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 9 (gpu=1) with neighbor 8 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 9 (gpu=1) with neighbor 8 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 9 (gpu=1) with neighbor 11 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 62 (gpu=2) with neighbor 63 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 62 (gpu=2) with neighbor 60 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 62 (gpu=2) with neighbor 63 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 8 (gpu=0) with neighbor 9 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 8 (gpu=0) with neighbor 9 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 8 (gpu=0) with neighbor 10 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 10 (gpu=2) with neighbor 11 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 10 (gpu=2) with neighbor 8 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 10 (gpu=2) with neighbor 11 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 11 (gpu=3) with neighbor 10 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 11 (gpu=3) with neighbor 9 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 11 (gpu=3) with neighbor 10 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 58 (gpu=2) with neighbor 59 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 58 (gpu=2) with neighbor 56 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 58 (gpu=2) with neighbor 59 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 6 (gpu=2) with neighbor 7 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 6 (gpu=2) with neighbor 4 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 6 (gpu=2) with neighbor 7 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 59 (gpu=3) with neighbor 58 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 59 (gpu=3) with neighbor 57 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 59 (gpu=3) with neighbor 58 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 56 (gpu=0) with neighbor 57 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 56 (gpu=0) with neighbor 57 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 56 (gpu=0) with neighbor 58 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 34 (gpu=2) with neighbor 35 (gpu=3) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 34 (gpu=2) with neighbor 32 (gpu=0) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 34 (gpu=2) with neighbor 35 (gpu=3) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 35 (gpu=3) with neighbor 34 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 35 (gpu=3) with neighbor 33 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 35 (gpu=3) with neighbor 34 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 63 (gpu=3) with neighbor 62 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 63 (gpu=3) with neighbor 61 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 63 (gpu=3) with neighbor 62 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 57 (gpu=1) with neighbor 56 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 57 (gpu=1) with neighbor 56 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 57 (gpu=1) with neighbor 59 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 5 (gpu=1) with neighbor 4 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 5 (gpu=1) with neighbor 4 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 5 (gpu=1) with neighbor 7 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 7 (gpu=3) with neighbor 6 (gpu=2) dir=0, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 7 (gpu=3) with neighbor 5 (gpu=1) dir=0, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 7 (gpu=3) with neighbor 6 (gpu=2) dir=1, dim=1, performance rank = (0, 0)
+Peer-to-peer enabled for rank 4 (gpu=0) with neighbor 5 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 4 (gpu=0) with neighbor 5 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 4 (gpu=0) with neighbor 6 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 60 (gpu=0) with neighbor 61 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 60 (gpu=0) with neighbor 61 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 60 (gpu=0) with neighbor 62 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 61 (gpu=1) with neighbor 60 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 61 (gpu=1) with neighbor 60 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 61 (gpu=1) with neighbor 63 (gpu=3) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 32 (gpu=0) with neighbor 33 (gpu=1) dir=0, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 32 (gpu=0) with neighbor 33 (gpu=1) dir=1, dim=1, performance rank = (1, 0)
+Peer-to-peer enabled for rank 32 (gpu=0) with neighbor 34 (gpu=2) dir=1, dim=2, performance rank = (0, 0)
+Peer-to-peer enabled for rank 33 (gpu=1) with neighbor 32 (gpu=0) dir=0, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 33 (gpu=1) with neighbor 32 (gpu=0) dir=1, dim=1, performance rank = (0, 1)
+Peer-to-peer enabled for rank 33 (gpu=1) with neighbor 35 (gpu=3) dir=1, dim=2, performance rank = (0, 0)

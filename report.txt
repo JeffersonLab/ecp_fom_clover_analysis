@@ -1,0 +1,33 @@
+Test lattice
+64^3x128 iso, m_pi ~ 170 MeV, a~0.091fm.
+
+Timings on Titan:
+Output file:    FOM_SUMMIT_OUTPUTS/64_iso_mg_128node.stdout.3930985
+128 GPUs (k20x)
+
+Typical output:
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.333567 s      Performance=9813.27707605457 GFLOPS     Total Time (incl. load gauge)=3.380325 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.85273733151434e-08 Relative Rsd = 6.6949266695263e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.531090e-08, true = 8.531090e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.212037 s      Performance=9756.85921258815 GFLOPS     Total Time (incl. load gauge)=3.261253 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.20813160569745e-08 Relative Rsd = 8.0024483782713e-08
+
+
+12 inversions done for timing.
+Take as average the timing is  3.29708 secs/inverse @ 128 GPUs
+
+
+
+Timings on Summit:
+Output file:    FOM_SUMMIT_OUTPUTS/clover_prop64.j52114.64gpu.stdout
+64 GPUs (V100) - done as 4 gpus/node (so 16 physical nodes)
+
+Typical output:
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.072078e-08, true = 8.072078e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.859729 s      Performance=36430.6806673452 GFLOPS     Total Time (incl. load gauge)=0.903124 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.46616330714339e-08 Relative Rsd = 7.76088096919429e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 7.565459e-08, true = 7.565459e-08
+
+
+12 inversions done for timing.
+Take as average the timing is  0.832273 secs/inverse @ 64 GPUs  (done as 16 nodes and 4 gpus/node)
