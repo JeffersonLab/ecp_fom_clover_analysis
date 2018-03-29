@@ -1,6 +1,8 @@
 Clover analysis: test lattice
 64^3x128 iso, m_pi ~ 170 MeV, a~0.091fm.
 
+GitHub repo: git@github.com:JeffersonLab/ecp_fom_clover_analysis.git 
+
 Timings on Titan:
 Output file:    FOM_SUMMIT_OUTPUTS/64_iso_mg_128node.stdout.3930985
 128 GPUs (k20x)
