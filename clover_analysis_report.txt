@@ -14,8 +14,7 @@ QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.212037 s      Performa
 QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.20813160569745e-08 Relative Rsd = 8.0024483782713e-08
 
 
-12 inversions done for timing.
-Take as average the timing is  3.29708 secs/inverse @ 128 GPUs
+Average time (12 inversions) is  3.34722 secs/inverse @ 128 GPUs  (this is incl.load.gauge)
 
 
 
@@ -32,5 +31,8 @@ QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.832269 s      Performa
 QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 3.73164853031022e-08 Relative Rsd = 7.09633812051612e-08
 
 
-12 inversions done for timing.
-Take as average the timing is  0.832273 secs/inverse @ 64 GPUs  (done as 16 nodes and 4 gpus/node)
+Average time (12 inversions) is  0.866956  secs/inverse @ 64 GPUs  (done as 16 nodes and 4 gpus/node)
+
+
+Speedup from Titan to Summit:   (3.34722 / 0.866956 ) x ( 128 / 64 ) = 7.72x
+
