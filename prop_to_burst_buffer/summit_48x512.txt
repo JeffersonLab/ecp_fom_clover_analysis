@@ -1,0 +1,66 @@
+Propagator creation and storage on the NVME burst buffer: on production 48^3x512 lattice, i.e. szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo
+
+Summit timings:
+
+Lattice initialized:
+  problem size = 48 48 48 512
+  layout size = 24 48 48 512
+  logical machine size = 3 3 3 8
+  subgrid size = 16 16 16 64
+  total number of nodes = 216
+  total volume = 56623104
+  subgrid volume = 262144
+  Number of IO nodes = 24
+  IO grid size = 1 1 3 8
+Finished init of RNG
+Finished lattice layout
+CHROMA: Attempt to read gauge field
+CHROMA: Gauge initialization: cfg_type = SZINQIO
+Parallel IO read
+Reading Double Precision
+DML_partition_in times: read 3.24  send 22.82  total 31.77
+QIO_read_finished
+CHROMA: Gauge field successfully read: time= 49.363728 secs
+CHROMA: initial plaquette measurement time=9.191145 secs
+CHROMA: There are 1 measurements 
+CHROMA: parsing inline measurements time=0.037338 secs
+CHROMA: Doing 1 measurements
+
+MapObjectDisk: opening file /mnt/bb/fwinter/prop.mod for writing
+
+Typical output:
+
+colorvec_src = 1
+getSrc: on t_source= 173  colorvec_src= 1
+spin_source = 0
+Diag Inv
+GCR: Convergence at 8 iterations, L2 relative residual: iterated = 5.805594e-09, true = 5.805594e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.436319 s	Performance=35921.8401112947 GFLOPS	Total Time (incl. load gauge)=0.466233 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 8 iterations. Rsd = 3.61622976998376e-09 Relative Rsd = 5.80559354679617e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 8 iterations, L2 relative residual: iterated = 5.725247e-09, true = 5.725247e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.432872 s	Performance=36207.889065405 GFLOPS	Total Time (incl. load gauge)=0.443176 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 8 iterations. Rsd = 3.5731902512784e-09 Relative Rsd = 5.72524748786985e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 8 iterations, L2 relative residual: iterated = 5.833825e-09, true = 5.833825e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.433682 s	Performance=36140.2625783869 GFLOPS	Total Time (incl. load gauge)=0.445569 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 8 iterations. Rsd = 3.64130398755685e-09 Relative Rsd = 5.83382507008682e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 8 iterations, L2 relative residual: iterated = 5.787301e-09, true = 5.787301e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.432822 s	Performance=36212.0718344262 GFLOPS	Total Time (incl. load gauge)=0.445525 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 8 iterations. Rsd = 3.60459153036624e-09 Relative Rsd = 5.78730055802768e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 1  time = 2.259628 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 1  time = 245.245455 secs
+
+
+
+

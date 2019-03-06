@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<chroma>
+<annotation>
+;
+; Test input file for chroma main program
+;
+</annotation>
+<Param> 
+  <InlineMeasurements>
+
+
+    <elem>
+      <annotation>
+        Compute propagator solution vectors
+      </annotation>
+      <Name>PROP_DISTILLATION</Name>
+      <Frequency>1</Frequency>
+      <Param>
+
+        <Contractions>
+          <mass_label>U-0.0865</mass_label>
+          <num_vecs>256</num_vecs>
+          <t_sources>173</t_sources>
+          <decay_dir>3</decay_dir>
+          <Nt_forward>32</Nt_forward>
+          <Nt_backward>0</Nt_backward>
+        </Contractions>
+
+        <Propagator>
+          <version>10</version>
+          <quarkSpinType>FULL</quarkSpinType>
+          <obsvP>false</obsvP>
+          <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>SEOPREC_CLOVER</FermAct>
+            <Mass>-0.0865</Mass>
+            <clovCoeffR>1.58932722549812</clovCoeffR>
+            <clovCoeffT>0.902783591772098</clovCoeffT>
+            <AnisoParam>
+              <anisoP>true</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>4.3</xi_0>
+              <nu>1.265</nu>
+            </AnisoParam>
+	    <FermionBC>
+              <FermBC>SIMPLE_FERMBC</FermBC>
+              <boundary>1 1 1 -1</boundary>
+	    </FermionBC>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.0865</Mass>
+              <clovCoeffR>1.58932722549812</clovCoeffR>
+              <clovCoeffT>0.902783591772098</clovCoeffT>
+              <AnisoParam>
+                <anisoP>true</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>4.3</xi_0>
+                <nu>1.265</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1.0e-8</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>4</Pipeline>
+            <MaxIter>500</MaxIter>
+            <RsdToleranceFactor>8.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>false</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_12</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_12</Reconstruct>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <CoarseSolverType>
+                <elem>GCR</elem>
+                <elem>CA_GCR</elem>
+              </CoarseSolverType>
+              <CoarseResidual>0.1 0.1 0.1</CoarseResidual>
+              <MaxCoarseIterations>12 12 8</MaxCoarseIterations>
+              <RelaxationOmegaMG>1.0 1.0 1.0</RelaxationOmegaMG>
+              <SmootherType>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+              </SmootherType>
+              <SmootherTol>0.25 0.25 0.25</SmootherTol>
+              <NullVectors>24 32</NullVectors>
+              <Pre-SmootherApplications>0 0</Pre-SmootherApplications>
+              <Post-SmootherApplications>8 8</Post-SmootherApplications>
+              <SubspaceSolver>
+                <elem>CG</elem>
+                <elem>CG</elem>
+              </SubspaceSolver>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <OuterGCRNKrylov>20</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <SetupOnGPU>1 1</SetupOnGPU>
+            </MULTIGRIDParams>
+            <SubspaceID>mg_subspace</SubspaceID>
+            <SolutionCheckP>true</SolutionCheckP>
+          </InvertParam>
+        </Propagator>
+
+      </Param>
+
+      <NamedObject>
+        <gauge_id>default_gauge_field</gauge_id>
+        <colorvec_files><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_0.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_1.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_2.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_3.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_4.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_5.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_6.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_7.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_8.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_9.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_10.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_11.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_12.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_13.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_14.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_15.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_16.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_17.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_18.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_19.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_20.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_21.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_22.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_23.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_24.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_25.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_26.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_27.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_28.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_29.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_30.mod1040</elem><elem>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/eigs_mod/1040/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo.3d.eigs.n_256.t_31.mod1040</elem></colorvec_files>
+	<soln_file>/mnt/bb/fwinter/prop.mod</soln_file>
+      </NamedObject>
+    </elem>
+
+
+  </InlineMeasurements>
+  <nrow>48 48 48 512</nrow>
+</Param>
+
+<RNG>
+  <Seed>
+    <elem>11</elem>
+    <elem>11</elem>
+    <elem>11</elem>
+    <elem>0</elem>
+  </Seed>
+</RNG>
+
+<Cfg>
+  <cfg_type>SZINQIO</cfg_type>
+  <cfg_file>/gpfs/alpine/proj-shared/nph128/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo/cfgs/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_cfg_1040.lime</cfg_file>
+  <parallel_io>true</parallel_io>
+  <reunit>false</reunit>
+</Cfg>
+</chroma>
