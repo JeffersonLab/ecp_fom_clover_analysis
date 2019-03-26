@@ -3,38 +3,45 @@ Clover analysis: test lattice
 
 GitHub repo: git@github.com:JeffersonLab/ecp_fom_clover_analysis.git 
 
+Timing is the "PROPAGATOR" task in Chroma, namely, the computation of
+12 right-hand sides of the Clover-Dirac operator for the light quark
+masses. 
+
 Timings on Titan:
 Output file:    FOM_SUMMIT_OUTPUTS/64_iso_mg_128node.stdout.3930985
 128 GPUs (k20x)
 
-Typical output:
-GCR: Convergence at 24 iterations, L2 relative residual: iterated = 6.963778e-08, true = 6.963778e-08
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.333567 s      Performance=9813.27707605457 GFLOPS     Total Time (incl. load gauge)=3.380325 s
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.85273733151434e-08 Relative Rsd = 6.6949266695263e-08
-GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.531090e-08, true = 8.531090e-08
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.212037 s      Performance=9756.85921258815 GFLOPS     Total Time (incl. load gauge)=3.261253 s
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.20813160569745e-08 Relative Rsd = 8.0024483782713e-08
+Reported by Chroma
+  problem size = 64 64 64 128
+  layout size = 32 64 64 128
+  logical machine size = 1 4 4 8
+  subgrid size = 64 16 16 16
+  total number of nodes = 128
+  total volume = 33554432
+  subgrid volume = 262144
+  Number of IO nodes = 32
+  IO grid size = 1 1 4 8
 
-
-Average time (12 inversions) is  3.34722 secs/inverse @ 128 GPUs  (this is incl.load.gauge)
-
+PROPAGATOR: total time = 170.386371 secs
 
 
 Timings on Summit:
 Output file:    FOM_SUMMIT_OUTPUTS/clover_prop64.j52114.64gpu.stdout
 64 GPUs (V100) - done as 4 gpus/node (so 16 physical nodes)
 
-Typical output:
-GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.072078e-08, true = 8.072078e-08
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.859729 s      Performance=36430.6806673452 GFLOPS     Total Time (incl. load gauge)=0.903124 s
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.46616330714339e-08 Relative Rsd = 7.76088096919429e-08
-GCR: Convergence at 23 iterations, L2 relative residual: iterated = 7.565459e-08, true = 7.565459e-08
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.832269 s      Performance=37655.3647854528 GFLOPS     Total Time (incl. load gauge)=0.867502 s
-QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 3.73164853031022e-08 Relative Rsd = 7.09633812051612e-08
+Reported by Chroma
+  problem size = 64 64 64 128
+  layout size = 32 64 64 128
+  logical machine size = 1 2 4 8
+  subgrid size = 64 32 16 16
+  total number of nodes = 64
+  total volume = 33554432
+  subgrid volume = 524288
+  Number of IO nodes = 8
+  IO grid size = 1 1 1 8
+
+PROPAGATOR: total time = 59.542638 secs
 
 
-Average time (12 inversions) is  0.866956  secs/inverse @ 64 GPUs  (done as 16 nodes and 4 gpus/node)
-
-
-Speedup from Titan to Summit:   (3.34722 / 0.866956 ) x ( 128 / 64 ) = 7.72x
+Speedup from Titan to Summit:   ( 170.38 / 59.54 ) x ( 128 / 64 ) = 5.72x
 
