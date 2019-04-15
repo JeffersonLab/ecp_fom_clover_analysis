@@ -1,0 +1,29 @@
+Propagator and perambulator creation: on production 48^3x512 lattice, i.e. szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo
+
+Summit timings:
+
+38 summit nodes:
+
+Lattice initialized:
+  problem size = 48 48 48 512
+  layout size = 24 48 48 512
+  logical machine size = 3 3 3 8
+  subgrid size = 16 16 16 64
+  total number of nodes = 216
+  total volume = 56623104
+  subgrid volume = 262144
+  Number of IO nodes = 24
+  IO grid size = 1 1 3 8
+
+Typical output:
+
+Do spin_source= 0  colorvec_src= 108
+Diag Inv
+GCR: Convergence at 8 iterations, L2 relative residual: iterated = 5.790150e-09, true = 5.790150e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.430313 s      Performance=36423.2113729309 GFLOPS     Total Time (incl. load gauge)=0.444537 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 8 iterations. Rsd = 3.60172679694619e-09 Relative Rsd = 5.79015019812086e-09
+M_Unprec : 
+Time to compute prop for spin_source= 0  colorvec_src= 108  time = 0.491688 secs
+Time to compute and assemble peram for spin_source= 0  colorvec_src= 108  time = 49.588596 secs (for contraction: 49.096908)
+
+
