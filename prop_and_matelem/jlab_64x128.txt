@@ -1,0 +1,145 @@
+
+Cluster 19g using 8 nodes.
+
+Lattice initialized:
+  problem size = 64 64 64 128
+  layout size = 32 64 64 128
+  logical machine size = 1 2 4 8
+  subgrid size = 64 32 16 16
+  total number of nodes = 64
+  total volume = 33554432
+  subgrid volume = 524288
+
+         <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2416</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1e-12</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>4</Pipeline>
+            <MaxIter>200</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_12</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_12</Reconstruct>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+             <CoarseSolverType>
+                <elem>GCR</elem>
+                <elem>CA_GCR</elem>
+              </CoarseSolverType>
+              <CoarseResidual>0.1 0.1 0.1</CoarseResidual>
+              <MaxCoarseIterations>12 12 8</MaxCoarseIterations>
+              <RelaxationOmegaMG>1.0 1.0 1.0</RelaxationOmegaMG>
+              <SmootherType>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+              </SmootherType>
+              <SmootherTol>0.25 0.25 0.25</SmootherTol>
+              <SmootherHaloPrecision>
+                <elem>DEFAULT</elem>
+                <elem>HALF</elem>
+                <elem>DEFAULT</elem>
+              </SmootherHaloPrecision>
+              <NullVectors>24 32</NullVectors>
+              <Pre-SmootherApplications>0 0</Pre-SmootherApplications>
+              <Post-SmootherApplications>8 8</Post-SmootherApplications>
+              <SubspaceSolver>
+                <elem>CG</elem>
+                <elem>CG</elem>
+              </SubspaceSolver>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <OuterGCRNKrylov>20</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <SetupOnGPU>1 1</SetupOnGPU>
+            </MULTIGRIDParams>
+            <SubspaceID>subspace_2416</SubspaceID>
+            <ThresholdCount>500</ThresholdCount>
+            <SolutionCheckP>true</SolutionCheckP>
+          </InvertParam>
+
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+          <prop_id>prop_u_pt</prop_id>
+        </NamedObject>
+      </elem>
+
+
+
+
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ):  subspace_create_time = 422.630298 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): init_time = 432.348924 sec. 
+ ...435.620589 sec
+  ... constructing PrecFermActQprop  ...0 sec
+Creating qprop took 438.80154sec 
+Entering quarkProp4
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 6.025565e-13, true = 6.025565e-13 (requested = 1.000000e-12)
+Saving 336 sets of cached parameters to /u/home/fwinter/tests/cl21_64_128_b6p3_m0p2416_m0p2050/tunecache.tsv
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=330.472609 s  Performance=193.879703740191 GFLOPS     Total Time (incl. load gauge)=338.506736 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 2.95956730172856e-13 Relative Rsd = 5.60397810291737e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 7.234283e-13, true = 7.234283e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.073548 s    Performance=15364.7061726279 GFLOPS     Total Time (incl. load gauge)=4.472471 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 3.7916785165486e-13 Relative Rsd = 6.78920805025385e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 8.335807e-13, true = 8.335807e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.005405 s    Performance=15627.3085838521 GFLOPS     Total Time (incl. load gauge)=4.453277 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 4.0817017878077e-13 Relative Rsd = 7.59370261538329e-13
+GCR: Convergence at 35 iterations, L2 relative residual: iterated = 7.745290e-13, true = 7.745290e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=3.969846 s    Performance=15231.089083907 GFLOPS      Total Time (incl. load gauge)=4.389632 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 35 iterations. Rsd = 4.00139763538834e-13 Relative Rsd = 7.37127118666417e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 6.087192e-13, true = 6.087192e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.088675 s    Performance=15309.0426454301 GFLOPS     Total Time (incl. load gauge)=4.534963 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 3.06408113307357e-13 Relative Rsd = 5.686197788307e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 8.112028e-13, true = 8.112028e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.083036 s    Performance=15251.5060443925 GFLOPS     Total Time (incl. load gauge)=4.504223 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 4.11432461422113e-13 Relative Rsd = 7.53473884309441e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 7.440504e-13, true = 7.440504e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.083144 s    Performance=15329.7801738817 GFLOPS     Total Time (incl. load gauge)=4.500701 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 4.095264537105e-13 Relative Rsd = 7.12691171863207e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 5.934025e-13, true = 5.934025e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.076251 s    Performance=15354.5176928742 GFLOPS     Total Time (incl. load gauge)=4.509154 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 2.81397885427152e-13 Relative Rsd = 5.40906320466508e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 8.272137e-13, true = 8.272137e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.130097 s    Performance=15155.5035967204 GFLOPS     Total Time (incl. load gauge)=4.558702 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 4.4027404293525e-13 Relative Rsd = 7.73988696212681e-13
+CR: Convergence at 35 iterations, L2 relative residual: iterated = 7.002766e-13, true = 7.002766e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.0133 s      Performance=15158.0601639389 GFLOPS     Total Time (incl. load gauge)=4.434414 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 35 iterations. Rsd = 3.40671892296757e-13 Relative Rsd = 6.51976337514161e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 5.470295e-13, true = 5.470295e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.065286 s    Performance=15395.9323157328 GFLOPS     Total Time (incl. load gauge)=4.476721 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 2.67854510396646e-13 Relative Rsd = 5.08972855346905e-13
+GCR: Convergence at 36 iterations, L2 relative residual: iterated = 9.054453e-13, true = 9.054453e-13 (requested = 1.000000e-12)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=4.083785 s    Performance=15327.3739774018 GFLOPS     Total Time (incl. load gauge)=4.498239 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 36 iterations. Rsd = 4.83350564552495e-13 Relative Rsd = 8.5280442116294e-13
+Exiting quarkProp4
+
