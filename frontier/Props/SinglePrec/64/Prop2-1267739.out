@@ -1,0 +1,1209 @@
+
+Lmod is automatically replacing "PrgEnv-cray/8.3.3" with "PrgEnv-amd/8.3.3".
+
+
+Lmod is automatically replacing "cce/14.0.2" with "amd/4.5.2".
+
+
+The following have been reloaded with a version change:
+  1) cray-mpich/8.1.17 => cray-mpich/8.1.23
+
+
+The following have been reloaded with a version change:
+  1) cray-mpich/8.1.23 => cray-mpich/8.1.14
+
+
+Currently Loaded Modules:
+  1) craype-x86-trento                      10) cray-dsmml/0.2.2
+  2) libfabric/1.15.0.0                     11) cray-libsci/22.06.1.3
+  3) craype-network-ofi                     12) PrgEnv-amd/8.3.3
+  4) perftools-base/22.06.0                 13) DefApps/default
+  5) xpmem/2.4.4-2.3_11.2__gff0e1d9.shasta  14) amd/4.5.2
+  6) cray-pmi/6.1.3                         15) cray-mpich/8.1.14
+  7) olcf_harness                           16) cmake/3.23.2
+  8) craype-accel-amd-gfx90a                17) ninja/1.10.2
+  9) craype/2.7.16
+
+ 
+
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_7
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_6
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_4
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_0
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_6
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_5
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_1
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_1
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_2
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_3
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_0
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_2
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_3
+frontier10475 Creating /mnt/bb/bjoo/bjoo_1267739_4
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_5
+frontier10476 Creating /mnt/bb/bjoo/bjoo_1267739_7
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+PE 0: MPICH processor detected:
+PE 0:   AMD Milan (25:48:1) (family:model:stepping)
+PE 0: MPICH environment settings =====================================
+PE 0:   MPICH_ENV_DISPLAY                              = 1
+PE 0:   MPICH_VERSION_DISPLAY                          = 0
+PE 0:   MPICH_ABORT_ON_ERROR                           = 0
+PE 0:   MPICH_CPUMASK_DISPLAY                          = 0
+PE 0:   MPICH_STATS_DISPLAY                            = 0
+PE 0:   MPICH_RANK_REORDER_METHOD                      = 1
+PE 0:   MPICH_RANK_REORDER_DISPLAY                     = 0
+PE 0:   MPICH_MEMCPY_MEM_CHECK                         = 0
+PE 0:   MPICH_USE_SYSTEM_MEMCPY                        = 0
+PE 0:   MPICH_OPTIMIZED_MEMCPY                         = 1
+PE 0:   MPICH_ALLOC_MEM_PG_SZ                          = 4096
+PE 0:   MPICH_ALLOC_MEM_POLICY                         = PREFERRED
+PE 0:   MPICH_ALLOC_MEM_AFFINITY                       = SYS_DEFAULT
+PE 0:   MPICH_MALLOC_FALLBACK                          = 0
+PE 0:   MPICH_MEM_DEBUG_FNAME                          = 
+PE 0:   MPICH_INTERNAL_MEM_AFFINITY                    = SYS_DEFAULT
+PE 0:   MPICH_NO_BUFFER_ALIAS_CHECK                    = 0
+PE 0:   MPICH_COLL_SYNC                                = MPI_Bcast
+PE 0:   MPICH_SINGLE_HOST_ENABLED                        = 1
+PE 0: MPICH/RMA environment settings =================================
+PE 0:   MPICH_RMA_MAX_PENDING                          = 128
+PE 0:   MPICH_RMA_SHM_ACCUMULATE                       = 0
+PE 0: MPICH/GPU environment settings =================================
+PE 0:   MPICH_GPU_SUPPORT_ENABLED                      = 1
+PE 0:   MPICH_GPU_IPC_ENABLED                          = 1
+PE 0:   MPICH_GPU_EAGER_REGISTER_HOST_MEM              = 1
+PE 0:   MPICH_GPU_IPC_THRESHOLD                        = 1024
+PE 0:   MPICH_GPU_NO_ASYNC_MEMCPY                      = 0
+PE 0:   MPICH_GPU_COLL_STAGING_AREA_OPT                = 1
+PE 0:   MPICH_GPU_EAGER_DEVICE_MEM                     = 0
+PE 0:   MPICH_USE_GPU_STREAM_TRIGGERED                 = 0
+PE 0:   MPICH_NUM_MAX_GPU_STREAMS                      = 27
+PE 0:   MPICH_ENABLE_YAKSA                             = 0
+PE 0: MPICH/SMP environment settings =================================
+PE 0:   MPICH_SMP_SINGLE_COPY_MODE                     = XPMEM
+PE 0:   MPICH_SMP_SINGLE_COPY_SIZE                     = 8192
+PE 0:   MPICH_SHM_PROGRESS_MAX_BATCH_SIZE              = 8
+PE 2: Host frontier10475 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x27e40]
+PE 14: Host frontier10476 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x27e81]
+PE 6: Host frontier10475 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x27e01]
+PE 10: Host frontier10476 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x27ec0]
+PE 5: Host frontier10475 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x27e00]
+PE 12: Host frontier10476 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x27e80]
+PE 4: Host frontier10475 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x27e00]
+PE 9: Host frontier10476 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x27ec1]
+PE 7: Host frontier10475 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x27e01]
+PE 1: Host frontier10475 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x27e41]
+PE 0: Launcher/PMI did not supply NIC data (node_id=0, rc=0, num_pmi_nics=0)
+PE 0: MPICH_OFI_NIC_POLICY = NUMA
+PE 15: Host frontier10476 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x27e81]
+PE 0: ======================== Display NIC Addrs  ========================
+PE 0: Hostname: frontier10475
+PE 0:   MPICH_OFI_NIC_POLICY: NUMA
+PE 0:   Number of NICs: 4
+PE 0:     nic_index 0: domain_name=cxi0, numa_domain=3, addr=0x27e41
+PE 0:     nic_index 1: domain_name=cxi1, numa_domain=1, addr=0x27e40
+PE 0:     nic_index 2: domain_name=cxi2, numa_domain=0, addr=0x27e00
+PE 0:     nic_index 3: domain_name=cxi3, numa_domain=2, addr=0x27e01
+PE 0:   Number of NUMA domains: 4
+PE 0:     numa_domain 0: cpu_list=[0-15,64-79]
+PE 0:     numa_domain 1: cpu_list=[16-31,80-95]
+PE 0:     numa_domain 2: cpu_list=[32-47,96-111]
+PE 0:     numa_domain 3: cpu_list=[48-63,112-127]
+PE 0: ====================================================================
+PE 0: Host frontier10475 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x27e41]
+PE 0: MPICH/OFI environment settings =================================
+PE 0:   MPICH_OFI_USE_PROVIDER                         = cxi
+PE 0:   MPICH_OFI_VERBOSE                              = 0
+PE 0:   MPICH_OFI_NIC_VERBOSE                          = 2
+PE 0:   FI_CXI_RDZV_THRESHOLD                          = 16384
+PE 0:   FI_CXI_RDZV_EAGER_SIZE                         = 2048
+PE 0:   FI_CXI_DEFAULT_CQ_SIZE                         = 32768
+PE 0:   FI_CXI_OFLOW_BUF_SIZE                          = 12582912
+PE 0:   FI_CXI_OFLOW_BUF_COUNT                         = 3
+PE 0:   FI_MR_CACHE_MAX_SIZE                           = -1
+PE 0:   FI_MR_CACHE_MAX_COUNT                          = 0
+PE 0:   MPICH_OFI_DEFAULT_TCLASS                       = TC_BEST_EFFORT
+PE 0:   MPICH_OFI_TCLASS_ERRORS                        = warn
+PE 0:   MPICH_OFI_CXI_PID_BASE                         = 0
+PE 0:   MPICH_OFI_USE_SCALABLE_STARTUP                 = 1
+PE 0:   MPICH_OFI_NIC_POLICY                           = NUMA
+PE 0:   MPICH_OFI_NIC_MAPPING                          = NULL
+PE 0:   MPICH_OFI_NUM_NICS                             = NULL
+PE 0:   MPICH_CH4_OFI_ENABLE_CONTROL_AUTO_PROGRESS     = -1
+PE 0:   MPICH_CH4_OFI_ENABLE_DATA_AUTO_PROGRESS        = -1
+PE 0:   MPICH_OFI_RMA_STARTUP_CONNECT                  = 0
+PE 0:   MPICH_OFI_SKIP_NIC_SYMMETRY_TEST               = 0
+PE 0:   MPICH_OFI_STARTUP_CONNECT                      = 0
+PE 3: Host frontier10475 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x27e40]
+PE 8: Host frontier10476 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x27ec1]
+PE 11: Host frontier10476 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x27ec0]
+PE 13: Host frontier10476 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x27e80]
+PE 0: MPICH/COLLECTIVE environment settings ==========================
+PE 0:   MPICH_COLL_OPT_OFF                             = 0
+PE 0:   MPICH_BCAST_ONLY_TREE                          = 1
+PE 0:   MPICH_BCAST_INTERNODE_RADIX                    = 4
+PE 0:   MPICH_BCAST_INTRANODE_RADIX                    = 4
+PE 0:   MPICH_ALLTOALL_SHORT_MSG                       = 64-512
+PE 0:   MPICH_ALLTOALL_SYNC_FREQ                       = 1-24
+PE 0:   MPICH_ALLTOALL_BLK_SIZE                        = 16384
+PE 0:   MPICH_ALLTOALL_CHUNKING_MAX_NODES              = 90
+PE 0:   MPICH_ALLTOALLV_THROTTLE                       = 8
+PE 0:   MPICH_ALLGATHER_VSHORT_MSG                     = 8192-16384
+PE 0:   MPICH_ALLGATHERV_VSHORT_MSG                    = 8192-16384
+PE 0:   MPICH_GATHERV_SHORT_MSG                        = 131072
+PE 0:   MPICH_GATHERV_MIN_COMM_SIZE                    = 64
+PE 0:   MPICH_GATHERV_MAX_TMP_SIZE                     = 536870912
+PE 0:   MPICH_GATHERV_SYNC_FREQ                        = 16
+PE 0:   MPICH_IGATHERV_RAND_COMMSIZE                   = 2048
+PE 0:   MPICH_IGATHERV_RAND_RECVLIST                   = 0
+PE 0:   MPICH_SCATTERV_SHORT_MSG                       = 2048-8192
+PE 0:   MPICH_SCATTERV_MIN_COMM_SIZE                   = 64
+PE 0:   MPICH_SCATTERV_MAX_TMP_SIZE                    = 536870912
+PE 0:   MPICH_SCATTERV_SYNC_FREQ                       = 16
+PE 0:   MPICH_SCATTERV_SYNCHRONOUS                     = 0
+PE 0:   MPICH_ALLREDUCE_MAX_SMP_SIZE                   = 262144
+PE 0:   MPICH_ALLREDUCE_BLK_SIZE                       = 716800
+PE 0:   MPICH_GPU_ALLREDUCE_USE_KERNEL                 = 0
+PE 0:   MPICH_ALLREDUCE_NO_SMP                         = 0
+PE 0:   MPICH_REDUCE_NO_SMP                            = 0
+PE 0:   MPICH_REDUCE_SCATTER_COMMUTATIVE_LONG_MSG_SIZE = 524288
+PE 0:   MPICH_REDUCE_SCATTER_MAX_COMMSIZE              = 1000
+PE 0:   MPICH_SHARED_MEM_COLL_OPT                      = 1
+PE 0:   MPICH_SHARED_MEM_COLL_NCELLS                   = 8
+PE 0:   MPICH_SHARED_MEM_COLL_CELLSZ                   = 256
+PE 0: MPICH MPIIO environment settings ===============================
+PE 0:   MPICH_MPIIO_HINTS_DISPLAY                      = 0
+PE 0:   MPICH_MPIIO_HINTS                              = NULL
+PE 0:   MPICH_MPIIO_ABORT_ON_RW_ERROR                  = disable
+PE 0:   MPICH_MPIIO_CB_ALIGN                           = 2
+PE 0:   MPICH_MPIIO_DVS_MAXNODES                       = -1
+PE 0:   MPICH_MPIIO_AGGREGATOR_PLACEMENT_DISPLAY       = 0
+PE 0:   MPICH_MPIIO_AGGREGATOR_PLACEMENT_STRIDE        = -1
+PE 0:   MPICH_MPIIO_MAX_NUM_IRECV                      = 50
+PE 0:   MPICH_MPIIO_MAX_NUM_ISEND                      = 50
+PE 0:   MPICH_MPIIO_MAX_SIZE_ISEND                     = 10485760
+PE 0:   MPICH_MPIIO_OFI_STARTUP_CONNECT                = disable
+PE 0:   MPICH_MPIIO_OFI_STARTUP_NODES_AGGREGATOR        = 2
+PE 0: MPICH MPIIO statistics environment settings ====================
+PE 0:   MPICH_MPIIO_STATS                              = 0
+PE 0:   MPICH_MPIIO_TIMERS                             = 0
+PE 0:   MPICH_MPIIO_WRITE_EXIT_BARRIER                 = 1
+PE 0: MPICH Thread Safety settings ===================================
+PE 0:   MPICH_ASYNC_PROGRESS                           = 0
+PE 0:   MPICH_OPT_THREAD_SYNC                          = 1
+PE 0:   rank 0 required = single, was provided = single
+Initialize done
+Initializing QUDA device (using CUDA device no. 0)
+QUDA 1.1.0 (git 1.1.0-7d88b6159-gfx90a)
+*** HIP BACKEND ***
+HIP Driver version = 40421432
+HIP Runtime version = 40421432
+Found device 0: 
+Found device 1: 
+Found device 2: 
+Found device 3: 
+Found device 4: 
+Found device 5: 
+Found device 6: 
+Found device 7: 
+Using device 0: 
+WARNING: Data reordering done on GPU (set with QUDA_REORDER_LOCATION=GPU/CPU)
+Initializing QDP-JIT GPUs
+GPU autodetect
+  Device name                         : 
+  GCN architecture                    : gfx910
+  Shared memory                       : 64 KB
+  Max grid  (x,y,z)                   : (1073741824,1073741824,1073741824)
+  Max block (x,y,z)                   : (1024,1024,1024)
+  GPU memory (free,total)             : 65519/65520 MB
+LLVM initialization
+  Target machine CPU                  : gfx90a
+  Target triple                       : amdgcn-amd-amdhsa
+Initializing QUDA memory
+WARNING: Cache file not found.  All kernels will be re-tuned (if tuning is enabled).
+WARNING: Cache file not found.  All kernels will be re-tuned (if tuning is enabled).
+WARNING: Using device memory pool allocator
+WARNING: Using pinned memory pool allocator
+hipblasCreated successfully
+Linkage = bool Chroma::MapObjectDiskEnv::registerAll(): registering map obj key colorvec
+0
+InlineMeasurements are: 
+<InlineMeasurements>
+
+    <elem>
+      <Name>MAKE_SOURCE</Name>
+      <Frequency>1</Frequency>
+      <Param>
+        <version>6</version>
+        <Source>
+          <version>2</version>
+          <SourceType>POINT_SOURCE</SourceType>
+          <j_decay>3</j_decay>
+          <t_srce>0 0 0 0</t_srce>
+
+          <Displacement>
+            <version>1</version>
+            <DisplacementType>NONE</DisplacementType>
+          </Displacement>
+        </Source>
+      </Param>
+      <NamedObject>
+        <gauge_id>default_gauge_field</gauge_id>
+        <source_id>sh_source_0</source_id>
+      </NamedObject>
+    </elem>
+
+    <!-- Native Chroma solver -->
+    <elem>
+      <Name>PROPAGATOR</Name>
+      <Frequency>1</Frequency>
+      <Param>
+        <version>10</version>
+        <quarkSpinType>FULL</quarkSpinType>
+        <obsvP>false</obsvP>
+        <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>CLOVER</FermAct>
+            <Mass>-0.2416</Mass>
+            <clovCoeff>1.20536588031793</clovCoeff>
+            <AnisoParam>
+              <anisoP>false</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>1</xi_0>
+              <nu>1</nu>
+            </AnisoParam>
+            <FermState>
+              <Name>STOUT_FERM_STATE</Name>
+              <rho>0.125</rho>
+              <n_smear>1</n_smear>
+              <orthog_dir>-1</orthog_dir>
+              <FermionBC>
+                <FermBC>SIMPLE_FERMBC</FermBC>
+                <boundary>1 1 1 -1</boundary>
+              </FermionBC>
+            </FermState>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2416</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1e-7</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>0</Pipeline>
+            <MaxIter>200</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_12</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_12</Reconstruct>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <CoarseSolverType>
+                <elem>GCR</elem>
+                <elem>CA_GCR</elem>
+              </CoarseSolverType>
+              <CoarseResidual>0.1 0.1 0.1</CoarseResidual>
+              <MaxCoarseIterations>12 12 8</MaxCoarseIterations>
+              <RelaxationOmegaMG>1.0 1.0 1.0</RelaxationOmegaMG>
+              <SmootherType>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+              </SmootherType>
+              <SmootherTol>0.25 0.25 0.25</SmootherTol>
+              <SmootherHaloPrecision>
+                <elem>DEFAULT</elem>
+                <elem>HALF</elem>
+                <elem>DEFAULT</elem>
+              </SmootherHaloPrecision>
+              <NullVectors>24 32</NullVectors>
+              <Pre-SmootherApplications>0 0</Pre-SmootherApplications>
+              <Post-SmootherApplications>8 8</Post-SmootherApplications>
+              <SubspaceSolver>
+                <elem>CG</elem>
+                <elem>CG</elem>
+              </SubspaceSolver>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <OuterGCRNKrylov>20</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <SetupOnGPU>1 1</SetupOnGPU>
+            </MULTIGRIDParams>
+            <SubspaceID>subspace_2416</SubspaceID>
+            <ThresholdCount>500</ThresholdCount>
+            <SolutionCheckP>true</SolutionCheckP>
+          </InvertParam>
+      </Param>
+      <NamedObject>
+        <gauge_id>default_gauge_field</gauge_id>
+        <source_id>sh_source_0</source_id>
+        <prop_id>sh_prop_0</prop_id>
+      </NamedObject>
+    </elem>
+   
+    <elem>
+      <Name>PROPAGATOR</Name>
+      <Frequency>1</Frequency>
+      <Param>
+        <version>10</version>
+        <quarkSpinType>FULL</quarkSpinType>
+        <obsvP>false</obsvP>
+        <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>CLOVER</FermAct>
+            <Mass>-0.2050</Mass>
+            <clovCoeff>1.20536588031793</clovCoeff>
+            <AnisoParam>
+              <anisoP>false</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>1</xi_0>
+              <nu>1</nu>
+            </AnisoParam>
+            <FermState>
+              <Name>STOUT_FERM_STATE</Name>
+              <rho>0.125</rho>
+              <n_smear>1</n_smear>
+              <orthog_dir>-1</orthog_dir>
+              <FermionBC>
+                <FermBC>SIMPLE_FERMBC</FermBC>
+                <boundary>1 1 1 -1</boundary>
+              </FermionBC>
+            </FermState>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2050</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1e-7</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>0</Pipeline>
+            <MaxIter>200</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_12</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_12</Reconstruct>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <CoarseSolverType>
+                <elem>GCR</elem>
+                <elem>CA_GCR</elem>
+              </CoarseSolverType>
+              <CoarseResidual>0.1 0.1 0.1</CoarseResidual>
+              <MaxCoarseIterations>12 12 8</MaxCoarseIterations>
+              <RelaxationOmegaMG>1.0 1.0 1.0</RelaxationOmegaMG>
+              <SmootherType>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+              </SmootherType>
+              <SmootherTol>0.25 0.25 0.25</SmootherTol>
+              <SmootherHaloPrecision>
+                <elem>DEFAULT</elem>
+                <elem>HALF</elem>
+                <elem>DEFAULT</elem>
+              </SmootherHaloPrecision>
+              <NullVectors>24 32</NullVectors>
+              <Pre-SmootherApplications>0 0</Pre-SmootherApplications>
+              <Post-SmootherApplications>8 8</Post-SmootherApplications>
+              <SubspaceSolver>
+                <elem>CG</elem>
+                <elem>CG</elem>
+              </SubspaceSolver>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <OuterGCRNKrylov>20</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <SetupOnGPU>1 1</SetupOnGPU>
+            </MULTIGRIDParams>
+            <SubspaceID>subspace_2416</SubspaceID>
+            <ThresholdCount>500</ThresholdCount>
+            <SolutionCheckP>true</SolutionCheckP>
+          </InvertParam>
+      </Param>
+      <NamedObject>
+        <gauge_id>default_gauge_field</gauge_id>
+        <source_id>sh_source_0</source_id>
+        <prop_id>sh_prop_1</prop_id>
+      </NamedObject>
+    </elem>
+ 	  <elem>
+      <Name>ERASE_NAMED_OBJECT</Name>
+      <NamedObject>
+	       <object_id>sh_source_0</object_id>
+      </NamedObject>
+    </elem>
+		<elem>
+        <Name>SINK_SMEAR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>5</version>
+          <Sink>
+            <version>2</version>
+            <SinkType>POINT_SINK</SinkType>
+            <j_decay>3</j_decay>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Sink>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <prop_id>sh_prop_0</prop_id>
+          <smeared_prop_id>prop_u_P</smeared_prop_id>
+        </NamedObject>
+      </elem>
+			<elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>sh_prop_0</object_id>
+        </NamedObject>
+      </elem>
+			<elem>
+        <Name>SINK_SMEAR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>5</version>
+          <Sink>
+            <version>2</version>
+            <SinkType>POINT_SINK</SinkType>
+            <j_decay>3</j_decay>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Sink>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <prop_id>sh_prop_1</prop_id>
+          <smeared_prop_id>prop_s_P</smeared_prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>sh_prop_1</object_id>
+        </NamedObject>
+      </elem>
+			<elem>
+        <Name>ERASE_QUDA_MULTIGRID_SUBSPACE</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>subspace_2416</object_id>
+        </NamedObject>
+      </elem>
+			<elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_u_P</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_s_P</object_id>
+        </NamedObject>
+      </elem>
+  </InlineMeasurements>
+
+Lattice initialized:
+  problem size = 64 64 64 128
+  layout size = 32 64 64 128
+  logical machine size = 1 1 2 8
+  subgrid size = 64 64 32 16
+  total number of nodes = 16
+  total volume = 33554432
+  subgrid volume = 2097152
+  Number of IO nodes = 16
+  IO grid size = 1 1 2 8
+Memory pool config:
+  threads per block                   : 128
+  memory pool size (per fraction)     : 60278 MB
+Accurate timing                       : 0
+Code generation:
+  GPU direct                          : 1
+  Shift optimization                  : 0
+  Propagator optimization             : 0
+   Temp Files Prepend path             : /mnt/bb/bjoo/bjoo_1267739_0/
+Finished init of RNG
+Finished lattice layout
+CHROMA: Attempt to read gauge field
+CHROMA: Gauge initialization: cfg_type = SZINQIO
+Parallel IO read
+Reading Double Precision
+QIO_read_finished
+CHROMA: Gauge field successfully read: time= 8.062111 secs
+CHROMA: initial plaquette measurement time=1.54921 secs
+CHROMA: There are 11 measurements 
+CHROMA: parsing inline measurements time=0.027877 secs
+CHROMA: Doing 11 measurements
+MAKE_SOURCE: propagator source constructor
+Source = POINT_SOURCE
+Point source
+Link smearing type = NONE
+color = 0
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+color = 1
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+color = 2
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+Attempt to update source
+Source successfully update
+MAKE_SOURCE: total time = 6.652005 secs
+MAKE_SOURCE: ran successfully
+PROPAGATOR: propagator calculation
+Snarf the source from a named buffer
+Source successfully read and parsed
+FermAct = CLOVER
+Try the various factories
+u0 is 1
+Suitable factory found: compute the quark prop
+Calling quarkProp
+In quarkProp()
+  ... constructing linop  ...0.688906 sec
+  ... constructing invLinOp u0 is 1
+tuneDslasP = 1
+Copying CoarseSolverType values to 2 members 
+Copying CoarseResidual values to 3 members 
+Copying MaxCoarseIterations values to 3 members 
+Copying SmootherType values to 3 members 
+Copying SmootherTol values to 3 members 
+Copying SmootherHaloPrecision values to 3 members 
+Parameter with SmootherSchwarzType not found. Setting default value 0 for 3 array members
+Parameter with SmootherSchwarzCycle not found. Setting default value 1 for 3 array members
+Copying SubspaceSolver values to 2 members 
+Copying RelaxationOmegaMG values to 3 members 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Creating Subspace
+Creating MG subspace.
+Enabling MG Dslash Autotuning
+Setting MULTIGRID solver params
+Set Level 0 blocking as:  4 4 4 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+Basic MULTIGRID params copied.
+About to Call newMultigridQuda
+Saving 271 sets of cached parameters to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/64_128/2/tunecache.tsv
+NewMultigridQuda state initialized.
+MULTIGRID preconditioner set.
+After call to newMultigridQuda
+Set Level 0 blocking as:  4 4 4 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+MULTIGrid Param Dump
+QUDA Multigrid Parameters:
+struct_size = -2147483648
+QUDA Inverter Parameters:
+struct_size = -2147483648
+dslash_type = 1
+inv_type = 2
+kappa = 0.5
+tol = 1e-10
+residual_type = 1
+maxiter = 10000
+reliable_delta = 1e-10
+reliable_delta_refinement = 1e-10
+use_alternative_reliable = 0
+use_sloppy_partial_accumulator = 0
+solution_accumulator_pipeline = 1
+max_res_increase = 1
+max_res_increase_total = 10
+max_hq_res_increase = 1
+max_hq_res_restart_total = 10
+heavy_quark_check = 10
+pipeline = 0
+num_offset = 0
+num_src = 1
+overlap = 0
+split_grid[d] = 1
+split_grid[d] = 1
+split_grid[d] = 1
+split_grid[d] = 1
+num_src_per_sub_partition = 1
+compute_action = 0
+compute_true_res = 1
+solution_type = 0
+solve_type = 0
+matpc_type = 1
+dagger = 0
+mass_normalization = 0
+solver_normalization = 0
+preserve_source = 0
+cpu_prec = 8
+cuda_prec = 8
+cuda_prec_sloppy = 4
+cuda_prec_refinement_sloppy = 4
+cuda_prec_precondition = 2
+cuda_prec_eigensolver = 4
+input_location = 1
+output_location = 1
+clover_location = 1
+gamma_basis = 0
+dirac_order = 1
+gcrNkrylov = 10
+madwf_param_load = 0
+madwf_param_save = 0
+use_init_guess = 0
+omega = 1
+struct_size = -2147483648
+clover_location = 1
+clover_cpu_prec = 8
+clover_cuda_prec = 8
+clover_cuda_prec_sloppy = 4
+clover_cuda_prec_refinement_sloppy = 4
+clover_cuda_prec_precondition = 2
+clover_cuda_prec_eigensolver = 4
+compute_clover_trlog = 1
+compute_clover = 0
+compute_clover_inverse = 0
+return_clover = 0
+return_clover_inverse = 0
+clover_rho = 0
+clover_coeff = 1
+clover_csw = 0
+clover_order = 9
+verbosity = 2
+iter = 0
+gflops = 0
+secs = 0
+cuda_prec_ritz = 4
+n_ev = 8
+max_search_dim = 64
+rhs_idx = 0
+deflation_grid = 1
+eigcg_max_restarts = 4
+max_restart_num = 3
+tol_restart = 5e-05
+inc_tol = 0.01
+eigenval_tol = 0.1
+use_resident_solution = 0
+make_resident_solution = 0
+chrono_use_resident = 0
+chrono_make_resident = 0
+chrono_replace_last = 0
+chrono_max_dim = 0
+chrono_index = 0
+chrono_precision = 8
+extlib_type = 1
+native_blas_lapack = 1
+use_mobius_fused_kernel = 1
+n_level = 3
+setup_type = 0
+pre_orthonormalize = 0
+post_orthonormalize = 1
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+use_eig_solver[i] = 0
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+setup_ca_basis[i] = 0
+setup_ca_basis_size[i] = 4
+setup_ca_lambda_min[i] = 0
+setup_ca_lambda_max[i] = -1
+n_block_ortho[i] = 1
+block_ortho_two_pass[i] = 1
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 22
+smoother_solve_type[i] = 2
+coarse_solver_ca_basis[i] = 0
+coarse_solver_ca_basis_size[i] = 4
+coarse_solver_ca_lambda_min[i] = 0
+coarse_solver_ca_lambda_max[i] = -1
+smoother_halo_precision[i] = -2147483648
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+spin_block_size[i] = 2
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 0
+nu_post[i] = 8
+coarse_grid_solution_type[i] = 2
+smoother_solver_ca_basis[i] = 0
+smoother_solver_ca_lambda_min[i] = 0
+smoother_solver_ca_lambda_max[i] = -1
+n_vec[i] = 24
+transfer_type[i] = 0
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.1
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+use_eig_solver[i] = 0
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+setup_ca_basis[i] = 0
+setup_ca_basis_size[i] = 4
+setup_ca_lambda_min[i] = 0
+setup_ca_lambda_max[i] = -1
+n_block_ortho[i] = 1
+block_ortho_two_pass[i] = 1
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 22
+smoother_solve_type[i] = 2
+coarse_solver_ca_basis[i] = 0
+coarse_solver_ca_basis_size[i] = 4
+coarse_solver_ca_lambda_min[i] = 0
+coarse_solver_ca_lambda_max[i] = -1
+smoother_halo_precision[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+spin_block_size[i] = 1
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 0
+nu_post[i] = 8
+coarse_grid_solution_type[i] = 2
+smoother_solver_ca_basis[i] = 0
+smoother_solver_ca_lambda_min[i] = 0
+smoother_solver_ca_lambda_max[i] = -1
+n_vec[i] = 32
+transfer_type[i] = 0
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.1
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 1
+num_setup_iter[i] = 1
+use_eig_solver[i] = 0
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 0
+setup_ca_basis[i] = 0
+setup_ca_basis_size[i] = 4
+setup_ca_lambda_min[i] = 0
+setup_ca_lambda_max[i] = -1
+n_block_ortho[i] = 1
+block_ortho_two_pass[i] = 1
+coarse_solver[i] = 22
+coarse_solver_maxiter[i] = 8
+smoother[i] = 2
+smoother_solve_type[i] = 2
+coarse_solver_ca_basis[i] = 0
+coarse_solver_ca_basis_size[i] = 4
+coarse_solver_ca_lambda_min[i] = 0
+coarse_solver_ca_lambda_max[i] = -1
+smoother_halo_precision[i] = -2147483648
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+smoother_solver_ca_basis[i] = 0
+smoother_solver_ca_lambda_min[i] = 0
+smoother_solver_ca_lambda_max[i] = -1
+transfer_type[i] = 0
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.1
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+setup_minimize_memory = 0
+compute_null_vector = 1
+generate_all_levels = 1
+run_verify = 0
+run_low_mode_check = 0
+run_oblique_proj_check = 0
+coarse_guess = 0
+preserve_deflation = 0
+vec_load[i] = 0
+vec_store[i] = 0
+vec_load[i] = 0
+vec_store[i] = 0
+gflops = 0
+secs = 0
+use_mma = 0
+allow_truncation = 0
+staggered_kd_dagger_approximation = 0
+thin_update_only = 0
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ):  subspace_create_time = 642.528622 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): init_time = 647.423647 sec. 
+ ...647.512983 sec
+  ... constructing PrecFermActQprop  ...1e-06 sec
+Creating qprop took 648.201913sec 
+Entering quarkProp4
+GCR: Convergence at 19 iterations, L2 relative residual: iterated = 8.196460e-08, true = 8.196460e-08 (requested = 1.000000e-07)
+Saving 388 sets of cached parameters to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/64_128/2/tunecache.tsv
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=193.54628 s	Performance=229.290851337634 GFLOPS	Total Time (incl. load gauge)=194.011625 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 19 iterations. Rsd = 3.94623236446652e-08 Relative Rsd = 7.58375617587978e-08
+GCR: Convergence at 20 iterations, L2 relative residual: iterated = 8.414181e-08, true = 8.414181e-08 (requested = 1.000000e-07)
+Saving 389 sets of cached parameters to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/64_128/2/tunecache.tsv
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.062887 s	Performance=16739.1091284864 GFLOPS	Total Time (incl. load gauge)=2.082388 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 20 iterations. Rsd = 4.38199387818568e-08 Relative Rsd = 7.86273800137381e-08
+GCR: Convergence at 19 iterations, L2 relative residual: iterated = 6.154471e-08, true = 6.154471e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=1.883588 s	Performance=17230.3141096588 GFLOPS	Total Time (incl. load gauge)=1.901349 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 19 iterations. Rsd = 3.27974097777922e-08 Relative Rsd = 5.86579025818137e-08
+GCR: Convergence at 20 iterations, L2 relative residual: iterated = 6.526328e-08, true = 6.526328e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.001137 s	Performance=17255.635477599 GFLOPS	Total Time (incl. load gauge)=2.018793 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 20 iterations. Rsd = 3.13108942684947e-08 Relative Rsd = 5.94280045905255e-08
+GCR: Convergence at 20 iterations, L2 relative residual: iterated = 8.245510e-08, true = 8.245510e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.002402 s	Performance=17244.7343803772 GFLOPS	Total Time (incl. load gauge)=2.020169 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 20 iterations. Rsd = 4.52013409742213e-08 Relative Rsd = 7.82368652106541e-08
+GCR: Convergence at 19 iterations, L2 relative residual: iterated = 7.120036e-08, true = 7.120036e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=1.900525 s	Performance=17245.7696497126 GFLOPS	Total Time (incl. load gauge)=1.918318 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 19 iterations. Rsd = 3.31128957723714e-08 Relative Rsd = 6.52558716617056e-08
+GCR: Convergence at 21 iterations, L2 relative residual: iterated = 6.627471e-08, true = 6.627471e-08 (requested = 1.000000e-07)
+Saving 391 sets of cached parameters to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/64_128/2/tunecache.tsv
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.181219 s	Performance=16804.585604655 GFLOPS	Total Time (incl. load gauge)=2.200713 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 21 iterations. Rsd = 3.35937129166593e-08 Relative Rsd = 6.17753240961042e-08
+GCR: Convergence at 20 iterations, L2 relative residual: iterated = 6.041846e-08, true = 6.041846e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.008918 s	Performance=17212.4515228835 GFLOPS	Total Time (incl. load gauge)=2.026593 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 20 iterations. Rsd = 3.09928085346322e-08 Relative Rsd = 5.67132194466421e-08
+GCR: Convergence at 20 iterations, L2 relative residual: iterated = 6.684597e-08, true = 6.684597e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.002127 s	Performance=17247.1030123144 GFLOPS	Total Time (incl. load gauge)=2.020193 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 20 iterations. Rsd = 3.24088339203963e-08 Relative Rsd = 6.12856866979982e-08
+GCR: Convergence at 20 iterations, L2 relative residual: iterated = 6.916988e-08, true = 6.916988e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.001136 s	Performance=17255.6441005189 GFLOPS	Total Time (incl. load gauge)=2.019029 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 20 iterations. Rsd = 3.57103709402587e-08 Relative Rsd = 6.49011819463802e-08
+GCR: Convergence at 19 iterations, L2 relative residual: iterated = 8.635693e-08, true = 8.635693e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=1.901464 s	Performance=17237.2531709882 GFLOPS	Total Time (incl. load gauge)=1.919229 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 19 iterations. Rsd = 4.1892695217234e-08 Relative Rsd = 7.86947652126386e-08
+GCR: Convergence at 21 iterations, L2 relative residual: iterated = 6.417734e-08, true = 6.417734e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=2.126358 s	Performance=17238.1515285761 GFLOPS	Total Time (incl. load gauge)=2.145042 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 21 iterations. Rsd = 3.40925200004202e-08 Relative Rsd = 6.0940977716642e-08
+Exiting quarkProp4
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Destructing
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.00021
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.144921
+Propagator computed: time= 871.348259 secs
+Start writing propagator info
+Propagator successfully updated
+PROPAGATOR: total time = 874.339961 secs
+PROPAGATOR: ran successfully
+PROPAGATOR: propagator calculation
+Snarf the source from a named buffer
+Source successfully read and parsed
+FermAct = CLOVER
+Try the various factories
+u0 is 1
+Suitable factory found: compute the quark prop
+Calling quarkProp
+In quarkProp()
+  ... constructing linop  ...0.087379 sec
+  ... constructing invLinOp u0 is 1
+tuneDslasP = 1
+Copying CoarseSolverType values to 2 members 
+Copying CoarseResidual values to 3 members 
+Copying MaxCoarseIterations values to 3 members 
+Copying SmootherType values to 3 members 
+Copying SmootherTol values to 3 members 
+Copying SmootherHaloPrecision values to 3 members 
+Parameter with SmootherSchwarzType not found. Setting default value 0 for 3 array members
+Parameter with SmootherSchwarzCycle not found. Setting default value 1 for 3 array members
+Copying SubspaceSolver values to 2 members 
+Copying RelaxationOmegaMG values to 3 members 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Recovering subspace...
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ):  subspace_update_time = 9.693591 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): init_time = 18.468688 sec. 
+ ...18.569095 sec
+  ... constructing PrecFermActQprop  ...0 sec
+Creating qprop took 18.656491sec 
+Entering quarkProp4
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 2.940630e-08, true = 2.940630e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.682689 s	Performance=16648.4020381286 GFLOPS	Total Time (incl. load gauge)=0.698345 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.41041401306778e-08 Relative Rsd = 2.73666213979294e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 4.055034e-08, true = 4.055034e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.682004 s	Performance=16682.8155011408 GFLOPS	Total Time (incl. load gauge)=0.699806 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 2.10331192995324e-08 Relative Rsd = 3.81285319931236e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.954986e-08, true = 3.954986e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.681405 s	Performance=16697.4807978222 GFLOPS	Total Time (incl. load gauge)=0.699061 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 2.09670319473983e-08 Relative Rsd = 3.78913615880176e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.298548e-08, true = 3.298548e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.681534 s	Performance=16694.3203171669 GFLOPS	Total Time (incl. load gauge)=0.699064 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.57635463875824e-08 Relative Rsd = 3.02125986089209e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.607279e-08, true = 3.607279e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.683413 s	Performance=16667.3615716412 GFLOPS	Total Time (incl. load gauge)=0.700897 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.96771830664146e-08 Relative Rsd = 3.44226716374708e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 2.882481e-08, true = 2.882481e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.681446 s	Performance=16696.476174253 GFLOPS	Total Time (incl. load gauge)=0.699717 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.33533065376595e-08 Relative Rsd = 2.65643993611325e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 4.183647e-08, true = 4.183647e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.683701 s	Performance=16660.3406661099 GFLOPS	Total Time (incl. load gauge)=0.70145 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 2.11258992301943e-08 Relative Rsd = 3.92409097964938e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.448597e-08, true = 3.448597e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.68138 s	Performance=16698.0934325046 GFLOPS	Total Time (incl. load gauge)=0.698959 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.76097584820874e-08 Relative Rsd = 3.25564109645561e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.317183e-08, true = 3.317183e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.683278 s	Performance=16670.6546585138 GFLOPS	Total Time (incl. load gauge)=0.701137 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.60188701406713e-08 Relative Rsd = 3.05887818535691e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.255707e-08, true = 3.255707e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.683227 s	Performance=16671.899052233 GFLOPS	Total Time (incl. load gauge)=0.701057 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.673558403192e-08 Relative Rsd = 3.07260998346332e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 3.265883e-08, true = 3.265883e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.682394 s	Performance=16673.2809828926 GFLOPS	Total Time (incl. load gauge)=0.699951 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 1.57731513236212e-08 Relative Rsd = 2.99276865084287e-08
+GCR: Convergence at 10 iterations, L2 relative residual: iterated = 4.191606e-08, true = 4.191606e-08 (requested = 1.000000e-07)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): time=0.683047 s	Performance=16676.2925153906 GFLOPS	Total Time (incl. load gauge)=0.700895 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): 10 iterations. Rsd = 2.2165079177919e-08 Relative Rsd = 4.00337440586177e-08
+Exiting quarkProp4
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( subspace_2416 ): Destructing
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.000161
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 2.472009
+Propagator computed: time= 74.990229 secs
+Start writing propagator info
+Propagator successfully updated
+PROPAGATOR: total time = 76.892785 secs
+PROPAGATOR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = sh_source_0
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+SINK_SMEAR: Sink smearing for propagators
+Attempt to read forward propagator
+Sink_xml = <Sink>
+      <version>2</version>
+      <SinkType>POINT_SINK</SinkType>
+      <j_decay>3</j_decay>
+      <Displacement>
+        <version>1</version>
+        <DisplacementType>NONE</DisplacementType>
+      </Displacement>
+    </Sink>
+
+Sink = POINT_SINK
+Point sink
+Sink successfully updated
+SINK_SMEAR: total time = 16.170295 secs
+SINK_SMEAR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = sh_prop_0
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+SINK_SMEAR: Sink smearing for propagators
+Attempt to read forward propagator
+Sink_xml = <Sink>
+      <version>2</version>
+      <SinkType>POINT_SINK</SinkType>
+      <j_decay>3</j_decay>
+      <Displacement>
+        <version>1</version>
+        <DisplacementType>NONE</DisplacementType>
+      </Displacement>
+    </Sink>
+
+Sink = POINT_SINK
+Point sink
+Sink successfully updated
+SINK_SMEAR: total time = 14.266361 secs
+SINK_SMEAR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = sh_prop_1
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+ERASE_QUDA_MULTIGRID_SUBSPACE: object erase
+Attempt to erase object name = subspace_2416
+ERASE_QUDA_MULTIGRID_SUBSPACE: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_u_P
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_s_P
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+CHROMA: measurements: time= 989.145757 secs
+CHROMA: total time = 1006.855339 secs
+CHROMA: ran successfully
+Saving 270 sets of cached parameters to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/64_128/2/profile_prop_rocm4.5.2_2_GDR1_1267739_0.tsv
+Saving 0 sets of cached profiles to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/64_128/2/profile_prop_rocm4.5.2_2_GDR1_1267739_0_async.tsv
+
+               initQuda Total time =     0.341 secs
+                     init     =     0.341 secs ( 99.999%),	 with        2 calls at 1.703e+05 us per call
+        total accounted       =     0.341 secs ( 99.999%)
+        total missing         =     0.000 secs (  0.001%)
+
+          loadGaugeQuda Total time =     1.763 secs
+                 download     =     0.876 secs ( 49.699%),	 with        2 calls at 4.381e+05 us per call
+                     init     =     0.049 secs (  2.752%),	 with        2 calls at 2.426e+04 us per call
+                  compute     =     0.838 secs ( 47.547%),	 with        2 calls at 4.191e+05 us per call
+                     free     =     0.000 secs (  0.001%),	 with        2 calls at 9.500e+00 us per call
+        total accounted       =     1.763 secs ( 99.999%)
+        total missing         =     0.000 secs (  0.001%)
+
+         loadCloverQuda Total time =     3.122 secs
+                 download     =     0.813 secs ( 26.030%),	 with        2 calls at 4.063e+05 us per call
+                     init     =     0.000 secs (  0.002%),	 with        4 calls at 1.375e+01 us per call
+                     free     =     0.000 secs (  0.000%),	 with        2 calls at 2.500e+00 us per call
+        total accounted       =     0.813 secs ( 26.032%)
+        total missing         =     2.309 secs ( 73.968%)
+
+             invertQuda Total time =   876.898 secs
+                 download     =     0.023 secs (  0.003%),	 with       24 calls at 9.776e+02 us per call
+                   upload     =     0.011 secs (  0.001%),	 with       24 calls at 4.751e+02 us per call
+                     init     =   642.548 secs ( 73.275%),	 with       49 calls at 1.311e+07 us per call
+                 preamble     =    10.347 secs (  1.180%),	 with       49 calls at 2.112e+05 us per call
+                  compute     =   223.808 secs ( 25.523%),	 with       24 calls at 9.325e+06 us per call
+                 epilogue     =     0.144 secs (  0.016%),	 with       72 calls at 1.996e+03 us per call
+                     free     =     0.002 secs (  0.000%),	 with       73 calls at 2.159e+01 us per call
+        total accounted       =   876.883 secs ( 99.998%)
+        total missing         =     0.014 secs (  0.002%)
+
+                endQuda Total time =     0.346 secs
+
+       initQuda-endQuda Total time =  1007.544 secs
+
+                   QUDA Total time =   882.468 secs
+                 download     =     1.712 secs (  0.194%),	 with       28 calls at 6.115e+04 us per call
+                   upload     =     0.011 secs (  0.001%),	 with       24 calls at 4.750e+02 us per call
+                     init     =   642.938 secs ( 72.857%),	 with       57 calls at 1.128e+07 us per call
+                 preamble     =    10.347 secs (  1.173%),	 with       49 calls at 2.112e+05 us per call
+                  compute     =   224.646 secs ( 25.457%),	 with       26 calls at 8.640e+06 us per call
+                 epilogue     =     0.144 secs (  0.016%),	 with       72 calls at 1.996e+03 us per call
+                     free     =     0.002 secs (  0.000%),	 with       77 calls at 2.077e+01 us per call
+        total accounted       =   879.800 secs ( 99.698%)
+        total missing         =     2.669 secs (  0.302%)
+
+Device memory used = 28099.5 MiB
+Pinned device memory used = 0.0 MiB
+Managed memory used = 0.0 MiB
+Page-locked host memory used = 1750.6 MiB
+Total host memory used >= 1950.3 MiB
+
+
+        ------------------------
+        -- qdp-jit statistics --
+        ------------------------
+
+Memory cache 
+  lattice objects copied to host memory:   28
+  lattice objects copied to device memory: 74
+
+Pool allocator 
+  peak memory usage:                       62840652032
+Code generator 
+  functions jit-compiled:                  86
+  total time for IR builder:               0.017044 s
+  total time for libm IR linking:          0.062778 s
+  total time for IR passes:                0.005294 s
+  total time for code generation:          6.713746 s
+  total time for linking:                  6.779205 s
+  total time for dynamic loading:          0.028736 s
