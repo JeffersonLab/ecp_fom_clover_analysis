@@ -1,0 +1,21 @@
+Memory bandwidth:
+480GB/sec on 12GB K80 card
+9XXGB/sec on 16GB V100 card
+
+770GB/sec memory bandwidth on 16GB P100 card
+540GB/sec memory bandwidth on 12GB P100 card
+
+Peak flops:
+DP is 2/3 V100
+DP is 4.7TF
+SP is 9.3TF
+HP is 18.7TF
+
+Peak:
+SP 1.2 to 1.3TF
+
+Dslash:
+DP on 2080   250 GF  
+DP on P100   389 GF
+DP on V100   560 GF  recon=18
+DP on V100   560 GF  recon=12
