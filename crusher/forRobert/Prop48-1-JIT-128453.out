@@ -1,0 +1,2012 @@
+
+Currently Loaded Modules:
+  1) craype-x86-trento                     10) cray-libsci/21.08.1.2
+  2) libfabric/1.15.0.0                    11) PrgEnv-cray/8.3.3
+  3) craype-network-ofi                    12) xalt/1.3.0
+  4) perftools-base/22.05.0                13) DefApps/default
+  5) xpmem/2.3.2-2.2_7.8__g93dd7ee.shasta  14) craype-accel-amd-gfx90a
+  6) cray-pmi/6.1.2                        15) cray-mpich/8.1.16
+  7) cce/14.0.0                            16) cmake/3.22.2
+  8) craype/2.7.15                         17) rocm/4.5.2
+  9) cray-dsmml/0.2.2
+
+ 
+
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_0
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_1
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_2
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_3
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_6
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_7
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_4
+crusher187 Creating /mnt/bb/bjoo/bjoo_128453_5
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_0
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_3
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_1
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_2
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_4
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_5
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_6
+crusher123 Creating /mnt/bb/bjoo/bjoo_128453_7
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_1
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_0
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_7
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_4
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_6
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_2
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_3
+crusher122 Creating /mnt/bb/bjoo/bjoo_128453_5
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_2
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_6
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_5
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_3
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_7
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_0
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_1
+crusher124 Creating /mnt/bb/bjoo/bjoo_128453_4
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Initializing QMP part
+Setting CUDA device
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+Initializing QMP part
+PE 0: MPICH processor detected:
+PE 0:   AMD Milan (25:48:1) (family:model:stepping)
+PE 0: MPICH environment settings =====================================
+PE 0:   MPICH_ENV_DISPLAY                              = 1
+PE 0:   MPICH_VERSION_DISPLAY                          = 0
+PE 0:   MPICH_ABORT_ON_ERROR                           = 0
+PE 0:   MPICH_CPUMASK_DISPLAY                          = 0
+PE 0:   MPICH_STATS_DISPLAY                            = 0
+PE 0:   MPICH_RANK_REORDER_METHOD                      = 1
+PE 0:   MPICH_RANK_REORDER_DISPLAY                     = 0
+PE 0:   MPICH_MEMCPY_MEM_CHECK                         = 0
+PE 0:   MPICH_USE_SYSTEM_MEMCPY                        = 0
+PE 0:   MPICH_OPTIMIZED_MEMCPY                         = 1
+PE 0:   MPICH_ALLOC_MEM_PG_SZ                          = 4096
+PE 0:   MPICH_ALLOC_MEM_POLICY                         = PREFERRED
+PE 0:   MPICH_ALLOC_MEM_AFFINITY                       = SYS_DEFAULT
+PE 0:   MPICH_MALLOC_FALLBACK                          = 0
+PE 0:   MPICH_MEM_DEBUG_FNAME                          = 
+PE 0:   MPICH_INTERNAL_MEM_AFFINITY                    = SYS_DEFAULT
+PE 0:   MPICH_NO_BUFFER_ALIAS_CHECK                    = 0
+PE 0:   MPICH_COLL_SYNC                                = MPI_Bcast
+PE 0:   MPICH_SINGLE_HOST_ENABLED                        = 1
+PE 0: MPICH/RMA environment settings =================================
+PE 0:   MPICH_RMA_MAX_PENDING                          = 128
+PE 0:   MPICH_RMA_SHM_ACCUMULATE                       = 0
+PE 0: MPICH/GPU environment settings =================================
+PE 0:   MPICH_GPU_SUPPORT_ENABLED                      = 1
+PE 0:   MPICH_GPU_IPC_ENABLED                          = 1
+PE 0:   MPICH_GPU_EAGER_REGISTER_HOST_MEM              = 1
+PE 0:   MPICH_GPU_IPC_THRESHOLD                        = 1024
+PE 0:   MPICH_GPU_NO_ASYNC_MEMCPY                      = 0
+PE 0:   MPICH_GPU_COLL_STAGING_AREA_OPT                = 1
+PE 0:   MPICH_GPU_EAGER_DEVICE_MEM                     = 0
+PE 0:   MPICH_USE_GPU_STREAM_TRIGGERED                 = 0
+PE 0:   MPICH_NUM_MAX_GPU_STREAMS                      = 27
+PE 0:   MPICH_ENABLE_YAKSA                             = 0
+PE 0: MPICH/Dynamic Process Management environment settings ==========
+PE 0:   MPICH_DPM_DIR                                  = 40805712
+PE 0:   MPICH_LOCAL_SPAWN_SERVER                       = -1
+PE 0: MPICH/SMP environment settings =================================
+PE 0:   MPICH_SMP_SINGLE_COPY_MODE                     = XPMEM
+PE 0:   MPICH_SMP_SINGLE_COPY_SIZE                     = 8192
+PE 0:   MPICH_SHM_PROGRESS_MAX_BATCH_SIZE              = 8
+PE 5: Host crusher122 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x8d0]
+PE 21: Host crusher124 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x8c0]
+PE 3: Host crusher122 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x850]
+PE 6: Host crusher122 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x8d1]
+PE 4: Host crusher122 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x8d0]
+PE 0: Launcher/PMI did not supply NIC data (node_id=0, rc=0, num_pmi_nics=0)
+PE 0: MPICH_OFI_NIC_POLICY = NUMA
+PE 0: ======================== Display NIC Addrs  ========================
+PE 2: Host crusher122 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x850]
+PE 7: Host crusher122 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x8d1]
+PE 0: Hostname: crusher122
+PE 0:   MPICH_OFI_NIC_POLICY: NUMA
+PE 0:   Number of NICs: 4
+PE 0:     nic_index 0: domain_name=cxi0, numa_domain=3, addr=0x851
+PE 0:     nic_index 1: domain_name=cxi1, numa_domain=1, addr=0x850
+PE 0:     nic_index 2: domain_name=cxi2, numa_domain=0, addr=0x8d0
+PE 0:     nic_index 3: domain_name=cxi3, numa_domain=2, addr=0x8d1
+PE 0:   Number of NUMA domains: 4
+PE 1: Host crusher122 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x851]
+PE 0:     numa_domain 0: cpu_list=[0-15,64-79]
+PE 0:     numa_domain 1: cpu_list=[16-31,80-95]
+PE 0:     numa_domain 2: cpu_list=[32-47,96-111]
+PE 0:     numa_domain 3: cpu_list=[48-63,112-127]
+PE 0: ====================================================================
+PE 0: Host crusher122 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x851]
+PE 0: MPICH/OFI environment settings =================================
+PE 0:   MPICH_OFI_USE_PROVIDER                         = cxi
+PE 0:   MPICH_OFI_VERBOSE                              = 0
+PE 0:   MPICH_OFI_NIC_VERBOSE                          = 2
+PE 0:   FI_CXI_RDZV_THRESHOLD                          = 16384
+PE 0:   FI_CXI_RDZV_EAGER_SIZE                         = 2048
+PE 0:   FI_CXI_DEFAULT_CQ_SIZE                         = 32768
+PE 0:   FI_CXI_OFLOW_BUF_SIZE                          = 12582912
+PE 0:   FI_CXI_OFLOW_BUF_COUNT                         = 3
+PE 0:   FI_MR_CACHE_MAX_SIZE                           = -1
+PE 0:   FI_MR_CACHE_MAX_COUNT                          = 0
+PE 0:   MPICH_OFI_DEFAULT_TCLASS                       = TC_BEST_EFFORT
+PE 0:   MPICH_OFI_TCLASS_ERRORS                        = warn
+PE 0:   MPICH_OFI_CXI_PID_BASE                         = 0
+PE 0:   MPICH_OFI_USE_SCALABLE_STARTUP                 = 1
+PE 0:   MPICH_OFI_NIC_POLICY                           = NUMA
+PE 0:   MPICH_OFI_NIC_MAPPING                          = NULL
+PE 0:   MPICH_OFI_NUM_NICS                             = NULL
+PE 0:   MPICH_CH4_OFI_ENABLE_CONTROL_AUTO_PROGRESS     = -1
+PE 0:   MPICH_CH4_OFI_ENABLE_DATA_AUTO_PROGRESS        = -1
+PE 0:   MPICH_OFI_RMA_STARTUP_CONNECT                  = 0
+PE 0:   MPICH_OFI_SKIP_NIC_SYMMETRY_TEST               = 0
+PE 0:   MPICH_OFI_STARTUP_CONNECT                      = 0
+PE 13: Host crusher123 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x9c0]
+PE 20: Host crusher124 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x8c0]
+PE 18: Host crusher124 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x840]
+PE 19: Host crusher124 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x840]
+PE 16: Host crusher124 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x841]
+PE 22: Host crusher124 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x8c1]
+PE 17: Host crusher124 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x841]
+PE 23: Host crusher124 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x8c1]
+PE 12: Host crusher123 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x9c0]
+PE 10: Host crusher123 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x940]
+PE 11: Host crusher123 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x940]
+PE 15: Host crusher123 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x9c1]
+PE 8: Host crusher123 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x941]
+PE 9: Host crusher123 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x941]
+PE 14: Host crusher123 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x9c1]
+PE 28: Host crusher187 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x15c0]
+PE 24: Host crusher187 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x1541]
+PE 25: Host crusher187 selected NIC index=0, domain_name=cxi0, numa_node=3, address=[0x1541]
+PE 26: Host crusher187 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x1540]
+PE 27: Host crusher187 selected NIC index=1, domain_name=cxi1, numa_node=1, address=[0x1540]
+PE 29: Host crusher187 selected NIC index=2, domain_name=cxi2, numa_node=0, address=[0x15c0]
+PE 30: Host crusher187 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x15c1]
+PE 31: Host crusher187 selected NIC index=3, domain_name=cxi3, numa_node=2, address=[0x15c1]
+PE 0: MPICH/COLLECTIVE environment settings ==========================
+PE 0:   MPICH_COLL_OPT_OFF                             = 0
+PE 0:   MPICH_BCAST_ONLY_TREE                          = 1
+PE 0:   MPICH_BCAST_INTERNODE_RADIX                    = 4
+PE 0:   MPICH_BCAST_INTRANODE_RADIX                    = 4
+PE 0:   MPICH_ALLTOALL_SHORT_MSG                       = 64-512
+PE 0:   MPICH_ALLTOALL_SYNC_FREQ                       = 1-24
+PE 0:   MPICH_ALLTOALL_BLK_SIZE                        = 16384
+PE 0:   MPICH_ALLTOALL_CHUNKING_MAX_NODES              = 90
+PE 0:   MPICH_ALLTOALLV_THROTTLE                       = 8
+PE 0:   MPICH_ALLGATHER_VSHORT_MSG                     = 8192-16384
+PE 0:   MPICH_ALLGATHERV_VSHORT_MSG                    = 8192-16384
+PE 0:   MPICH_GATHERV_SHORT_MSG                        = 131072
+PE 0:   MPICH_GATHERV_MIN_COMM_SIZE                    = 64
+PE 0:   MPICH_GATHERV_MAX_TMP_SIZE                     = 536870912
+PE 0:   MPICH_GATHERV_SYNC_FREQ                        = 16
+PE 0:   MPICH_IGATHERV_RAND_COMMSIZE                   = 2048
+PE 0:   MPICH_IGATHERV_RAND_RECVLIST                   = 0
+PE 0:   MPICH_SCATTERV_SHORT_MSG                       = 2048-8192
+PE 0:   MPICH_SCATTERV_MIN_COMM_SIZE                   = 64
+PE 0:   MPICH_SCATTERV_MAX_TMP_SIZE                    = 536870912
+PE 0:   MPICH_SCATTERV_SYNC_FREQ                       = 16
+PE 0:   MPICH_SCATTERV_SYNCHRONOUS                     = 0
+PE 0:   MPICH_ALLREDUCE_MAX_SMP_SIZE                   = 262144
+PE 0:   MPICH_ALLREDUCE_BLK_SIZE                       = 716800
+PE 0:   MPICH_GPU_ALLREDUCE_USE_KERNEL                 = 0
+PE 0:   MPICH_ALLREDUCE_NO_SMP                         = 0
+PE 0:   MPICH_REDUCE_NO_SMP                            = 0
+PE 0:   MPICH_REDUCE_SCATTER_COMMUTATIVE_LONG_MSG_SIZE = 524288
+PE 0:   MPICH_REDUCE_SCATTER_MAX_COMMSIZE              = 1000
+PE 0:   MPICH_SHARED_MEM_COLL_OPT                      = 1
+PE 0:   MPICH_SHARED_MEM_COLL_NCELLS                   = 8
+PE 0:   MPICH_SHARED_MEM_COLL_CELLSZ                   = 256
+PE 0: MPICH MPIIO environment settings ===============================
+PE 0:   MPICH_MPIIO_HINTS_DISPLAY                      = 0
+PE 0:   MPICH_MPIIO_HINTS                              = NULL
+PE 0:   MPICH_MPIIO_ABORT_ON_RW_ERROR                  = disable
+PE 0:   MPICH_MPIIO_CB_ALIGN                           = 2
+PE 0:   MPICH_MPIIO_DVS_MAXNODES                       = -1
+PE 0:   MPICH_MPIIO_AGGREGATOR_PLACEMENT_DISPLAY       = 0
+PE 0:   MPICH_MPIIO_AGGREGATOR_PLACEMENT_STRIDE        = -1
+PE 0:   MPICH_MPIIO_MAX_NUM_IRECV                      = 50
+PE 0:   MPICH_MPIIO_MAX_NUM_ISEND                      = 50
+PE 0:   MPICH_MPIIO_MAX_SIZE_ISEND                     = 10485760
+PE 0:   MPICH_MPIIO_OFI_STARTUP_CONNECT                = disable
+PE 0:   MPICH_MPIIO_OFI_STARTUP_NODES_AGGREGATOR        = 2
+PE 0: MPICH MPIIO statistics environment settings ====================
+PE 0:   MPICH_MPIIO_STATS                              = 0
+PE 0:   MPICH_MPIIO_TIMERS                             = 0
+PE 0:   MPICH_MPIIO_WRITE_EXIT_BARRIER                 = 1
+PE 0: MPICH Thread Safety settings ===================================
+PE 0:   MPICH_ASYNC_PROGRESS                           = 0
+PE 0:   MPICH_OPT_THREAD_SYNC                          = 1
+PE 0:   rank 0 required = single, was provided = single
+Initialize done
+Initializing QUDA device (using CUDA device no. 0)
+QUDA 1.1.0 (git 1.1.0-be1766a51-gfx90a)
+*** HIP BACKEND ***
+HIP Driver version = 40421432
+HIP Runtime version = 40421432
+Found device 0: 
+Found device 1: 
+Found device 2: 
+Found device 3: 
+Found device 4: 
+Found device 5: 
+Found device 6: 
+Found device 7: 
+Using device 0: 
+WARNING: Data reordering done on GPU (set with QUDA_REORDER_LOCATION=GPU/CPU)
+Initializing QDP-JIT GPUs
+GPU autodetect
+  Device name                         : 
+  GCN architecture                    : gfx910
+  Shared memory                       : 64 KB
+  Max grid  (x,y,z)                   : (1073741824,1073741824,1073741824)
+  Max block (x,y,z)                   : (1024,1024,1024)
+  GPU memory (free,total)             : 65519/65520 MB
+LLVM initialization
+  Target machine CPU                  : gfx90a
+  Target triple                       : amdgcn-amd-amdhsa
+Initializing QUDA memory
+Peer-to-peer enabled for rank   0 (gpu=0) with neighbor   1 (gpu=1) dir=1, dim=3, access rank = (  4)
+Loaded 742 sets of cached parameters from /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/48_512/run/tunecache.tsv
+Loaded 742 sets of cached parameters from /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/48_512/run/tunecache.tsv
+WARNING: Using device memory pool allocator
+WARNING: Using pinned memory pool allocator
+hipblasCreated successfully
+Linkage = bool Chroma::MapObjectDiskEnv::registerAll(): registering map obj key colorvec
+0
+InlineMeasurements are: 
+<InlineMeasurements>
+
+
+    <elem>
+      <annotation>
+        Compute propagator solution vectors
+      </annotation>
+      <Name>PROP_DISTILLATION</Name>
+      <Frequency>1</Frequency>
+      <Param>
+
+        <Contractions>
+          <mass_label>U-0.0865</mass_label>
+          <num_vecs>32</num_vecs>
+          <t_sources>173</t_sources>
+          <decay_dir>3</decay_dir>
+          <Nt_forward>32</Nt_forward>
+          <Nt_backward>0</Nt_backward>
+        </Contractions>
+
+        <Propagator>
+          <version>10</version>
+          <quarkSpinType>FULL</quarkSpinType>
+          <obsvP>false</obsvP>
+          <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>SEOPREC_CLOVER</FermAct>
+            <Mass>-0.0865</Mass>
+            <clovCoeffR>1.58932722549812</clovCoeffR>
+            <clovCoeffT>0.902783591772098</clovCoeffT>
+            <AnisoParam>
+              <anisoP>true</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>4.3</xi_0>
+              <nu>1.265</nu>
+            </AnisoParam>
+	    <FermionBC>
+              <FermBC>SIMPLE_FERMBC</FermBC>
+              <boundary>1 1 1 -1</boundary>
+	    </FermionBC>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.0865</Mass>
+              <clovCoeffR>1.58932722549812</clovCoeffR>
+              <clovCoeffT>0.902783591772098</clovCoeffT>
+              <AnisoParam>
+                <anisoP>true</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>4.3</xi_0>
+                <nu>1.265</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1.0e-8</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>0</Pipeline>
+            <MaxIter>500</MaxIter>
+            <RsdToleranceFactor>8.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>false</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_12</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_12</Reconstruct>
+              <Blocking>
+                <elem>3 3 3 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <CoarseSolverType>
+                <elem>GCR</elem>
+                <elem>CA_GCR</elem>
+              </CoarseSolverType>
+              <CoarseResidual>0.1 0.1 0.1</CoarseResidual>
+              <MaxCoarseIterations>12 12 8</MaxCoarseIterations>
+              <RelaxationOmegaMG>1.0 1.0 1.0</RelaxationOmegaMG>
+              <SmootherType>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+                <elem>CA_GCR</elem>
+              </SmootherType>
+              <SmootherTol>0.25 0.25 0.25</SmootherTol>
+              <SmootherHaloPrecision>
+                <elem>DEFAULT</elem>
+                <elem>HALF</elem>
+                <elem>DEFAULT</elem>
+              </SmootherHaloPrecision>
+              <NullVectors>24 32</NullVectors>
+              <Pre-SmootherApplications>0 0</Pre-SmootherApplications>
+              <Post-SmootherApplications>8 8</Post-SmootherApplications>
+              <SubspaceSolver>
+                <elem>CG</elem>
+                <elem>CG</elem>
+              </SubspaceSolver>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <OuterGCRNKrylov>20</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <SetupOnGPU>1 1</SetupOnGPU>
+            </MULTIGRIDParams>
+            <SubspaceID>mg_subspace</SubspaceID>
+            <SolutionCheckP>true</SolutionCheckP>
+          </InvertParam>
+        </Propagator>
+
+      </Param>
+
+      <NamedObject>
+        <gauge_id>default_gauge_field</gauge_id>
+        
+<colorvec_files><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_0.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_1.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_2.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_3.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_4.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_5.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_6.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_7.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_8.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_9.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_10.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_11.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_12.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_13.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_14.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_15.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_16.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_17.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_18.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_19.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_20.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_21.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_22.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_23.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_24.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_25.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_26.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_27.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_28.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_29.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_30.mod1040a</elem><elem>./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_31.mod1040a</elem></colorvec_files>
+	<soln_file>/mnt/bb/bjoo/prop.1040a.mod</soln_file>
+      </NamedObject>
+    </elem>
+
+
+      <elem>
+        <Name>ERASE_QUDA_MULTIGRID_SUBSPACE</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>mg_subspace</object_id>
+        </NamedObject>
+      </elem>
+
+  </InlineMeasurements>
+
+Lattice initialized:
+  problem size = 48 48 48 512
+  layout size = 24 48 48 512
+  logical machine size = 1 1 1 32
+  subgrid size = 48 48 48 16
+  total number of nodes = 32
+  total volume = 56623104
+  subgrid volume = 1769472
+  Number of IO nodes = 4
+  IO grid size = 1 1 1 4
+Memory pool config:
+  threads per block                   : 128
+  memory pool size (per fraction)     : 60278 MB
+Accurate timing                       : 0
+Code generation:
+  GPU direct                          : 1
+  Shift optimization                  : 0
+  Propagator optimization             : 0
+   Temp Files Prepend path             : /mnt/bb/bjoo/bjoo_128453_0/
+Finished init of RNG
+Finished lattice layout
+CHROMA: Attempt to read gauge field
+CHROMA: Gauge initialization: cfg_type = SZINQIO
+Parallel IO read
+Reading Double Precision
+QIO_read_finished
+CHROMA: Gauge field successfully read: time= 51.396131 secs
+CHROMA: initial plaquette measurement time=1.60312 secs
+CHROMA: There are 2 measurements 
+CHROMA: parsing inline measurements time=0.020435 secs
+CHROMA: Doing 2 measurements
+PROP_DISTILLATION: propagator calculation
+Open source file
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_0.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_1.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_2.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_3.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_4.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_5.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_6.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_7.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_8.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_9.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_10.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_11.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_12.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_13.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_14.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_15.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_16.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_17.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_18.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_19.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_20.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_21.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_22.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_23.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_24.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_25.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_26.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_27.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_28.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_29.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_30.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+MapObjectDisk: opening file ./input/1040a/szscl21_48_512_b1p50_t_x4p300_um0p0865_sm0p0743_n1p265seo_per.3d.eigs.n_640.t_31.mod1040a for reading
+MapObjectDisk: reading and checking header
+MapObjectDisk: file has version: 1
+MapObjectDisk: reading key/fileposition data
+Finished opening solution file
+Get user data
+Source successfully read and parsed
+Open solution file
+MapObjectDisk: opening file /mnt/bb/bjoo/prop.1040a.mod for writing
+Finished opening solution file
+Try the various factories
+FermAct = SEOPREC_CLOVER
+u0 is 1
+  ... constructing linop Using Twisted Mass: 0
+ ...1.201966 sec
+  ... constructing invLinOp Using Twisted Mass: 0
+u0 is 1
+tuneDslasP = 1
+Copying CoarseSolverType values to 2 members 
+Copying CoarseResidual values to 3 members 
+Copying MaxCoarseIterations values to 3 members 
+Copying SmootherType values to 3 members 
+Copying SmootherTol values to 3 members 
+Copying SmootherHaloPrecision values to 3 members 
+Parameter with SmootherSchwarzType not found. Setting default value 0 for 3 array members
+Parameter with SmootherSchwarzCycle not found. Setting default value 1 for 3 array members
+Copying SubspaceSolver values to 2 members 
+Copying RelaxationOmegaMG values to 3 members 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating Subspace
+Creating MG subspace.
+Enabling MG Dslash Autotuning
+Setting MULTIGRID solver params
+Set Level 0 blocking as:  3 3 3 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+Basic MULTIGRID params copied.
+About to Call newMultigridQuda
+NewMultigridQuda state initialized.
+MULTIGRID preconditioner set.
+After call to newMultigridQuda
+Set Level 0 blocking as:  3 3 3 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+MULTIGrid Param Dump
+QUDA Multigrid Parameters:
+struct_size = -2147483648
+QUDA Inverter Parameters:
+struct_size = -2147483648
+dslash_type = 1
+inv_type = 2
+kappa = 0.5
+tol = 1e-10
+residual_type = 1
+maxiter = 10000
+reliable_delta = 1e-10
+reliable_delta_refinement = 1e-10
+use_alternative_reliable = 0
+use_sloppy_partial_accumulator = 0
+solution_accumulator_pipeline = 1
+max_res_increase = 1
+max_res_increase_total = 10
+max_hq_res_increase = 1
+max_hq_res_restart_total = 10
+heavy_quark_check = 10
+pipeline = 0
+num_offset = 0
+num_src = 1
+overlap = 0
+split_grid[d] = 1
+split_grid[d] = 1
+split_grid[d] = 1
+split_grid[d] = 1
+num_src_per_sub_partition = 1
+compute_action = 0
+compute_true_res = 1
+solution_type = 0
+solve_type = 0
+matpc_type = 1
+dagger = 0
+mass_normalization = 0
+solver_normalization = 0
+preserve_source = 0
+cpu_prec = 8
+cuda_prec = 8
+cuda_prec_sloppy = 4
+cuda_prec_refinement_sloppy = 4
+cuda_prec_precondition = 2
+cuda_prec_eigensolver = 4
+input_location = 1
+output_location = 1
+clover_location = 1
+gamma_basis = 0
+dirac_order = 1
+gcrNkrylov = 10
+madwf_param_load = 0
+madwf_param_save = 0
+use_init_guess = 0
+omega = 1
+struct_size = -2147483648
+clover_location = 1
+clover_cpu_prec = 8
+clover_cuda_prec = 8
+clover_cuda_prec_sloppy = 4
+clover_cuda_prec_refinement_sloppy = 4
+clover_cuda_prec_precondition = 2
+clover_cuda_prec_eigensolver = 4
+compute_clover_trlog = 1
+compute_clover = 0
+compute_clover_inverse = 0
+return_clover = 0
+return_clover_inverse = 0
+clover_rho = 0
+clover_coeff = 1
+clover_csw = 0
+clover_order = 9
+verbosity = 2
+iter = 0
+gflops = 0
+secs = 0
+cuda_prec_ritz = 4
+n_ev = 8
+max_search_dim = 64
+rhs_idx = 0
+deflation_grid = 1
+eigcg_max_restarts = 4
+max_restart_num = 3
+tol_restart = 5e-05
+inc_tol = 0.01
+eigenval_tol = 0.1
+use_resident_solution = 0
+make_resident_solution = 0
+chrono_use_resident = 0
+chrono_make_resident = 0
+chrono_replace_last = 0
+chrono_max_dim = 0
+chrono_index = 0
+chrono_precision = 8
+extlib_type = 1
+native_blas_lapack = 1
+use_mobius_fused_kernel = 1
+n_level = 3
+setup_type = 0
+pre_orthonormalize = 0
+post_orthonormalize = 1
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+use_eig_solver[i] = 0
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+setup_ca_basis[i] = 0
+setup_ca_basis_size[i] = 4
+setup_ca_lambda_min[i] = 0
+setup_ca_lambda_max[i] = -1
+n_block_ortho[i] = 1
+block_ortho_two_pass[i] = 1
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 24
+smoother_solve_type[i] = 2
+coarse_solver_ca_basis[i] = 0
+coarse_solver_ca_basis_size[i] = 4
+coarse_solver_ca_lambda_min[i] = 0
+coarse_solver_ca_lambda_max[i] = -1
+smoother_halo_precision[i] = -2147483648
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 3
+geo_block_size[i][j] = 3
+geo_block_size[i][j] = 3
+geo_block_size[i][j] = 4
+spin_block_size[i] = 2
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 0
+nu_post[i] = 8
+coarse_grid_solution_type[i] = 2
+smoother_solver_ca_basis[i] = 0
+smoother_solver_ca_lambda_min[i] = 0
+smoother_solver_ca_lambda_max[i] = -1
+n_vec[i] = 24
+transfer_type[i] = 0
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.1
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+use_eig_solver[i] = 0
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+setup_ca_basis[i] = 0
+setup_ca_basis_size[i] = 4
+setup_ca_lambda_min[i] = 0
+setup_ca_lambda_max[i] = -1
+n_block_ortho[i] = 1
+block_ortho_two_pass[i] = 1
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 24
+smoother_solve_type[i] = 2
+coarse_solver_ca_basis[i] = 0
+coarse_solver_ca_basis_size[i] = 4
+coarse_solver_ca_lambda_min[i] = 0
+coarse_solver_ca_lambda_max[i] = -1
+smoother_halo_precision[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+spin_block_size[i] = 1
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 0
+nu_post[i] = 8
+coarse_grid_solution_type[i] = 2
+smoother_solver_ca_basis[i] = 0
+smoother_solver_ca_lambda_min[i] = 0
+smoother_solver_ca_lambda_max[i] = -1
+n_vec[i] = 32
+transfer_type[i] = 0
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.1
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 1
+num_setup_iter[i] = 1
+use_eig_solver[i] = 0
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 0
+setup_ca_basis[i] = 0
+setup_ca_basis_size[i] = 4
+setup_ca_lambda_min[i] = 0
+setup_ca_lambda_max[i] = -1
+n_block_ortho[i] = 1
+block_ortho_two_pass[i] = 1
+coarse_solver[i] = 24
+coarse_solver_maxiter[i] = 8
+smoother[i] = 2
+smoother_solve_type[i] = 2
+coarse_solver_ca_basis[i] = 0
+coarse_solver_ca_basis_size[i] = 4
+coarse_solver_ca_lambda_min[i] = 0
+coarse_solver_ca_lambda_max[i] = -1
+smoother_halo_precision[i] = -2147483648
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+smoother_solver_ca_basis[i] = 0
+smoother_solver_ca_lambda_min[i] = 0
+smoother_solver_ca_lambda_max[i] = -1
+transfer_type[i] = 0
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.1
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+setup_minimize_memory = 0
+compute_null_vector = 1
+generate_all_levels = 1
+run_verify = 0
+run_low_mode_check = 0
+run_oblique_proj_check = 0
+coarse_guess = 0
+preserve_deflation = 0
+vec_load[i] = 0
+vec_store[i] = 0
+vec_load[i] = 0
+vec_store[i] = 0
+gflops = 0
+secs = 0
+use_mma = 0
+allow_truncation = 0
+staggered_kd_dagger_approximation = 0
+thin_update_only = 0
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ):  subspace_create_time = 25.492651 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): init_time = 25.80138 sec. 
+ ...25.891163 sec
+  ... constructing SymEvenOddPrecActQprop  ...0 sec
+Suitable factory found: compute all the quark props
+t_source = 173
+colorvec_src = 0
+getSrc: on t_source= 173  colorvec_src= 0
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 8.955938e-09, true = 8.955938e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.678748 s	Performance=28209.2786550296 GFLOPS	Total Time (incl. load gauge)=0.734445 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.58868462402772e-09 Relative Rsd = 8.95593784731363e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.052148e-09, true = 9.052148e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461267 s	Performance=41405.1295390826 GFLOPS	Total Time (incl. load gauge)=0.47725 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.64275648069572e-09 Relative Rsd = 9.05214834070923e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.025312e-09, true = 9.025312e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460496 s	Performance=41474.4533874431 GFLOPS	Total Time (incl. load gauge)=0.47616 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.63167324856215e-09 Relative Rsd = 9.02531206279175e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 8.864935e-09, true = 8.864935e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460418 s	Performance=41481.4796274342 GFLOPS	Total Time (incl. load gauge)=0.476097 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.52241651130077e-09 Relative Rsd = 8.8649352244361e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 0  time = 4.892241 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 0  time = 49.76895 secs
+colorvec_src = 1
+getSrc: on t_source= 173  colorvec_src= 1
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.220441e-09, true = 9.220441e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461819 s	Performance=41355.6390861008 GFLOPS	Total Time (incl. load gauge)=0.477962 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74329471847585e-09 Relative Rsd = 9.22044141987185e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.292925e-09, true = 9.292925e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461044 s	Performance=41425.156573134 GFLOPS	Total Time (incl. load gauge)=0.476799 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.79981713533265e-09 Relative Rsd = 9.2929248511992e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.390580e-09, true = 9.390580e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461258 s	Performance=41405.937430037 GFLOPS	Total Time (incl. load gauge)=0.476951 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.8613268963374e-09 Relative Rsd = 9.39057983312453e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.140748e-09, true = 9.140748e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461025 s	Performance=41426.8638080451 GFLOPS	Total Time (incl. load gauge)=0.476733 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69326998363213e-09 Relative Rsd = 9.14074848029416e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 1  time = 2.276513 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 1  time = 49.518487 secs
+colorvec_src = 2
+getSrc: on t_source= 173  colorvec_src= 2
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.349726e-09, true = 9.349726e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.462385 s	Performance=41305.0161382917 GFLOPS	Total Time (incl. load gauge)=0.478902 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.82665969750818e-09 Relative Rsd = 9.34972635423136e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.186671e-09, true = 9.186671e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460926 s	Performance=41435.7616778051 GFLOPS	Total Time (incl. load gauge)=0.476664 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7263511580098e-09 Relative Rsd = 9.18667095961771e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.130103e-09, true = 9.130103e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46074 s	Performance=41452.4892284238 GFLOPS	Total Time (incl. load gauge)=0.476463 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.68905703074533e-09 Relative Rsd = 9.13010269094863e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.211080e-09, true = 9.211080e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46084 s	Performance=41443.4942433469 GFLOPS	Total Time (incl. load gauge)=0.476861 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7442616078294e-09 Relative Rsd = 9.21107997635349e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 2  time = 2.274774 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 2  time = 49.533442 secs
+colorvec_src = 3
+getSrc: on t_source= 173  colorvec_src= 3
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.353747e-09, true = 9.353747e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46219 s	Performance=41322.4429068219 GFLOPS	Total Time (incl. load gauge)=0.478036 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.83012530916693e-09 Relative Rsd = 9.35374674786042e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.112354e-09, true = 9.112354e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461112 s	Performance=41419.0476220615 GFLOPS	Total Time (incl. load gauge)=0.476861 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.67862180016631e-09 Relative Rsd = 9.11235395706403e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.216091e-09, true = 9.216091e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.464435 s	Performance=41122.6972280384 GFLOPS	Total Time (incl. load gauge)=0.480155 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74078156984467e-09 Relative Rsd = 9.21609110089509e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.113448e-09, true = 9.113448e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46065 s	Performance=41460.5880540627 GFLOPS	Total Time (incl. load gauge)=0.476347 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.68440328010022e-09 Relative Rsd = 9.11344755663628e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 3  time = 2.278749 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 3  time = 49.772512 secs
+colorvec_src = 4
+getSrc: on t_source= 173  colorvec_src= 4
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.336220e-09, true = 9.336220e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46156 s	Performance=41378.8454092729 GFLOPS	Total Time (incl. load gauge)=0.478077 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.81526726432604e-09 Relative Rsd = 9.33621992481305e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.265168e-09, true = 9.265168e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460943 s	Performance=41434.233488965 GFLOPS	Total Time (incl. load gauge)=0.476748 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77569895995317e-09 Relative Rsd = 9.26516818109015e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.235168e-09, true = 9.235168e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460899 s	Performance=41438.1890329638 GFLOPS	Total Time (incl. load gauge)=0.476648 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75668519122334e-09 Relative Rsd = 9.23516800043272e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.150069e-09, true = 9.150069e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460469 s	Performance=41476.8852780622 GFLOPS	Total Time (incl. load gauge)=0.47612 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70251615464291e-09 Relative Rsd = 9.15006889723265e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 4  time = 2.273587 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 4  time = 49.671578 secs
+colorvec_src = 5
+getSrc: on t_source= 173  colorvec_src= 5
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.069107e-09, true = 9.069107e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461586 s	Performance=41376.5146410506 GFLOPS	Total Time (incl. load gauge)=0.478752 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.6548310169284e-09 Relative Rsd = 9.0691072314978e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.119811e-09, true = 9.119811e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460748 s	Performance=41451.7694859316 GFLOPS	Total Time (incl. load gauge)=0.476425 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.6762943407854e-09 Relative Rsd = 9.11981080841816e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.033170e-09, true = 9.033170e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461025 s	Performance=41426.8638080451 GFLOPS	Total Time (incl. load gauge)=0.476658 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.62378580567488e-09 Relative Rsd = 9.03316964892895e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.201715e-09, true = 9.201715e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460904 s	Performance=41437.7395012931 GFLOPS	Total Time (incl. load gauge)=0.47649 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73668722809344e-09 Relative Rsd = 9.20171547419145e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 5  time = 2.275459 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 5  time = 49.563334 secs
+colorvec_src = 6
+getSrc: on t_source= 173  colorvec_src= 6
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.174755e-09, true = 9.174755e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461966 s	Performance=41342.4795052103 GFLOPS	Total Time (incl. load gauge)=0.478192 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71980871642264e-09 Relative Rsd = 9.17475536349549e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.173057e-09, true = 9.173057e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460362 s	Performance=41486.5255757513 GFLOPS	Total Time (incl. load gauge)=0.476071 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71226658748116e-09 Relative Rsd = 9.17305722557168e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.203107e-09, true = 9.203107e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460389 s	Performance=41484.0925545658 GFLOPS	Total Time (incl. load gauge)=0.476025 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73232645527948e-09 Relative Rsd = 9.20310682808797e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.239651e-09, true = 9.239651e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460438 s	Performance=41479.6778004943 GFLOPS	Total Time (incl. load gauge)=0.476403 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75930815907461e-09 Relative Rsd = 9.23965083304878e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 6  time = 2.272808 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 6  time = 49.569492 secs
+colorvec_src = 7
+getSrc: on t_source= 173  colorvec_src= 7
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.399097e-09, true = 9.399097e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46164 s	Performance=41371.6746536349 GFLOPS	Total Time (incl. load gauge)=0.477505 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.85659952359009e-09 Relative Rsd = 9.39909662702679e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.235799e-09, true = 9.235799e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460912 s	Performance=41437.0202709064 GFLOPS	Total Time (incl. load gauge)=0.476629 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75603565342503e-09 Relative Rsd = 9.23579869387244e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.161826e-09, true = 9.161826e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460502 s	Performance=41473.9130060325 GFLOPS	Total Time (incl. load gauge)=0.476122 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70715626104099e-09 Relative Rsd = 9.1618258111406e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.285974e-09, true = 9.285974e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460629 s	Performance=41462.4782354216 GFLOPS	Total Time (incl. load gauge)=0.4763 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.78911746424182e-09 Relative Rsd = 9.28597391543033e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 7  time = 2.274339 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 7  time = 49.586472 secs
+colorvec_src = 8
+getSrc: on t_source= 173  colorvec_src= 8
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.166298e-09, true = 9.166298e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46149 s	Performance=41385.121859854 GFLOPS	Total Time (incl. load gauge)=0.478039 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71292123270473e-09 Relative Rsd = 9.16629809994215e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.179634e-09, true = 9.179634e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460737 s	Performance=41452.7591383023 GFLOPS	Total Time (incl. load gauge)=0.476451 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71770200312484e-09 Relative Rsd = 9.17963372025682e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.100017e-09, true = 9.100017e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461095 s	Performance=41420.5746909075 GFLOPS	Total Time (incl. load gauge)=0.476724 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.66924125433212e-09 Relative Rsd = 9.10001722181525e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.245139e-09, true = 9.245139e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461137 s	Performance=41416.8021371176 GFLOPS	Total Time (incl. load gauge)=0.476768 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76176955639236e-09 Relative Rsd = 9.24513903062821e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 8  time = 2.281369 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 8  time = 49.619841 secs
+colorvec_src = 9
+getSrc: on t_source= 173  colorvec_src= 9
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.193972e-09, true = 9.193972e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461816 s	Performance=41355.9077362066 GFLOPS	Total Time (incl. load gauge)=0.480946 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73014354113173e-09 Relative Rsd = 9.19397188119332e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.271720e-09, true = 9.271720e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460967 s	Performance=41432.0762377871 GFLOPS	Total Time (incl. load gauge)=0.476623 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77685231325414e-09 Relative Rsd = 9.27171967303201e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.136630e-09, true = 9.136630e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460867 s	Performance=41441.0662666322 GFLOPS	Total Time (incl. load gauge)=0.476556 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69318015699553e-09 Relative Rsd = 9.13662961847189e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.286334e-09, true = 9.286334e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460371 s	Performance=41485.71453698 GFLOPS	Total Time (incl. load gauge)=0.476008 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.78618033298964e-09 Relative Rsd = 9.28633392058878e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 9  time = 2.276145 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 9  time = 49.580207 secs
+colorvec_src = 10
+getSrc: on t_source= 173  colorvec_src= 10
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.020103e-09, true = 9.020103e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461893 s	Performance=41349.0134881975 GFLOPS	Total Time (incl. load gauge)=0.477953 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.62499988480397e-09 Relative Rsd = 9.02010344373797e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 8.971675e-09, true = 8.971675e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460376 s	Performance=41485.2639735868 GFLOPS	Total Time (incl. load gauge)=0.476106 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.58493782622007e-09 Relative Rsd = 8.97167518482742e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 8.948974e-09, true = 8.948974e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460797 s	Performance=41447.3616084827 GFLOPS	Total Time (incl. load gauge)=0.476435 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.56976409911692e-09 Relative Rsd = 8.94897422156081e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.046728e-09, true = 9.046728e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.459466 s	Performance=41567.4280297215 GFLOPS	Total Time (incl. load gauge)=0.475385 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.64193270455844e-09 Relative Rsd = 9.04672809003374e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 10  time = 2.272466 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 10  time = 49.545228 secs
+colorvec_src = 11
+getSrc: on t_source= 173  colorvec_src= 11
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.147491e-09, true = 9.147491e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46146 s	Performance=41387.8123501582 GFLOPS	Total Time (incl. load gauge)=0.477978 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69995949252816e-09 Relative Rsd = 9.14749084209699e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.308915e-09, true = 9.308915e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460853 s	Performance=41442.3251820081 GFLOPS	Total Time (incl. load gauge)=0.476567 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.79961503278118e-09 Relative Rsd = 9.30891532776291e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.104142e-09, true = 9.104142e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460176 s	Performance=41503.2941463788 GFLOPS	Total Time (incl. load gauge)=0.475806 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.66953792181666e-09 Relative Rsd = 9.10414225703149e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.154839e-09, true = 9.154839e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460607 s	Performance=41464.4586102773 GFLOPS	Total Time (incl. load gauge)=0.476265 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70705444400439e-09 Relative Rsd = 9.15483946280722e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 11  time = 2.280118 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 11  time = 49.679399 secs
+colorvec_src = 12
+getSrc: on t_source= 173  colorvec_src= 12
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.185176e-09, true = 9.185176e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461618 s	Performance=41373.6463636687 GFLOPS	Total Time (incl. load gauge)=0.477718 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72274575531794e-09 Relative Rsd = 9.18517593526308e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.204613e-09, true = 9.204613e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460576 s	Performance=41467.2494595984 GFLOPS	Total Time (incl. load gauge)=0.47626 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73511986801137e-09 Relative Rsd = 9.20461267020136e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.089080e-09, true = 9.089080e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460865 s	Performance=41441.2461070031 GFLOPS	Total Time (incl. load gauge)=0.476519 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.65819212598967e-09 Relative Rsd = 9.08907952940497e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.247443e-09, true = 9.247443e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460765 s	Performance=41450.2401161199 GFLOPS	Total Time (incl. load gauge)=0.476361 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76501482184125e-09 Relative Rsd = 9.24744263419779e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 12  time = 2.343926 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 12  time = 49.405415 secs
+colorvec_src = 13
+getSrc: on t_source= 173  colorvec_src= 13
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.182288e-09, true = 9.182288e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461712 s	Performance=41365.2230981738 GFLOPS	Total Time (incl. load gauge)=0.478912 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72059997668071e-09 Relative Rsd = 9.18228835838194e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.199023e-09, true = 9.199023e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46071 s	Performance=41455.1884853899 GFLOPS	Total Time (incl. load gauge)=0.476418 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7297619261509e-09 Relative Rsd = 9.19902251715082e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.146858e-09, true = 9.146858e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46058 s	Performance=41466.8893288983 GFLOPS	Total Time (incl. load gauge)=0.47627 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.699417699515e-09 Relative Rsd = 9.14685820814785e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.130704e-09, true = 9.130704e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461267 s	Performance=41405.1295390826 GFLOPS	Total Time (incl. load gauge)=0.476928 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.68693283146342e-09 Relative Rsd = 9.13070379013619e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 13  time = 2.273605 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 13  time = 49.535454 secs
+colorvec_src = 14
+getSrc: on t_source= 173  colorvec_src= 14
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.211792e-09, true = 9.211792e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461381 s	Performance=41394.8989817613 GFLOPS	Total Time (incl. load gauge)=0.477375 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73932889031932e-09 Relative Rsd = 9.21179207019604e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.288559e-09, true = 9.288559e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460606 s	Performance=41464.5486318111 GFLOPS	Total Time (incl. load gauge)=0.476387 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.78590613567001e-09 Relative Rsd = 9.28855911523774e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.072667e-09, true = 9.072667e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461329 s	Performance=41399.564924607 GFLOPS	Total Time (incl. load gauge)=0.476963 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.65004676875935e-09 Relative Rsd = 9.07266716198734e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.226756e-09, true = 9.226756e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460241 s	Performance=41497.4326213962 GFLOPS	Total Time (incl. load gauge)=0.476174 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75073469758273e-09 Relative Rsd = 9.22675586304045e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 14  time = 2.272579 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 14  time = 49.568942 secs
+colorvec_src = 15
+getSrc: on t_source= 173  colorvec_src= 15
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.294453e-09, true = 9.294453e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461913 s	Performance=41347.2231504721 GFLOPS	Total Time (incl. load gauge)=0.478997 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.78797139819256e-09 Relative Rsd = 9.29445272120918e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.337054e-09, true = 9.337054e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460762 s	Performance=41450.5099967098 GFLOPS	Total Time (incl. load gauge)=0.476406 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.81993933564211e-09 Relative Rsd = 9.33705442673387e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.210136e-09, true = 9.210136e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460769 s	Performance=41449.8802808001 GFLOPS	Total Time (incl. load gauge)=0.476474 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73773430523483e-09 Relative Rsd = 9.21013554413334e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.232490e-09, true = 9.232490e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460842 s	Performance=41443.3143834633 GFLOPS	Total Time (incl. load gauge)=0.476492 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75129620115125e-09 Relative Rsd = 9.23248958784564e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 15  time = 2.274452 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 15  time = 49.567477 secs
+colorvec_src = 16
+getSrc: on t_source= 173  colorvec_src= 16
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.275855e-09, true = 9.275855e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461267 s	Performance=41405.1295390826 GFLOPS	Total Time (incl. load gauge)=0.477228 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77751515798273e-09 Relative Rsd = 9.27585460728792e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.266394e-09, true = 9.266394e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460671 s	Performance=41458.6980450343 GFLOPS	Total Time (incl. load gauge)=0.476355 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77496253724236e-09 Relative Rsd = 9.26639383237956e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.186070e-09, true = 9.186070e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461359 s	Performance=41396.8729061403 GFLOPS	Total Time (incl. load gauge)=0.47706 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72547370517417e-09 Relative Rsd = 9.18606969356455e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.220245e-09, true = 9.220245e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460142 s	Performance=41506.3608344902 GFLOPS	Total Time (incl. load gauge)=0.475742 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74156955787739e-09 Relative Rsd = 9.22024496859541e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 16  time = 2.273558 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 16  time = 49.586821 secs
+colorvec_src = 17
+getSrc: on t_source= 173  colorvec_src= 17
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.220790e-09, true = 9.220790e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461655 s	Performance=41370.3304136292 GFLOPS	Total Time (incl. load gauge)=0.477437 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74578264028634e-09 Relative Rsd = 9.22078995820048e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.252993e-09, true = 9.252993e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46147 s	Performance=41386.9154811884 GFLOPS	Total Time (incl. load gauge)=0.477167 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76336564308759e-09 Relative Rsd = 9.25299346316849e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.226247e-09, true = 9.226247e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460589 s	Performance=41466.0790576935 GFLOPS	Total Time (incl. load gauge)=0.476246 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74647529474389e-09 Relative Rsd = 9.2262469127214e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.237976e-09, true = 9.237976e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461324 s	Performance=41400.0136283913 GFLOPS	Total Time (incl. load gauge)=0.476991 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75568651599177e-09 Relative Rsd = 9.2379756290973e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 17  time = 2.274556 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 17  time = 49.638924 secs
+colorvec_src = 18
+getSrc: on t_source= 173  colorvec_src= 18
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.242607e-09, true = 9.242607e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461231 s	Performance=41408.3612920727 GFLOPS	Total Time (incl. load gauge)=0.47818 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76037900869056e-09 Relative Rsd = 9.24260731891348e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.218481e-09, true = 9.218481e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461199 s	Performance=41411.2343849488 GFLOPS	Total Time (incl. load gauge)=0.476922 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74190397144018e-09 Relative Rsd = 9.21848071334318e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.159028e-09, true = 9.159028e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461318 s	Performance=41400.5520857716 GFLOPS	Total Time (incl. load gauge)=0.476938 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70310754149737e-09 Relative Rsd = 9.1590284068725e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.186552e-09, true = 9.186552e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460259 s	Performance=41495.8097225779 GFLOPS	Total Time (incl. load gauge)=0.476201 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72627339346206e-09 Relative Rsd = 9.18655231554008e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 18  time = 2.346691 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 18  time = 49.562519 secs
+colorvec_src = 19
+getSrc: on t_source= 173  colorvec_src= 19
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.249962e-09, true = 9.249962e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461469 s	Performance=41387.0051663362 GFLOPS	Total Time (incl. load gauge)=0.477359 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7633244730916e-09 Relative Rsd = 9.24996197492956e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.059820e-09, true = 9.059820e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460693 s	Performance=41456.7182203854 GFLOPS	Total Time (incl. load gauge)=0.476357 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.64310151064256e-09 Relative Rsd = 9.05981953734071e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.182339e-09, true = 9.182339e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460729 s	Performance=41453.4789151627 GFLOPS	Total Time (incl. load gauge)=0.476418 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71809284401729e-09 Relative Rsd = 9.18233874639842e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.181395e-09, true = 9.181395e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460475 s	Performance=41476.3448332787 GFLOPS	Total Time (incl. load gauge)=0.476084 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72102315994063e-09 Relative Rsd = 9.18139476676937e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 19  time = 2.275457 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 19  time = 49.625366 secs
+colorvec_src = 20
+getSrc: on t_source= 173  colorvec_src= 20
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.220783e-09, true = 9.220783e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461945 s	Performance=41344.3589325656 GFLOPS	Total Time (incl. load gauge)=0.480695 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74434581921112e-09 Relative Rsd = 9.22078306512957e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.225279e-09, true = 9.225279e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461146 s	Performance=41415.9938221388 GFLOPS	Total Time (incl. load gauge)=0.476802 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74576061927909e-09 Relative Rsd = 9.22527865143265e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.217013e-09, true = 9.217013e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46104 s	Performance=41425.5159793163 GFLOPS	Total Time (incl. load gauge)=0.476723 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74135199802415e-09 Relative Rsd = 9.21701296920423e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.245358e-09, true = 9.245358e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46128 s	Performance=41403.9626411377 GFLOPS	Total Time (incl. load gauge)=0.476914 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75887416613335e-09 Relative Rsd = 9.24535762299845e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 20  time = 2.278836 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 20  time = 49.460843 secs
+colorvec_src = 21
+getSrc: on t_source= 173  colorvec_src= 21
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.190087e-09, true = 9.190087e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461483 s	Performance=41385.7496096368 GFLOPS	Total Time (incl. load gauge)=0.477375 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7244664095887e-09 Relative Rsd = 9.19008663077466e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.175387e-09, true = 9.175387e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460503 s	Performance=41473.8229438332 GFLOPS	Total Time (incl. load gauge)=0.476229 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7183329855354e-09 Relative Rsd = 9.17538743709298e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.186371e-09, true = 9.186371e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460291 s	Performance=41492.9248825287 GFLOPS	Total Time (incl. load gauge)=0.475946 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72555901366814e-09 Relative Rsd = 9.18637124462743e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.265134e-09, true = 9.265134e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460946 s	Performance=41433.9638202826 GFLOPS	Total Time (incl. load gauge)=0.476627 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76981229519271e-09 Relative Rsd = 9.26513388584849e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 21  time = 2.272837 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 21  time = 49.552109 secs
+colorvec_src = 22
+getSrc: on t_source= 173  colorvec_src= 22
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.200083e-09, true = 9.200083e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461606 s	Performance=41374.7219210842 GFLOPS	Total Time (incl. load gauge)=0.477639 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73010513011119e-09 Relative Rsd = 9.20008311127342e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.204708e-09, true = 9.204708e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461206 s	Performance=41410.6058618145 GFLOPS	Total Time (incl. load gauge)=0.47691 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7348029454406e-09 Relative Rsd = 9.20470760252052e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.142227e-09, true = 9.142227e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460772 s	Performance=41449.6104084102 GFLOPS	Total Time (incl. load gauge)=0.476431 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69388040955876e-09 Relative Rsd = 9.14222737790772e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.187560e-09, true = 9.187560e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460826 s	Performance=41444.7533062457 GFLOPS	Total Time (incl. load gauge)=0.476794 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72348061101993e-09 Relative Rsd = 9.18755968930128e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 22  time = 2.27358 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 22  time = 49.517161 secs
+colorvec_src = 23
+getSrc: on t_source= 173  colorvec_src= 23
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.147190e-09, true = 9.147190e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461617 s	Performance=41373.7359913175 GFLOPS	Total Time (incl. load gauge)=0.477436 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69829406702338e-09 Relative Rsd = 9.14718978740557e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.143448e-09, true = 9.143448e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461111 s	Performance=41419.1374465237 GFLOPS	Total Time (incl. load gauge)=0.47679 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69558541342813e-09 Relative Rsd = 9.14344764980633e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.249183e-09, true = 9.249183e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460912 s	Performance=41437.0202709064 GFLOPS	Total Time (incl. load gauge)=0.476564 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7604773635077e-09 Relative Rsd = 9.24918326951742e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.204125e-09, true = 9.204125e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460371 s	Performance=41485.71453698 GFLOPS	Total Time (incl. load gauge)=0.476024 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73394564981146e-09 Relative Rsd = 9.20412459373716e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 23  time = 2.273248 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 23  time = 49.49376 secs
+colorvec_src = 24
+getSrc: on t_source= 173  colorvec_src= 24
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.249188e-09, true = 9.249188e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461906 s	Performance=41347.8497510403 GFLOPS	Total Time (incl. load gauge)=0.47897 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76164927956837e-09 Relative Rsd = 9.24918752631622e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.112172e-09, true = 9.112172e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461263 s	Performance=41405.4885978368 GFLOPS	Total Time (incl. load gauge)=0.476963 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.67418217158841e-09 Relative Rsd = 9.11217245794223e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.168935e-09, true = 9.168935e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460613 s	Performance=41463.9184892828 GFLOPS	Total Time (incl. load gauge)=0.476264 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70969249580004e-09 Relative Rsd = 9.16893504764947e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.135364e-09, true = 9.135364e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461346 s	Performance=41398.0394044903 GFLOPS	Total Time (incl. load gauge)=0.4771 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.68930303448738e-09 Relative Rsd = 9.13536419329824e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 24  time = 2.274646 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 24  time = 49.632122 secs
+colorvec_src = 25
+getSrc: on t_source= 173  colorvec_src= 25
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.164467e-09, true = 9.164467e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461898 s	Performance=41348.565889231 GFLOPS	Total Time (incl. load gauge)=0.478006 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70852544357931e-09 Relative Rsd = 9.1644666775707e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.148907e-09, true = 9.148907e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46106 s	Performance=41423.7190107665 GFLOPS	Total Time (incl. load gauge)=0.476806 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.69879524490374e-09 Relative Rsd = 9.14890700252071e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.314458e-09, true = 9.314458e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460508 s	Performance=41473.3726387033 GFLOPS	Total Time (incl. load gauge)=0.476136 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.80046324783339e-09 Relative Rsd = 9.31445753519811e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.227624e-09, true = 9.227624e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460562 s	Performance=41468.5099663107 GFLOPS	Total Time (incl. load gauge)=0.476188 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.74896014172639e-09 Relative Rsd = 9.22762372487433e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 25  time = 2.354985 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 25  time = 49.71184 secs
+colorvec_src = 26
+getSrc: on t_source= 173  colorvec_src= 26
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.277925e-09, true = 9.277925e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461786 s	Performance=41358.5944292464 GFLOPS	Total Time (incl. load gauge)=0.478293 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77940233544005e-09 Relative Rsd = 9.27792477433009e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.210382e-09, true = 9.210382e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460009 s	Performance=41518.3613518518 GFLOPS	Total Time (incl. load gauge)=0.475697 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73622038510754e-09 Relative Rsd = 9.21038171560715e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.279960e-09, true = 9.279960e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460998 s	Performance=41429.2901207901 GFLOPS	Total Time (incl. load gauge)=0.476631 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77851212053815e-09 Relative Rsd = 9.27996020720361e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.203660e-09, true = 9.203660e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460124 s	Performance=41507.9845587363 GFLOPS	Total Time (incl. load gauge)=0.476053 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7338367054044e-09 Relative Rsd = 9.20366014193158e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 26  time = 2.273895 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 26  time = 49.587087 secs
+colorvec_src = 27
+getSrc: on t_source= 173  colorvec_src= 27
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.158357e-09, true = 9.158357e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46184 s	Performance=41353.758633085 GFLOPS	Total Time (incl. load gauge)=0.477904 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70526885013981e-09 Relative Rsd = 9.15835726098602e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.144222e-09, true = 9.144222e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461357 s	Performance=41397.0523631461 GFLOPS	Total Time (incl. load gauge)=0.477019 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.693930055493e-09 Relative Rsd = 9.14422248320362e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.239113e-09, true = 9.239113e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460296 s	Performance=41492.4741625041 GFLOPS	Total Time (incl. load gauge)=0.475927 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75289199772151e-09 Relative Rsd = 9.23911335111902e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.241955e-09, true = 9.241955e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461013 s	Performance=41427.9421341784 GFLOPS	Total Time (incl. load gauge)=0.476646 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75596161584641e-09 Relative Rsd = 9.2419547245208e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 27  time = 2.274486 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 27  time = 49.546033 secs
+colorvec_src = 28
+getSrc: on t_source= 173  colorvec_src= 28
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.174204e-09, true = 9.174204e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461332 s	Performance=41399.2957070049 GFLOPS	Total Time (incl. load gauge)=0.47781 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71186715648558e-09 Relative Rsd = 9.17420363636644e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.172321e-09, true = 9.172321e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460459 s	Performance=41477.7860506668 GFLOPS	Total Time (incl. load gauge)=0.476093 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71281148841666e-09 Relative Rsd = 9.17232103184038e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.290966e-09, true = 9.290966e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460017 s	Performance=41517.6393200773 GFLOPS	Total Time (incl. load gauge)=0.475721 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.78597701917703e-09 Relative Rsd = 9.29096632099693e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.172391e-09, true = 9.172391e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.4609 s	Performance=41438.0991258494 GFLOPS	Total Time (incl. load gauge)=0.476492 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.71145932738602e-09 Relative Rsd = 9.17239147980175e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 28  time = 2.272484 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 28  time = 49.638936 secs
+colorvec_src = 29
+getSrc: on t_source= 173  colorvec_src= 29
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.201793e-09, true = 9.201793e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461502 s	Performance=41384.0457616738 GFLOPS	Total Time (incl. load gauge)=0.477833 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.73171451387114e-09 Relative Rsd = 9.20179309941841e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.126930e-09, true = 9.126930e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460733 s	Performance=41453.119023608 GFLOPS	Total Time (incl. load gauge)=0.476413 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.68474226882008e-09 Relative Rsd = 9.1269299158024e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.262961e-09, true = 9.262961e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46162 s	Performance=41373.467109536 GFLOPS	Total Time (incl. load gauge)=0.477295 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76991935993512e-09 Relative Rsd = 9.26296102353982e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.241624e-09, true = 9.241624e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460726 s	Performance=41453.7488379297 GFLOPS	Total Time (incl. load gauge)=0.476337 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.75597118544333e-09 Relative Rsd = 9.24162403547048e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 29  time = 2.274462 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 29  time = 49.715022 secs
+colorvec_src = 30
+getSrc: on t_source= 173  colorvec_src= 30
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.190122e-09, true = 9.190122e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.462258 s	Performance=41316.3642102549 GFLOPS	Total Time (incl. load gauge)=0.478697 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.72184420651677e-09 Relative Rsd = 9.19012191406623e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.099973e-09, true = 9.099973e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460644 s	Performance=41461.1280882938 GFLOPS	Total Time (incl. load gauge)=0.476343 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.6694725790138e-09 Relative Rsd = 9.09997262523894e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.268911e-09, true = 9.268911e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461048 s	Performance=41424.797173188 GFLOPS	Total Time (incl. load gauge)=0.476707 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77482297332887e-09 Relative Rsd = 9.26891149772061e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.254213e-09, true = 9.254213e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460352 s	Performance=41487.4267671347 GFLOPS	Total Time (incl. load gauge)=0.476342 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.76207020909292e-09 Relative Rsd = 9.25421350008569e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 30  time = 2.276334 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 30  time = 49.434746 secs
+colorvec_src = 31
+getSrc: on t_source= 173  colorvec_src= 31
+spin_source = 0
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.271515e-09, true = 9.271515e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.461241 s	Performance=41407.4635323052 GFLOPS	Total Time (incl. load gauge)=0.478382 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.7724864176033e-09 Relative Rsd = 9.2715150476233e-09
+M_Unprec : 
+spin_source = 1
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.160780e-09, true = 9.160780e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.46076 s	Performance=41450.6899190555 GFLOPS	Total Time (incl. load gauge)=0.476423 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.70755879366245e-09 Relative Rsd = 9.1607802087458e-09
+M_Unprec : 
+spin_source = 2
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.270228e-09, true = 9.270228e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.460588 s	Performance=41466.1690862636 GFLOPS	Total Time (incl. load gauge)=0.476236 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.77389873573958e-09 Relative Rsd = 9.27022778000329e-09
+M_Unprec : 
+spin_source = 3
+Diag Inv
+GCR: Convergence at 7 iterations, L2 relative residual: iterated = 9.323860e-09, true = 9.323860e-09 (requested = 1.000000e-08)
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=0.459689 s	Performance=41547.2632303666 GFLOPS	Total Time (incl. load gauge)=0.475332 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 7 iterations. Rsd = 5.80670339842893e-09 Relative Rsd = 9.32385954882833e-09
+M_Unprec : 
+Time to assemble and transmogrify propagators for colorvec_src= 31  time = 2.34292 secs
+Write propagator solutions to disk
+Write propagator solution to disk
+Time to write propagators for colorvec_src= 31  time = 49.596941 secs
+Propagators computed: time= 1662.496048 secs
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Destructing
+PROP_DISTILLATION: total time = 1699.018881 secs
+PROP_DISTILLATION: ran successfully
+Wrote Checksum On Map: 2264966313
+MapObjectDisk: Closed file /mnt/bb/bjoo/prop.1040a.mod for write access
+ERASE_QUDA_MULTIGRID_SUBSPACE: object erase
+Attempt to erase object name = mg_subspace
+ERASE_QUDA_MULTIGRID_SUBSPACE: ran successfully
+CHROMA: measurements: time= 1699.032637 secs
+CHROMA: total time = 1758.660124 secs
+CHROMA: ran successfully
+Saving 256 sets of cached parameters to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/48_512/run/profile_64_128453_0.tsv
+Saving 0 sets of cached profiles to /gpfs/alpine/proj-shared/stf016/bjoo/INCITE/Props/48_512/run/profile_64_128453_0_async.tsv
+
+               initQuda Total time =     0.691 secs
+                     init     =     0.691 secs (100.000%),	 with        2 calls at 3.455e+05 us per call
+        total accounted       =     0.691 secs (100.000%)
+        total missing         =     0.000 secs (  0.000%)
+
+          loadGaugeQuda Total time =     0.101 secs
+                 download     =     0.073 secs ( 71.902%),	 with        1 calls at 7.275e+04 us per call
+                     init     =     0.026 secs ( 25.311%),	 with        1 calls at 2.561e+04 us per call
+                  compute     =     0.003 secs (  2.633%),	 with        1 calls at 2.664e+03 us per call
+                     free     =     0.000 secs (  0.011%),	 with        1 calls at 1.100e+01 us per call
+        total accounted       =     0.101 secs ( 99.857%)
+        total missing         =     0.000 secs (  0.143%)
+
+         loadCloverQuda Total time =     0.056 secs
+                 download     =     0.020 secs ( 35.629%),	 with        1 calls at 2.001e+04 us per call
+                     init     =     0.000 secs (  0.043%),	 with        2 calls at 1.200e+01 us per call
+                     free     =     0.000 secs (  0.005%),	 with        1 calls at 3.000e+00 us per call
+        total accounted       =     0.020 secs ( 35.678%)
+        total missing         =     0.036 secs ( 64.322%)
+
+             invertQuda Total time =    86.799 secs
+                 download     =     0.031 secs (  0.036%),	 with      128 calls at 2.445e+02 us per call
+                   upload     =     0.001 secs (  0.002%),	 with      128 calls at 1.161e+01 us per call
+                     init     =    25.546 secs ( 29.431%),	 with      129 calls at 1.980e+05 us per call
+                 preamble     =     1.202 secs (  1.385%),	 with      256 calls at 4.697e+03 us per call
+                  compute     =    59.228 secs ( 68.236%),	 with      128 calls at 4.627e+05 us per call
+                 epilogue     =     0.668 secs (  0.770%),	 with      384 calls at 1.740e+03 us per call
+                     free     =     0.109 secs (  0.126%),	 with      385 calls at 2.842e+02 us per call
+        total accounted       =    86.786 secs ( 99.986%)
+        total missing         =     0.012 secs (  0.014%)
+
+                endQuda Total time =     0.270 secs
+
+       initQuda-endQuda Total time =  1759.626 secs
+
+                   QUDA Total time =    87.913 secs
+                 download     =     0.124 secs (  0.141%),	 with      130 calls at 9.542e+02 us per call
+                   upload     =     0.001 secs (  0.002%),	 with      128 calls at 1.169e+01 us per call
+                     init     =    26.263 secs ( 29.874%),	 with      134 calls at 1.960e+05 us per call
+                 preamble     =     1.202 secs (  1.368%),	 with      256 calls at 4.697e+03 us per call
+                  compute     =    59.230 secs ( 67.374%),	 with      129 calls at 4.592e+05 us per call
+                 epilogue     =     0.668 secs (  0.760%),	 with      384 calls at 1.740e+03 us per call
+                     free     =     0.109 secs (  0.124%),	 with      387 calls at 2.828e+02 us per call
+        total accounted       =    87.598 secs ( 99.642%)
+        total missing         =     0.315 secs (  0.358%)
+
+Device memory used = 20310.5 MiB
+Pinned device memory used = 976.0 MiB
+Managed memory used = 0.0 MiB
+Page-locked host memory used = 989.5 MiB
+Total host memory used >= 1165.8 MiB
+
+Peer-to-peer enabled for rank  24 (gpu=0) with neighbor  25 (gpu=1) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  13 (gpu=5) with neighbor  12 (gpu=4) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  13 (gpu=5) with neighbor  14 (gpu=6) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  12 (gpu=4) with neighbor  11 (gpu=3) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  12 (gpu=4) with neighbor  13 (gpu=5) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  15 (gpu=7) with neighbor  14 (gpu=6) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  14 (gpu=6) with neighbor  13 (gpu=5) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  14 (gpu=6) with neighbor  15 (gpu=7) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   8 (gpu=0) with neighbor   9 (gpu=1) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   9 (gpu=1) with neighbor   8 (gpu=0) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   9 (gpu=1) with neighbor  10 (gpu=2) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  27 (gpu=3) with neighbor  26 (gpu=2) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  27 (gpu=3) with neighbor  28 (gpu=4) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  28 (gpu=4) with neighbor  27 (gpu=3) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  28 (gpu=4) with neighbor  29 (gpu=5) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  10 (gpu=2) with neighbor   9 (gpu=1) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  10 (gpu=2) with neighbor  11 (gpu=3) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  25 (gpu=1) with neighbor  24 (gpu=0) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  25 (gpu=1) with neighbor  26 (gpu=2) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  26 (gpu=2) with neighbor  25 (gpu=1) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  26 (gpu=2) with neighbor  27 (gpu=3) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  30 (gpu=6) with neighbor  29 (gpu=5) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  30 (gpu=6) with neighbor  31 (gpu=7) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  31 (gpu=7) with neighbor  30 (gpu=6) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   3 (gpu=3) with neighbor   2 (gpu=2) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   3 (gpu=3) with neighbor   4 (gpu=4) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  17 (gpu=1) with neighbor  16 (gpu=0) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  17 (gpu=1) with neighbor  18 (gpu=2) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  29 (gpu=5) with neighbor  28 (gpu=4) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  29 (gpu=5) with neighbor  30 (gpu=6) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  19 (gpu=3) with neighbor  18 (gpu=2) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  19 (gpu=3) with neighbor  20 (gpu=4) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  23 (gpu=7) with neighbor  22 (gpu=6) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  18 (gpu=2) with neighbor  17 (gpu=1) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  18 (gpu=2) with neighbor  19 (gpu=3) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  22 (gpu=6) with neighbor  21 (gpu=5) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  22 (gpu=6) with neighbor  23 (gpu=7) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  16 (gpu=0) with neighbor  17 (gpu=1) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  20 (gpu=4) with neighbor  19 (gpu=3) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  20 (gpu=4) with neighbor  21 (gpu=5) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  21 (gpu=5) with neighbor  20 (gpu=4) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  21 (gpu=5) with neighbor  22 (gpu=6) dir=1, dim=3, access rank = (  4)
+
+        ------------------------
+        -- qdp-jit statistics --
+        ------------------------
+
+Memory cache 
+  lattice objects copied to host memory:   40
+  lattice objects copied to device memory: 16420
+
+Pool allocator 
+  peak memory usage:                       43574730624
+Code generator 
+  functions jit-compiled:                  59
+  total time for IR builder:               0.011019 s
+  total time for libm IR linking:          0.044553 s
+  total time for IR passes:                0.002789 s
+  total time for code generation:          1.615316 s
+  total time for linking:                  1.645132 s
+  total time for dynamic loading:          0.021997 s
+Peer-to-peer enabled for rank  11 (gpu=3) with neighbor  10 (gpu=2) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank  11 (gpu=3) with neighbor  12 (gpu=4) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   2 (gpu=2) with neighbor   1 (gpu=1) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   2 (gpu=2) with neighbor   3 (gpu=3) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   4 (gpu=4) with neighbor   3 (gpu=3) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   4 (gpu=4) with neighbor   5 (gpu=5) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   1 (gpu=1) with neighbor   0 (gpu=0) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   1 (gpu=1) with neighbor   2 (gpu=2) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   7 (gpu=7) with neighbor   6 (gpu=6) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   6 (gpu=6) with neighbor   5 (gpu=5) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   6 (gpu=6) with neighbor   7 (gpu=7) dir=1, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   5 (gpu=5) with neighbor   4 (gpu=4) dir=0, dim=3, access rank = (  4)
+Peer-to-peer enabled for rank   5 (gpu=5) with neighbor   6 (gpu=6) dir=1, dim=3, access rank = (  4)
