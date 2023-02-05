@@ -1,0 +1,920 @@
+QDP use OpenMP threading. We have 8 threads
+Affinity reporting not implemented for this architecture
+Initialize done
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Disabling GPU-Direct RDMA access
+QUDA 0.9.0 (git v0.9.0a1-with_v.0.8_milc_interface-472-g8c4c6116-sm_35)
+CUDA Driver version = 7050
+CUDA Runtime version = 7050
+Found device 0: Tesla K20X
+Using device 0: Tesla K20X
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+Initializing QUDA
+WARNING: Data reordering done on GPU (set with QUDA_REORDER_LOCATION=GPU/CPU)
+WARNING: Using device memory pool allocator
+WARNING: Using pinned memory pool allocator
+Loaded 338 sets of cached parameters from /lustre/atlas2/lgt003/scratch/bjoo/QUDAMG_FOM/tunecache.tsv
+bool Chroma::MapObjectDiskEnv::registerAll(): registering map obj key colorvec
+Linkage = 0
+InlineMeasurements are: 
+<InlineMeasurements>
+      <elem>
+        <Name>MAKE_SOURCE</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>6</version>
+          <Source>
+            <version>2</version>
+            <SourceType>POINT_SOURCE</SourceType>
+            <j_decay>3</j_decay>
+            <t_srce>0 0 0 0</t_srce>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Source>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>PROPAGATOR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>10</version>
+          <quarkSpinType>FULL</quarkSpinType>
+          <obsvP>false</obsvP>
+          <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>CLOVER</FermAct>
+            <Mass>-0.2416</Mass>
+            <clovCoeff>1.20536588031793</clovCoeff>
+            <AnisoParam>
+              <anisoP>false</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>1</xi_0>
+              <nu>1</nu>
+            </AnisoParam>
+            <FermState>
+              <Name>STOUT_FERM_STATE</Name>
+              <rho>0.125</rho>
+              <n_smear>1</n_smear>
+              <orthog_dir>-1</orthog_dir>
+              <FermionBC>
+                <FermBC>SIMPLE_FERMBC</FermBC>
+                <boundary>1 1 1 -1</boundary>
+              </FermionBC>
+            </FermState>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2416</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1.0e-7</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>4</Pipeline>
+            <MaxIter>500</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_8</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Residual>0.2</Residual>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <RelaxationOmegaMG>1.0</RelaxationOmegaMG>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <MaxIterations>12</MaxIterations>
+              <SmootherType>MR</SmootherType>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_8</Reconstruct>
+              <NullVectors>24 32</NullVectors>
+              <OuterGCRNKrylov>10</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <SetupOnGPU>1</SetupOnGPU>
+              <Pre-SmootherApplications>4 4</Pre-SmootherApplications>
+              <Post-SmootherApplications>4 4</Post-SmootherApplications>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+            </MULTIGRIDParams>
+            <SubspaceID>mg_subspace</SubspaceID>
+          </InvertParam>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+          <prop_id>prop_u_pt</prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>PROPAGATOR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>10</version>
+          <quarkSpinType>FULL</quarkSpinType>
+          <obsvP>false</obsvP>
+          <numRetries>1</numRetries>
+          <FermionAction>
+            <FermAct>CLOVER</FermAct>
+            <Mass>-0.2050</Mass>
+            <clovCoeff>1.20536588031793</clovCoeff>
+            <AnisoParam>
+              <anisoP>false</anisoP>
+              <t_dir>3</t_dir>
+              <xi_0>1</xi_0>
+              <nu>1</nu>
+            </AnisoParam>
+            <FermState>
+              <Name>STOUT_FERM_STATE</Name>
+              <rho>0.125</rho>
+              <n_smear>1</n_smear>
+              <orthog_dir>-1</orthog_dir>
+              <FermionBC>
+                <FermBC>SIMPLE_FERMBC</FermBC>
+                <boundary>1 1 1 -1</boundary>
+              </FermionBC>
+            </FermState>
+          </FermionAction>
+          <InvertParam>
+            <invType>QUDA_MULTIGRID_CLOVER_INVERTER</invType>
+            <CloverParams>
+              <Mass>-0.2050</Mass>
+              <clovCoeff>1.20536588031793</clovCoeff>
+              <AnisoParam>
+                <anisoP>false</anisoP>
+                <t_dir>3</t_dir>
+                <xi_0>1</xi_0>
+                <nu>1</nu>
+              </AnisoParam>
+            </CloverParams>
+            <RsdTarget>1.0e-7</RsdTarget>
+            <Delta>1.0e-1</Delta>
+            <Pipeline>4</Pipeline>
+            <MaxIter>500</MaxIter>
+            <RsdToleranceFactor>100.0</RsdToleranceFactor>
+            <AntiPeriodicT>true</AntiPeriodicT>
+            <SolverType>GCR</SolverType>
+            <Verbose>false</Verbose>
+            <AsymmetricLinop>true</AsymmetricLinop>
+            <CudaReconstruct>RECONS_12</CudaReconstruct>
+            <CudaSloppyPrecision>SINGLE</CudaSloppyPrecision>
+            <CudaSloppyReconstruct>RECONS_8</CudaSloppyReconstruct>
+            <AxialGaugeFix>false</AxialGaugeFix>
+            <AutotuneDslash>true</AutotuneDslash>
+            <MULTIGRIDParams>
+              <Residual>0.2</Residual>
+              <CycleType>MG_RECURSIVE</CycleType>
+              <RelaxationOmegaMG>1.0</RelaxationOmegaMG>
+              <RelaxationOmegaOuter>1.0</RelaxationOmegaOuter>
+              <MaxIterations>12</MaxIterations>
+              <SmootherType>MR</SmootherType>
+              <Verbosity>true</Verbosity>
+              <Precision>HALF</Precision>
+              <Reconstruct>RECONS_8</Reconstruct>
+              <NullVectors>24 32</NullVectors>
+              <OuterGCRNKrylov>10</OuterGCRNKrylov>
+              <PrecondGCRNKrylov>10</PrecondGCRNKrylov>
+              <GenerateNullspace>true</GenerateNullspace>
+              <GenerateAllLevels>true</GenerateAllLevels>
+              <CheckMultigridSetup>false</CheckMultigridSetup>
+              <SetupOnGPU>1</SetupOnGPU>
+              <Pre-SmootherApplications>4 4</Pre-SmootherApplications>
+              <Post-SmootherApplications>4 4</Post-SmootherApplications>
+              <SchwarzType>ADDITIVE_SCHWARZ</SchwarzType>
+              <Blocking>
+                <elem>4 4 4 4</elem>
+                <elem>2 2 2 2</elem>
+              </Blocking>
+              <MaxIterSubspaceCreate>500 500</MaxIterSubspaceCreate>
+              <MaxIterSubspaceRefresh>500 500</MaxIterSubspaceRefresh>
+              <RsdTargetSubspaceCreate>5e-06 5e-06</RsdTargetSubspaceCreate>
+            </MULTIGRIDParams>
+            <SubspaceID>mg_subspace</SubspaceID>
+          </InvertParam>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <source_id>pt_source</source_id>
+          <prop_id>prop_s_pt</prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>pt_source</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>SINK_SMEAR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>5</version>
+          <Sink>
+            <version>2</version>
+            <SinkType>POINT_SINK</SinkType>
+            <j_decay>3</j_decay>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Sink>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <prop_id>prop_u_pt</prop_id>
+          <smeared_prop_id>prop_u_P</smeared_prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_u_pt</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>SINK_SMEAR</Name>
+        <Frequency>1</Frequency>
+        <Param>
+          <version>5</version>
+          <Sink>
+            <version>2</version>
+            <SinkType>POINT_SINK</SinkType>
+            <j_decay>3</j_decay>
+            <Displacement>
+              <version>1</version>
+              <DisplacementType>NONE</DisplacementType>
+            </Displacement>
+          </Sink>
+        </Param>
+        <NamedObject>
+          <gauge_id>default_gauge_field</gauge_id>
+          <prop_id>prop_s_pt</prop_id>
+          <smeared_prop_id>prop_s_P</smeared_prop_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_s_pt</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_QUDA_MULTIGRID_SUBSPACE</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>mg_subspace</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_u_P</object_id>
+        </NamedObject>
+      </elem>
+      <elem>
+        <Name>ERASE_NAMED_OBJECT</Name>
+        <Frequency>1</Frequency>
+        <NamedObject>
+          <object_id>prop_s_P</object_id>
+        </NamedObject>
+      </elem>
+    </InlineMeasurements>
+
+Lattice initialized:
+  problem size = 64 64 64 128
+  layout size = 32 64 64 128
+  logical machine size = 1 4 4 8
+  subgrid size = 64 16 16 16
+  total number of nodes = 128
+  total volume = 33554432
+  subgrid volume = 262144
+  Number of IO nodes = 32
+  IO grid size = 1 1 4 8
+Initializing QDPDefaultAllocator.
+Finished init of RNG
+Finished lattice layout
+CHROMA: Attempt to read gauge field
+CHROMA: Gauge initialization: cfg_type = SZINQIO
+Parallel IO read
+Reading Double Precision
+DML_partition_in times: read 1.20  send 2.82  total 5.47
+QIO_read_finished
+CHROMA: Gauge field successfully read: time= 10.346821 secs
+CHROMA: initial plaquette measurement time=10.251525 secs
+CHROMA: There are 11 measurements 
+CHROMA: parsing inline measurements time=0.044592 secs
+CHROMA: Doing 11 measurements
+MAKE_SOURCE: propagator source constructor
+Source = POINT_SOURCE
+Point source
+Link smearing type = NONE
+color = 0
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+color = 1
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+color = 2
+spin = 0
+spin = 1
+spin = 2
+spin = 3
+Attempt to update source
+Source successfully update
+MAKE_SOURCE: total time = 15.44783 secs
+MAKE_SOURCE: ran successfully
+PROPAGATOR: propagator calculation
+Snarf the source from a named buffer
+Source successfully read and parsed
+FermAct = CLOVER
+Try the various factories
+u0 is 1
+Suitable factory found: compute the quark prop
+Calling quarkProp
+In quarkProp()
+  ... constructing linop  ...2.608708 sec
+  ... constructing invLinOp u0 is 1
+tuneDslasP = 1
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating Subspace
+Creating MG subspace.
+Enabling MG Dslash Autotuning
+Setting MULTIGRID solver params
+Set Level 0 blocking as:  4 4 4 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+Basic MULTIGRID params copied.
+Creating vector of null space fields of length 24
+MG level 1 (GPU): Using curandStateMRG32k3a
+MG level 1 (GPU): Allocated array of random numbers with rng_size: 18.00 MB
+MG level 2 (GPU): Using curandStateMRG32k3a
+MG level 2 (GPU): Allocated array of random numbers with rng_size: 0.07 MB
+NewMultigridQuda state initialized.
+MULTIGRID preconditioner set.
+After call to newMultigridQuda
+Set Level 0 blocking as:  4 4 4 4
+Set Level 1 blocking as:  2 2 2 2
+Set Level 2 blocking as:  4 4 4 4
+MULTIGrid Param Dump
+QUDA Multigrid Parameters:
+QUDA Inverter Parameters:
+dslash_type = 1
+inv_type = 2
+kappa = 0.5
+tol = 1e-10
+residual_type = 1
+maxiter = 10000
+reliable_delta = 1e-10
+use_sloppy_partial_accumulator = 0
+solution_accumulator_pipeline = 1
+max_res_increase = 1
+max_res_increase_total = 10
+heavy_quark_check = 10
+pipeline = 0
+num_offset = 0
+num_src = 1
+overlap = 0
+compute_action = 0
+compute_true_res = 1
+solution_type = 0
+solve_type = 0
+matpc_type = 1
+dagger = 0
+mass_normalization = 0
+solver_normalization = 0
+preserve_source = 0
+cpu_prec = 8
+cuda_prec = 8
+input_location = 1
+output_location = 1
+clover_location = 1
+gamma_basis = 0
+dirac_order = 1
+sp_pad = 0
+gcrNkrylov = 10
+use_init_guess = 0
+omega = 1
+clover_cpu_prec = 8
+clover_cuda_prec = 8
+compute_clover_trlog = 0
+compute_clover = 0
+compute_clover_inverse = 0
+return_clover = 0
+return_clover_inverse = 0
+clover_rho = 0
+clover_order = 5
+cl_pad = 0
+clover_coeff = 1
+verbosity = 2
+iter = 0
+gflops = 0
+secs = 0
+cuda_prec_ritz = 4
+nev = 8
+max_search_dim = 64
+rhs_idx = 0
+deflation_grid = 1
+eigcg_max_restarts = 4
+max_restart_num = 3
+tol_restart = 5e-05
+inc_tol = 0.01
+eigenval_tol = 0.1
+use_resident_solution = 0
+make_resident_solution = 0
+chrono_use_resident = 0
+chrono_make_resident = 0
+chrono_replace_last = 0
+chrono_max_dim = 0
+chrono_index = 0
+extlib_type = 1
+n_level = 3
+setup_type = 0
+pre_orthonormalize = 0
+post_orthonormalize = 1
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 3
+smoother_solve_type[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+geo_block_size[i][j] = 4
+spin_block_size[i] = 2
+n_vec[i] = 24
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 4
+nu_post[i] = 4
+coarse_grid_solution_type[i] = 2
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.2
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 0
+num_setup_iter[i] = 1
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 500
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 3
+smoother_solve_type[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+geo_block_size[i][j] = 2
+spin_block_size[i] = 1
+n_vec[i] = 32
+precision_null[i] = 2
+cycle_type[i] = 3
+nu_pre[i] = 4
+nu_post[i] = 4
+coarse_grid_solution_type[i] = 2
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.2
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+verbosity[i] = 0
+setup_inv_type[i] = 1
+num_setup_iter[i] = 1
+setup_tol[i] = 5e-06
+setup_maxiter[i] = 500
+setup_maxiter_refresh[i] = 0
+coarse_solver[i] = 2
+coarse_solver_maxiter[i] = 12
+smoother[i] = 2
+smoother_solve_type[i] = 2
+smoother_schwarz_type[i] = -2147483648
+smoother_schwarz_cycle[i] = 1
+mu_factor[i] = 1
+coarse_solver_tol[i] = 0.2
+smoother_tol[i] = 0.25
+global_reduction[i] = 1
+omega[i] = 1
+location[i] = 2
+setup_location[i] = 2
+compute_null_vector = 1
+generate_all_levels = 1
+run_verify = 0
+gflops = 0
+secs = 0
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ):  subspace_create_time = 84.689532 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): init_time = 88.991807 sec. 
+ ...91.173283 sec
+  ... constructing PrecFermActQprop  ...1e-06 sec
+Creating qprop took 93.782106sec 
+Entering quarkProp4
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 6.963778e-08, true = 6.963778e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.333567 s	Performance=9813.27707605457 GFLOPS	Total Time (incl. load gauge)=3.380325 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.85273733151434e-08 Relative Rsd = 6.6949266695263e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 8.531090e-08, true = 8.531090e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.212037 s	Performance=9756.85921258815 GFLOPS	Total Time (incl. load gauge)=3.261253 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 4.20813160569745e-08 Relative Rsd = 8.0024483782713e-08
+GCR: Convergence at 22 iterations, L2 relative residual: iterated = 8.551757e-08, true = 8.551757e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.043749 s	Performance=9841.92602869159 GFLOPS	Total Time (incl. load gauge)=3.093406 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 22 iterations. Rsd = 4.46143860132917e-08 Relative Rsd = 8.08064988559611e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 6.256236e-08, true = 6.256236e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.178627 s	Performance=9748.95919159058 GFLOPS	Total Time (incl. load gauge)=3.228773 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 3.13779840100371e-08 Relative Rsd = 5.89817584851799e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 8.251618e-08, true = 8.251618e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.323245 s	Performance=9847.48760222012 GFLOPS	Total Time (incl. load gauge)=3.373811 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 4.01358442593579e-08 Relative Rsd = 7.68662173984654e-08
+GCR: Convergence at 25 iterations, L2 relative residual: iterated = 6.491808e-08, true = 6.491808e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.4869 s	Performance=9771.5609300456 GFLOPS	Total Time (incl. load gauge)=3.53891 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 25 iterations. Rsd = 3.68692619586192e-08 Relative Rsd = 6.30783587616852e-08
+GCR: Convergence at 23 iterations, L2 relative residual: iterated = 6.356583e-08, true = 6.356583e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.213834 s	Performance=9750.88477951755 GFLOPS	Total Time (incl. load gauge)=3.264906 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 23 iterations. Rsd = 3.20501561246787e-08 Relative Rsd = 6.01746314737992e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 6.914543e-08, true = 6.914543e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.37081 s	Performance=9706.12546365532 GFLOPS	Total Time (incl. load gauge)=3.419445 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.61022982286676e-08 Relative Rsd = 6.527041121309e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 8.761585e-08, true = 8.761585e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.277043 s	Performance=10091.4634801289 GFLOPS	Total Time (incl. load gauge)=3.327148 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 4.61152949213132e-08 Relative Rsd = 8.37258079375828e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 9.396265e-08, true = 9.396265e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.379245 s	Performance=9669.29595386898 GFLOPS	Total Time (incl. load gauge)=3.431427 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 4.73327772715116e-08 Relative Rsd = 8.81174414761661e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 7.331917e-08, true = 7.331917e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.37675 s	Performance=9688.08222230251 GFLOPS	Total Time (incl. load gauge)=3.427501 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.70128601123465e-08 Relative Rsd = 6.89146217223283e-08
+GCR: Convergence at 24 iterations, L2 relative residual: iterated = 7.071924e-08, true = 7.071924e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=3.369183 s	Performance=9715.14362911127 GFLOPS	Total Time (incl. load gauge)=3.419743 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 24 iterations. Rsd = 3.56580656909368e-08 Relative Rsd = 6.66007571449931e-08
+Exiting quarkProp4
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Destructing
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.374161
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.699436
+Propagator computed: time= 156.857679 secs
+Start writing propagator info
+Propagator successfully updated
+PROPAGATOR: total time = 170.386371 secs
+PROPAGATOR: ran successfully
+PROPAGATOR: propagator calculation
+Snarf the source from a named buffer
+Source successfully read and parsed
+FermAct = CLOVER
+Try the various factories
+u0 is 1
+Suitable factory found: compute the quark prop
+Calling quarkProp
+In quarkProp()
+  ... constructing linop  ...2.110006 sec
+  ... constructing invLinOp u0 is 1
+tuneDslasP = 1
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Initializing
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Basic MULTIGRID params copied.
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Creating CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Inverting CloverTerm
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Recovering subspace...
+MG level 1 (GPU): Updating operator on level 1 of 3 levels
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ):  subspace_update_time = 2.445815 sec. 
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): init_time = 6.707195 sec. 
+ ...8.902157 sec
+  ... constructing PrecFermActQprop  ...0 sec
+Creating qprop took 11.01226sec 
+Entering quarkProp4
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.847154e-08, true = 3.847154e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.152555 s	Performance=10983.4090720807 GFLOPS	Total Time (incl. load gauge)=1.211006 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 2.0990751893754e-08 Relative Rsd = 3.68766088233764e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.279183e-08, true = 3.279183e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.153074 s	Performance=10988.9295978437 GFLOPS	Total Time (incl. load gauge)=1.211401 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.59775949296121e-08 Relative Rsd = 3.06846704684229e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.329740e-08, true = 3.329740e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.151883 s	Performance=11000.2917024594 GFLOPS	Total Time (incl. load gauge)=1.210587 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.71486624784366e-08 Relative Rsd = 3.13822902374678e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.254390e-08, true = 3.254390e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.161103 s	Performance=10912.9414075272 GFLOPS	Total Time (incl. load gauge)=1.221332 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.61222867514802e-08 Relative Rsd = 3.0602888455781e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.763068e-08, true = 3.763068e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.151237 s	Performance=11006.4643571254 GFLOPS	Total Time (incl. load gauge)=1.215567 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.80752831901473e-08 Relative Rsd = 3.49591995756346e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.766023e-08, true = 3.766023e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.161177 s	Performance=10915.0394616497 GFLOPS	Total Time (incl. load gauge)=1.219073 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 2.10857303564733e-08 Relative Rsd = 3.64779226392434e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.155295e-08, true = 3.155295e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.16395 s	Performance=10886.2485562988 GFLOPS	Total Time (incl. load gauge)=1.22043 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.57160926471332e-08 Relative Rsd = 2.97983990353809e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.222927e-08, true = 3.222927e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.153854 s	Performance=10981.5011319491 GFLOPS	Total Time (incl. load gauge)=1.219348 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.66075318613698e-08 Relative Rsd = 3.03373113083944e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.388268e-08, true = 3.388268e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.173833 s	Performance=10797.3559926838 GFLOPS	Total Time (incl. load gauge)=1.232869 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.76014774631055e-08 Relative Rsd = 3.22865560460173e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 4.209923e-08, true = 4.209923e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.170872 s	Performance=10821.890870312 GFLOPS	Total Time (incl. load gauge)=1.226938 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 2.09363549852669e-08 Relative Rsd = 3.93699218096345e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 2.980622e-08, true = 2.980622e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.163069 s	Performance=10894.4946577581 GFLOPS	Total Time (incl. load gauge)=1.22047 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.48552004652158e-08 Relative Rsd = 2.79326179907588e-08
+GCR: Convergence at 12 iterations, L2 relative residual: iterated = 3.167560e-08, true = 3.167560e-08
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): time=1.146025 s	Performance=11056.5205882106 GFLOPS	Total Time (incl. load gauge)=1.211444 s
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): 12 iterations. Rsd = 1.57771124716453e-08 Relative Rsd = 2.97594076363374e-08
+Exiting quarkProp4
+QUDA_MULTIGRID_CLOVER_LINOP_SOLVER( mg_subspace ): Destructing
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.349514
+CLOV_LINOP: Time spent in clov deriv (total) = 0
+CLOV_LINOP: Time spent in clov apply/invapply (total) = 0.705295
+Propagator computed: time= 48.392477 secs
+Start writing propagator info
+Propagator successfully updated
+PROPAGATOR: total time = 62.048409 secs
+PROPAGATOR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = pt_source
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+SINK_SMEAR: Sink smearing for propagators
+Attempt to read forward propagator
+Sink_xml = <Sink>
+      <version>2</version>
+      <SinkType>POINT_SINK</SinkType>
+      <j_decay>3</j_decay>
+      <Displacement>
+        <version>1</version>
+        <DisplacementType>NONE</DisplacementType>
+      </Displacement>
+    </Sink>
+
+Sink = POINT_SINK
+Point sink
+Sink successfully updated
+SINK_SMEAR: total time = 11.386381 secs
+SINK_SMEAR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_u_pt
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+SINK_SMEAR: Sink smearing for propagators
+Attempt to read forward propagator
+Sink_xml = <Sink>
+      <version>2</version>
+      <SinkType>POINT_SINK</SinkType>
+      <j_decay>3</j_decay>
+      <Displacement>
+        <version>1</version>
+        <DisplacementType>NONE</DisplacementType>
+      </Displacement>
+    </Sink>
+
+Sink = POINT_SINK
+Point sink
+Sink successfully updated
+SINK_SMEAR: total time = 11.552826 secs
+SINK_SMEAR: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_s_pt
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+ERASE_QUDA_MULTIGRID_SUBSPACE: object erase
+Attempt to erase object name = mg_subspace
+Free array of random numbers with rng_size: 18.00 MB
+Free array of random numbers with rng_size: 0.07 MB
+ERASE_QUDA_MULTIGRID_SUBSPACE: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_u_P
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+ERASE_NAMED_OBJECT: object erase
+Attempt to erase object name = prop_s_P
+Object erased
+ERASE_NAMED_OBJECT: ran successfully
+CHROMA: measurements: time= 271.356766 secs
+CHROMA: total time = 294.766453 secs
+CHROMA: ran successfully
+WARNING: Environment variable QUDA_PROFILE_OUTPUT_BASE is not set; writing to profile.tsv and profile_async.tsv
+Saving 233 sets of cached parameters to /lustre/atlas2/lgt003/scratch/bjoo/QUDAMG_FOM/profile_0.tsv
+Saving 30 sets of cached profiles to /lustre/atlas2/lgt003/scratch/bjoo/QUDAMG_FOM/profile_async_0.tsv
+
+               initQuda Total time = 8.65694 secs
+                  init     = 8.656936 secs (   100%), with        2 calls at 4.328468e+06 us per call
+     total accounted       = 8.656936 secs (   100%)
+     total missing         = 0.000008 secs (9.24e-05%)
+
+          loadGaugeQuda Total time = 0.20407 secs
+              download     = 0.202734 secs (  99.3%), with        2 calls at 1.013670e+05 us per call
+                  init     = 0.000861 secs ( 0.422%), with        2 calls at 4.305000e+02 us per call
+               compute     = 0.000353 secs ( 0.173%), with        2 calls at 1.765000e+02 us per call
+                  free     = 0.000106 secs (0.0519%), with        2 calls at 5.300000e+01 us per call
+     total accounted       = 0.204054 secs (   100%)
+     total missing         = 0.000016 secs (0.00784%)
+
+         loadCloverQuda Total time = 0.244314 secs
+              download     = 0.238895 secs (  97.8%), with        2 calls at 1.194475e+05 us per call
+                  init     = 0.001374 secs ( 0.562%), with        4 calls at 3.435000e+02 us per call
+                  free     = 0.000009 secs (0.00368%), with        2 calls at 4.500000e+00 us per call
+     total accounted       = 0.240278 secs (  98.3%)
+     total missing         = 0.004036 secs (  1.65%)
+
+             invertQuda Total time = 141.924 secs
+              download     = 0.238166 secs ( 0.168%), with       24 calls at 9.923583e+03 us per call
+                upload     = 0.169850 secs (  0.12%), with       24 calls at 7.077083e+03 us per call
+                  init     = 84.712277 secs (  59.7%), with       25 calls at 3.388491e+06 us per call
+              preamble     = 2.446144 secs (  1.72%), with       25 calls at 9.784576e+04 us per call
+               compute     = 53.467622 secs (  37.7%), with       24 calls at 2.227818e+06 us per call
+              epilogue     = 0.339754 secs ( 0.239%), with       72 calls at 4.718806e+03 us per call
+                  free     = 0.016180 secs (0.0114%), with       73 calls at 2.216438e+02 us per call
+     total accounted       = 141.389993 secs (  99.6%)
+     total missing         = 0.534428 secs ( 0.377%)
+
+                endQuda Total time = 0.080227 secs
+
+       initQuda-endQuda Total time = 303.505 secs
+
+                   QUDA Total time = 151.106 secs
+              download     = 0.679808 secs (  0.45%), with       28 calls at 2.427886e+04 us per call
+                upload     = 0.169855 secs ( 0.112%), with       24 calls at 7.077292e+03 us per call
+                  init     = 93.371438 secs (  61.8%), with       33 calls at 2.829438e+06 us per call
+              preamble     = 2.446142 secs (  1.62%), with       25 calls at 9.784568e+04 us per call
+               compute     = 53.467974 secs (  35.4%), with       26 calls at 2.056461e+06 us per call
+              epilogue     = 0.339752 secs ( 0.225%), with       72 calls at 4.718778e+03 us per call
+                  free     = 0.016294 secs (0.0108%), with       77 calls at 2.116104e+02 us per call
+     total accounted       = 150.491263 secs (  99.6%)
+     total missing         = 0.615131 secs ( 0.407%)
+
+Device memory used = 4017.9 MB
+Pinned device memory used = 0.0 MB
+Page-locked host memory used = 451.5 MB
+Total host memory used >= 485.0 MB
+
+Application 17109784 resources: utime ~72366s, stime ~34706s, Rss ~8363140, inblocks ~166099571, outblocks ~262015948
